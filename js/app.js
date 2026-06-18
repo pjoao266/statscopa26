@@ -51,9 +51,10 @@ function formatPlayerName(info) {
 }
 
 function obterImagemSegura(urlSofascore) {
-    const VERCEL_BASE = 'https://statscopa26.vercel.app/api/image';
+    //const VERCEL_BASE = 'https://statscopa26.vercel.app/api/image';
     // Codifica a URL para evitar problemas com caracteres especiais na query string
-    return `${VERCEL_BASE}?url=${encodeURIComponent(urlSofascore)}`;
+    // return `${VERCEL_BASE}?url=${encodeURIComponent(urlSofascore)}`;
+    return urlSofascore;
 }
     // Inicializa a aplicação
     fetchData();
