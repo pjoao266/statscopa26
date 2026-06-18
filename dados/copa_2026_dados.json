@@ -206,7 +206,7 @@
       "away": "Bosnia & Herzegovina",
       "home_score": 4,
       "away_score": 1,
-      "status": "2nd half"
+      "status": "Ended"
     }
   ],
   "goals": [
@@ -1397,7 +1397,7 @@
     },
     {
       "match_id": 15186806,
-      "minute": "90+8",
+      "minute": "90+7",
       "scorer_id": 117777,
       "scorer_name": "Granit Xhaka",
       "assist_id": null,
@@ -7702,9 +7702,9 @@
       "match_id": 15186806,
       "player_id": 117777,
       "player_name": "Granit Xhaka",
-      "xg": 0.013619099743664,
+      "xg": 0.802019099743664,
       "xa": 0.0732931,
-      "rating": 7.6
+      "rating": 8.1
     },
     {
       "match_id": 15186806,
@@ -7720,7 +7720,7 @@
       "player_name": "Silvan Widmer",
       "xg": 0,
       "xa": 0.00349262,
-      "rating": 6.3
+      "rating": 6.4
     },
     {
       "match_id": 15186806,
@@ -7758,7 +7758,7 @@
       "match_id": 15186806,
       "player_id": 352296,
       "player_name": "Breel Embolo",
-      "xg": 0.1364681571722,
+      "xg": 0.15267512202263,
       "xa": 0.121228,
       "rating": 7.7
     },
@@ -7808,7 +7808,7 @@
       "player_name": "Michel Aebischer",
       "xg": 0.062050618231297,
       "xa": 0.029593,
-      "rating": 6.8
+      "rating": 6.9
     },
     {
       "match_id": 15186806,
@@ -7840,7 +7840,7 @@
       "player_name": "Fabian Rieder",
       "xg": 0,
       "xa": 0.03283,
-      "rating": 7
+      "rating": 7.1
     },
     {
       "match_id": 15186806,
@@ -7864,7 +7864,7 @@
       "player_name": "Benjamin Tahirović",
       "xg": 0,
       "xa": 0.00657324,
-      "rating": 6
+      "rating": 6.1
     },
     {
       "match_id": 15186806,
