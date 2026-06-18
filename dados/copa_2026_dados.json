@@ -7636,8 +7636,8 @@
       "player_id": 142148,
       "player_name": "Sead Kolašinac",
       "xg": 0,
-      "xa": 0.00440086,
-      "rating": 6.2
+      "xa": 0.00482784,
+      "rating": 6.3
     },
     {
       "match_id": 15186806,
@@ -7669,7 +7669,7 @@
       "player_name": "Nikola Vasilj",
       "xg": 0,
       "xa": 0.00050833,
-      "rating": 6.9
+      "rating": 7.3
     },
     {
       "match_id": 15186806,
@@ -7677,7 +7677,7 @@
       "player_name": "Breel Embolo",
       "xg": 0.1364681571722,
       "xa": 0.0122585,
-      "rating": 6.6
+      "rating": 7
     },
     {
       "match_id": 15186806,
@@ -7700,7 +7700,7 @@
       "player_id": 831488,
       "player_name": "Nikola Katić",
       "xg": 0,
-      "xa": 0.00040451,
+      "xa": 0.00071862,
       "rating": 7.2
     },
     {
@@ -7737,6 +7737,14 @@
     },
     {
       "match_id": 15186806,
+      "player_id": 1049701,
+      "player_name": "Ivan Bašić",
+      "xg": 0,
+      "xa": 0.0000945,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
       "player_id": 1102659,
       "player_name": "Benjamin Tahirović",
       "xg": 0,
@@ -7748,7 +7756,7 @@
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0,
-      "xa": 0.00530233,
+      "xa": 0.00561474,
       "rating": 6.6
     },
     {
@@ -7756,7 +7764,7 @@
       "player_id": 1118177,
       "player_name": "Tarik Muharemović",
       "xg": 0,
-      "xa": 0.00097637,
+      "xa": 0.00135412,
       "rating": 6.9
     },
     {
@@ -7764,7 +7772,7 @@
       "player_id": 1129610,
       "player_name": "Amar Memić",
       "xg": 0.015491207130253,
-      "xa": 0.00484627,
+      "xa": 0.00494613,
       "rating": 6.7
     },
     {
@@ -7772,7 +7780,7 @@
       "player_id": 1136110,
       "player_name": "Esmir Bajraktarević",
       "xg": 0,
-      "xa": 0.00025396,
+      "xa": 0.00049319,
       "rating": null
     },
     {
@@ -7780,7 +7788,7 @@
       "player_id": 1425366,
       "player_name": "Kerim Alajbegović",
       "xg": 0,
-      "xa": 0.104915,
+      "xa": 0.105834,
       "rating": 6.3
     }
   ],
