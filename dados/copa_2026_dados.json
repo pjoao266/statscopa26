@@ -7951,7 +7951,7 @@
       "player_id": 233746,
       "player_name": "Boualem Khoukhi",
       "xg": 0,
-      "xa": 0.00004156,
+      "xa": 0.00004089,
       "rating": null
     },
     {
@@ -7983,7 +7983,7 @@
       "player_id": 801411,
       "player_name": "Derek Cornelius",
       "xg": 0,
-      "xa": 0.00273406,
+      "xa": 0.00276004,
       "rating": null
     },
     {
@@ -7991,7 +7991,7 @@
       "player_id": 829207,
       "player_name": "Richie Laryea",
       "xg": 0,
-      "xa": 0.00113613,
+      "xa": 0.00457423,
       "rating": null
     },
     {
@@ -8007,7 +8007,7 @@
       "player_id": 886223,
       "player_name": "Stephen Eustaquio",
       "xg": 0,
-      "xa": 0.00630445,
+      "xa": 0.00653997,
       "rating": null
     },
     {
@@ -8022,8 +8022,8 @@
       "match_id": 15186798,
       "player_id": 935564,
       "player_name": "Jonathan David",
-      "xg": 0.0388,
-      "xa": 0.00240777,
+      "xg": 0.046366766095161,
+      "xa": 0.00481579,
       "rating": null
     },
     {
@@ -8044,10 +8044,10 @@
     },
     {
       "match_id": 15186798,
-      "player_id": 1012458,
-      "player_name": "Mahmud Abunada",
+      "player_id": 1014561,
+      "player_name": "Jassem Gaber Abdulsallam",
       "xg": 0,
-      "xa": 8.8e-7,
+      "xa": 0.00000149,
       "rating": null
     },
     {
@@ -8055,7 +8055,7 @@
       "player_id": 1134351,
       "player_name": "Ismael Koné",
       "xg": 0,
-      "xa": 0.00171505,
+      "xa": 0.00235126,
       "rating": null
     },
     {
@@ -8079,7 +8079,7 @@
       "player_id": 1464637,
       "player_name": "Ali Ahmed",
       "xg": 0,
-      "xa": 0.033845,
+      "xa": 0.0339324,
       "rating": null
     },
     {
