@@ -7943,7 +7943,7 @@
       "player_id": 155736,
       "player_name": "Maxime Crépeau",
       "xg": 0,
-      "xa": 0.00000283,
+      "xa": 0.00000509,
       "rating": null
     },
     {
@@ -7975,7 +7975,7 @@
       "player_id": 801411,
       "player_name": "Derek Cornelius",
       "xg": 0,
-      "xa": 0.00000187,
+      "xa": 0.000674,
       "rating": null
     },
     {
@@ -7983,7 +7983,7 @@
       "player_id": 829207,
       "player_name": "Richie Laryea",
       "xg": 0,
-      "xa": 0.00045075,
+      "xa": 0.00113613,
       "rating": null
     },
     {
@@ -7991,7 +7991,7 @@
       "player_id": 886223,
       "player_name": "Stephen Eustaquio",
       "xg": 0,
-      "xa": 0.00024459,
+      "xa": 0.00027627,
       "rating": null
     },
     {
@@ -8007,7 +8007,7 @@
       "player_id": 973290,
       "player_name": "Tajon Buchanan",
       "xg": 0,
-      "xa": 0.0219303,
+      "xa": 0.0231643,
       "rating": null
     },
     {
@@ -8015,7 +8015,7 @@
       "player_id": 984419,
       "player_name": "Alistair Johnston",
       "xg": 0,
-      "xa": 0.00046915,
+      "xa": 0.00496017,
       "rating": null
     },
     {
@@ -8023,7 +8023,7 @@
       "player_id": 1134351,
       "player_name": "Ismael Koné",
       "xg": 0,
-      "xa": 0.00107317,
+      "xa": 0.00171505,
       "rating": null
     },
     {
@@ -8039,7 +8039,15 @@
       "player_id": 1413129,
       "player_name": "Luc De Fougerolles",
       "xg": 0,
-      "xa": 0.00124194,
+      "xa": 0.00284082,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1464637,
+      "player_name": "Ali Ahmed",
+      "xg": 0,
+      "xa": 0.0164853,
       "rating": null
     }
   ],
