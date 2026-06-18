@@ -7604,31 +7604,31 @@
       "player_id": 14990,
       "player_name": "Edin Džeko",
       "xg": 0.044736918061972,
-      "xa": 0.00040073,
-      "rating": 6.5
+      "xa": 0.14646,
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.00955448,
-      "rating": 6.6
+      "xa": 0.0141905,
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
-      "xa": 0.0308978,
-      "rating": 6.7
+      "xa": 0.0493273,
+      "rating": 6.9
     },
     {
       "match_id": 15186806,
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.039177,
+      "xa": 0.0443638,
       "rating": 7.1
     },
     {
@@ -7636,7 +7636,7 @@
       "player_id": 142148,
       "player_name": "Sead Kolašinac",
       "xg": 0,
-      "xa": 0.00001155,
+      "xa": 0.0007496,
       "rating": 6.2
     },
     {
@@ -7644,7 +7644,7 @@
       "player_id": 157377,
       "player_name": "Silvan Widmer",
       "xg": 0,
-      "xa": 0.00220376,
+      "xa": 0.00309619,
       "rating": 6.3
     },
     {
@@ -7652,15 +7652,15 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.00596508,
-      "rating": 6.9
+      "xa": 0.0141701,
+      "rating": 7
     },
     {
       "match_id": 15186806,
       "player_id": 283833,
       "player_name": "Ivan Šunjić",
       "xg": 0,
-      "xa": 0.00002896,
+      "xa": 0.00097525,
       "rating": 6.6
     },
     {
@@ -7668,7 +7668,7 @@
       "player_id": 325061,
       "player_name": "Nikola Vasilj",
       "xg": 0,
-      "xa": 0.00000239,
+      "xa": 0.00010916,
       "rating": 6.5
     },
     {
@@ -7684,7 +7684,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.00968704,
+      "xa": 0.0134353,
       "rating": 6.9
     },
     {
@@ -7692,7 +7692,7 @@
       "player_id": 556866,
       "player_name": "Gregor Kobel",
       "xg": 0,
-      "xa": 0.00014303,
+      "xa": 0.00014705,
       "rating": 6.5
     },
     {
@@ -7700,16 +7700,16 @@
       "player_id": 831488,
       "player_name": "Nikola Katić",
       "xg": 0,
-      "xa": 0.00000367,
-      "rating": 6.6
+      "xa": 0.00001727,
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
       "player_id": 850891,
       "player_name": "Michel Aebischer",
       "xg": 0,
-      "xa": 0.00654517,
-      "rating": 6.6
+      "xa": 0.0178143,
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
@@ -7724,7 +7724,7 @@
       "player_id": 929620,
       "player_name": "Fabian Rieder",
       "xg": 0,
-      "xa": 0.022671,
+      "xa": 0.0235697,
       "rating": 7
     },
     {
@@ -7732,7 +7732,7 @@
       "player_id": 944327,
       "player_name": "Dan Ndoye",
       "xg": 0.034799513407052,
-      "xa": 0.00536494,
+      "xa": 0.00837867,
       "rating": 6.4
     },
     {
@@ -7740,7 +7740,7 @@
       "player_id": 1102659,
       "player_name": "Benjamin Tahirović",
       "xg": 0,
-      "xa": 0.00004914,
+      "xa": 0.00381606,
       "rating": 6.2
     },
     {
@@ -7748,7 +7748,7 @@
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0,
-      "xa": 0.00333199,
+      "xa": 0.00334122,
       "rating": 6.5
     },
     {
@@ -7756,15 +7756,15 @@
       "player_id": 1118177,
       "player_name": "Tarik Muharemović",
       "xg": 0,
-      "xa": 0.00026699,
-      "rating": 6.5
+      "xa": 0.00037107,
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
       "player_id": 1129610,
       "player_name": "Amar Memić",
-      "xg": 0,
-      "xa": 0.00012519,
+      "xg": 0.0285,
+      "xa": 0.00286342,
       "rating": 6.6
     },
     {
@@ -7772,7 +7772,7 @@
       "player_id": 1425366,
       "player_name": "Kerim Alajbegović",
       "xg": 0,
-      "xa": 0.00000352,
+      "xa": 0.0089863,
       "rating": 6.4
     }
   ],
