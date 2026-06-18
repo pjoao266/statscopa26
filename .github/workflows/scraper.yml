@@ -35,8 +35,13 @@ jobs:
         run: |
           git config --global user.name "Robo da Copa"
           git config --global user.email "actions@github.com"
-          git pull origin main --rebase
+          
+          # 1. Primeiro você "molda" a alteração local com add e commit
           git add dados/copa_2026_dados.json
-          # Só faz o commit se houver alguma diferença nos dados
           git commit -m "Atualizando estatísticas da Copa ⚽" || echo "Nenhum dado novo para salvar."
-          git push
+          
+          # 2. Agora que o ambiente está limpo, você sincroniza com o servidor com segurança
+          git pull origin main --rebase
+          
+          # 3. Envia o JSON atualizado para o seu repositório
+          git push origin main
