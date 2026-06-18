@@ -595,7 +595,7 @@ function obterImagemSegura(urlSofascore) {
             <div class="col-lg-4 col-md-6">
                 <div class="card bg-black border-secondary hover-card h-100 shadow-sm p-3">
                     <div class="d-flex align-items-center">
-                        <img src="${obtenerImagemSegura(imgUrl)}" alt="${info.name || 'Desconhecido'}" class="img-thumbnail-circle me-3" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
+                        <img src="${obterImagemSegura(imgUrl)}" alt="${info.name || 'Desconhecido'}" class="img-thumbnail-circle me-3" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
                         <div class="flex-grow-1">
                             <h6 class="fw-bold mb-1">${formatPlayerName(info)}</h6>
                             <div class="small text-muted mb-1">${info.club_country || 'Seleção'} • ${info.club || '-'}</div>
