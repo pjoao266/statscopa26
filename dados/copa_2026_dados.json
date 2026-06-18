@@ -7642,7 +7642,7 @@
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.0363674,
+      "xa": 0.0363829,
       "rating": 6.8
     },
     {
@@ -7650,7 +7650,7 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
-      "xa": 0.262701,
+      "xa": 0.263019,
       "rating": 7.5
     },
     {
@@ -7658,7 +7658,7 @@
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.0669193,
+      "xa": 0.067095,
       "rating": 7.6
     },
     {
@@ -7682,7 +7682,7 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.0166954,
+      "xa": 0.0173081,
       "rating": 7
     },
     {
@@ -7706,7 +7706,7 @@
       "player_id": 352296,
       "player_name": "Breel Embolo",
       "xg": 0.1364681571722,
-      "xa": 0.132364,
+      "xa": 0.121228,
       "rating": 7.7
     },
     {
@@ -7714,7 +7714,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.0202449,
+      "xa": 0.0217401,
       "rating": 7.8
     },
     {
@@ -7727,10 +7727,18 @@
     },
     {
       "match_id": 15186806,
+      "player_id": 795421,
+      "player_name": "Amir Hadžiahmetović",
+      "xg": 0,
+      "xa": 0.00000505,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
       "player_id": 799054,
       "player_name": "Djibril Sow",
       "xg": 0,
-      "xa": 0.0060354,
+      "xa": 0.0062105,
       "rating": 6.6
     },
     {
@@ -7764,6 +7772,14 @@
       "xg": 0,
       "xa": 0.0213253,
       "rating": 6.3
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 927797,
+      "player_name": "Jovo Lukić",
+      "xg": 0,
+      "xa": 0.00002508,
+      "rating": null
     },
     {
       "match_id": 15186806,
@@ -7812,6 +7828,14 @@
       "xg": 0,
       "xa": 0.0013943,
       "rating": 6.3
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 1127823,
+      "player_name": "Luca Jaquez",
+      "xg": 0,
+      "xa": 0.00318866,
+      "rating": null
     },
     {
       "match_id": 15186806,
