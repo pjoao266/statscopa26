@@ -7619,7 +7619,7 @@
       "match_id": 15186806,
       "player_id": 115516,
       "player_name": "Remo Freuler",
-      "xg": 0.0248,
+      "xg": 0.015920124948025,
       "xa": 0.0308978,
       "rating": 6.7
     },
@@ -7637,7 +7637,7 @@
       "player_name": "Sead Kolašinac",
       "xg": 0,
       "xa": 0.00001155,
-      "rating": 6.4
+      "rating": 6.3
     },
     {
       "match_id": 15186806,
@@ -7677,7 +7677,7 @@
       "player_name": "Breel Embolo",
       "xg": 0,
       "xa": 0.0120195,
-      "rating": 6.7
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
