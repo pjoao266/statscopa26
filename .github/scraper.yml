@@ -1,0 +1,39 @@
+name: Atualizar Dados da Copa
+
+on:
+  schedule:
+    # Roda a cada 15 minutos
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Cria um botão no GitHub para você rodar manualmente quando quiser
+
+jobs:
+  rodar-scraper:
+    runs-on: ubuntu-latest
+    
+    # Dá permissão para o robô fazer commits no seu repositório
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Baixar o código
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Preparar o Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Instalar dependências
+        run: npm install
+
+      - name: 🏃 Rodar o Scraper
+        run: node src/scraper.mjs
+
+      - name: 💾 Salvar os dados novos no GitHub
+        run: |
+          git config --global user.name "Robo da Copa"
+          git config --global user.email "actions@github.com"
+          git add dados/copa_2026_dados.json
+          # Só faz o commit se houver alguma diferença nos dados
+          git commit -m "Atualizando estatísticas da Copa ⚽" || echo "Nenhum dado novo para salvar."
+          git push

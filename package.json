@@ -5,7 +5,7 @@
   "main": "src/scraper.mjs",
   "type": "module",
   "scripts": {
-    "start": "node ../src/scraper.mjs"
+    "start": "node /src/scraper.mjs"
   },
   "keywords": [],
   "author": "",
