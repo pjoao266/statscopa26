@@ -7603,7 +7603,7 @@
       "match_id": 15186806,
       "player_id": 14990,
       "player_name": "Edin Džeko",
-      "xg": 0.115436918061972,
+      "xg": 0.154210049659012,
       "xa": 0.146473,
       "rating": 6.6
     },
@@ -7613,7 +7613,7 @@
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
       "xa": 0.0158852,
-      "rating": 6.8
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
@@ -7621,7 +7621,7 @@
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
       "xa": 0.0519399,
-      "rating": 7
+      "rating": 7.2
     },
     {
       "match_id": 15186806,
@@ -7653,14 +7653,14 @@
       "player_name": "Nico Elvedi",
       "xg": 0,
       "xa": 0.0142328,
-      "rating": 7
+      "rating": 6.9
     },
     {
       "match_id": 15186806,
       "player_id": 283833,
       "player_name": "Ivan Šunjić",
       "xg": 0,
-      "xa": 0.0009999,
+      "xa": 0.00105042,
       "rating": 6.6
     },
     {
@@ -7668,7 +7668,7 @@
       "player_id": 325061,
       "player_name": "Nikola Vasilj",
       "xg": 0,
-      "xa": 0.00011015,
+      "xa": 0.00046778,
       "rating": 6.5
     },
     {
@@ -7677,14 +7677,14 @@
       "player_name": "Breel Embolo",
       "xg": 0,
       "xa": 0.0120195,
-      "rating": 6.6
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.0136523,
+      "xa": 0.0136528,
       "rating": 6.9
     },
     {
@@ -7693,14 +7693,14 @@
       "player_name": "Gregor Kobel",
       "xg": 0,
       "xa": 0.00014914,
-      "rating": 6.6
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 831488,
       "player_name": "Nikola Katić",
       "xg": 0,
-      "xa": 0.00065315,
+      "xa": 0.0003255,
       "rating": 6.7
     },
     {
@@ -7716,8 +7716,8 @@
       "player_id": 878081,
       "player_name": "Ermedin Demirović",
       "xg": 0,
-      "xa": 0.012459,
-      "rating": 6.3
+      "xa": 0.0126148,
+      "rating": 6.4
     },
     {
       "match_id": 15186806,
@@ -7733,14 +7733,14 @@
       "player_name": "Dan Ndoye",
       "xg": 0.034799513407052,
       "xa": 0.00887132,
-      "rating": 6.4
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 1102659,
       "player_name": "Benjamin Tahirović",
       "xg": 0,
-      "xa": 0.00383597,
+      "xa": 0.00387964,
       "rating": 6.2
     },
     {
@@ -7748,15 +7748,15 @@
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0,
-      "xa": 0.00509899,
-      "rating": 6.6
+      "xa": 0.00517625,
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 1118177,
       "player_name": "Tarik Muharemović",
       "xg": 0,
-      "xa": 0.00037191,
+      "xa": 0.00051013,
       "rating": 6.6
     },
     {
@@ -7764,7 +7764,7 @@
       "player_id": 1129610,
       "player_name": "Amar Memić",
       "xg": 0.015491207130253,
-      "xa": 0.00286342,
+      "xa": 0.00288189,
       "rating": 6.6
     },
     {
