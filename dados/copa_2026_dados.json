@@ -204,7 +204,7 @@
       "match_id": 15186806,
       "home": "Switzerland",
       "away": "Bosnia & Herzegovina",
-      "home_score": 3,
+      "home_score": 4,
       "away_score": 1,
       "status": "2nd half"
     }
@@ -1394,6 +1394,21 @@
       "is_home": true,
       "is_own_goal": false,
       "is_winning_goal": true
+    },
+    {
+      "match_id": 15186806,
+      "minute": "90+8",
+      "scorer_id": 117777,
+      "scorer_name": "Granit Xhaka",
+      "assist_id": null,
+      "assist_name": null,
+      "goal_type": "Penalti",
+      "box_location": "Dentro da area",
+      "impact": "Ampliar",
+      "is_tie": false,
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
     },
     {
       "match_id": 15186806,
@@ -7697,7 +7712,7 @@
       "player_name": "Sead Kolašinac",
       "xg": 0,
       "xa": 0.00840478,
-      "rating": 5.9
+      "rating": 5.6
     },
     {
       "match_id": 15186806,
@@ -7729,7 +7744,7 @@
       "player_name": "Nikola Vasilj",
       "xg": 0,
       "xa": 0.00053102,
-      "rating": 5.5
+      "rating": 5.4
     },
     {
       "match_id": 15186806,
@@ -7737,7 +7752,7 @@
       "player_name": "Cédric Itten",
       "xg": 0,
       "xa": 0.00001753,
-      "rating": null
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
@@ -7753,7 +7768,7 @@
       "player_name": "Manuel Akanji",
       "xg": 0,
       "xa": 0.0324834,
-      "rating": 7.6
+      "rating": 7.8
     },
     {
       "match_id": 15186806,
@@ -7769,7 +7784,7 @@
       "player_name": "Amir Hadžiahmetović",
       "xg": 0,
       "xa": 0.00017257,
-      "rating": 6.4
+      "rating": 6.3
     },
     {
       "match_id": 15186806,
@@ -7777,7 +7792,7 @@
       "player_name": "Djibril Sow",
       "xg": 0,
       "xa": 0.00760031,
-      "rating": 6.6
+      "rating": 7
     },
     {
       "match_id": 15186806,
@@ -7785,7 +7800,7 @@
       "player_name": "Nikola Katić",
       "xg": 0,
       "xa": 0.00145136,
-      "rating": 6.6
+      "rating": 6.3
     },
     {
       "match_id": 15186806,
@@ -7857,7 +7872,7 @@
       "player_name": "Amar Dedić",
       "xg": 0.015353715978563,
       "xa": 0.00711331,
-      "rating": 6
+      "rating": 5.8
     },
     {
       "match_id": 15186806,
@@ -7873,7 +7888,7 @@
       "player_name": "Luca Jaquez",
       "xg": 0,
       "xa": 0.00580033,
-      "rating": 6.3
+      "rating": 6.4
     },
     {
       "match_id": 15186806,
@@ -7881,7 +7896,7 @@
       "player_name": "Amar Memić",
       "xg": 0.015491207130253,
       "xa": 0.00857632,
-      "rating": 6.5
+      "rating": 5.9
     },
     {
       "match_id": 15186806,
@@ -7897,7 +7912,7 @@
       "player_name": "Ermin Mahmić",
       "xg": 0.043313704431057,
       "xa": 0,
-      "rating": 7.6
+      "rating": 7.4
     },
     {
       "match_id": 15186806,
@@ -7905,7 +7920,7 @@
       "player_name": "Kerim Alajbegović",
       "xg": 0,
       "xa": 0.106005,
-      "rating": 6.2
+      "rating": 6.1
     },
     {
       "match_id": 15186806,
