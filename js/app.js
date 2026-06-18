@@ -59,7 +59,6 @@ function formatPlayerName(info) {
         badge.innerHTML = '<i class="fa-solid fa-spinner fa-spin me-1"></i> Sincronizando...';
         
         try {
-            // !!! TROQUE AQUI PELA URL QUE A VERCEL LHE DEU !!!
             const urlVercel = 'https://statscopa26.vercel.app/api/sync';
             
             const res = await fetch(urlVercel, { method: 'POST' });
