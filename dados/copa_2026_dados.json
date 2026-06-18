@@ -7943,7 +7943,7 @@
       "player_id": 155736,
       "player_name": "Maxime Crépeau",
       "xg": 0,
-      "xa": 7e-7,
+      "xa": 0.00000283,
       "rating": null
     },
     {
@@ -7966,8 +7966,16 @@
       "match_id": 15186798,
       "player_id": 797734,
       "player_name": "Edmilson Junior",
-      "xg": 0.0606,
+      "xg": 0.14088580012321,
       "xa": 0.00000447,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 801411,
+      "player_name": "Derek Cornelius",
+      "xg": 0,
+      "xa": 0.00000187,
       "rating": null
     },
     {
@@ -7991,7 +7999,7 @@
       "player_id": 933433,
       "player_name": "Homam Al-Amin",
       "xg": 0,
-      "xa": 0.0395529,
+      "xa": 0.040091,
       "rating": null
     },
     {
@@ -8031,7 +8039,7 @@
       "player_id": 1413129,
       "player_name": "Luc De Fougerolles",
       "xg": 0,
-      "xa": 0.00072863,
+      "xa": 0.00124194,
       "rating": null
     }
   ],
