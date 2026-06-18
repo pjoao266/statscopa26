@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estatisticas Copa 2026</title>
+    <link rel="icon" type="image/png" href="https://img.sofascore.com/api/v1/unique-tournament/16/image/dark">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-body text-body transition-theme">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold text-uppercase text-warning" href="#">
+                <i class="fa-solid fa-trophy me-2"></i>Copa 2026 - Estatísticas
+            </a>
+            <div class="d-flex align-items-center">
+                <button id="theme-toggle" class="btn btn-outline-light btn-sm me-3"><i class="fa-solid fa-sun"></i></button>
+                <span id="loading-badge" class="badge bg-warning text-dark me-3"><i class="fa-solid fa-spinner fa-spin me-1"></i> Sincronizando...</span>
+                <button id="btn-refresh" class="btn btn-outline-light btn-sm"><i class="fa-solid fa-rotate-right"></i></button>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4 mb-5">
+        <ul class="nav nav-pills nav-fill gap-2 p-1 small bg-black rounded-5 shadow-sm mb-4" id="pillNav2" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active rounded-5 text-uppercase fw-bold" id="bingo-tab" data-bs-toggle="tab" data-bs-target="#bingo" type="button" role="tab" aria-selected="true"><i class="fa-solid fa-clock me-2"></i>Bingo Minutos</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link rounded-5 text-uppercase fw-bold" id="stats-tab" data-bs-toggle="tab" data-bs-target="#stats" type="button" role="tab" aria-selected="false"><i class="fa-solid fa-chart-pie me-2"></i>Estatísticas</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link rounded-5 text-uppercase fw-bold" id="ranking-tab" data-bs-toggle="tab" data-bs-target="#ranking" type="button" role="tab" aria-selected="false"><i class="fa-solid fa-medal me-2"></i>Rankings</button>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="tabContent">
+            
+            <div class="tab-pane fade show active" id="bingo" role="tabpanel" tabindex="0">
+                <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                    <div class="card-body p-4 text-center">
+                        <h3 class="fw-bold mb-3">Bingo do Tempo Regulamentar</h3>
+                        <p class="text-muted mb-4">Acompanhe quais minutos de 0 a 90+ já tiveram pelo menos um gol marcado na Copa.</p>
+                        
+                        <div class="progress mb-4" style="height: 30px; border-radius: 15px;">
+                            <div id="bingo-progress-bar" class="progress-bar bg-warning text-dark fw-bold" role="progressbar" style="width: 0%;">0%</div>
+                        </div>
+                        <h5 id="bingo-status-text" class="mb-4 text-info">Faltam -- minutos para gabaritar!</h5>
+
+                        <div id="bingo-grid" class="d-flex flex-wrap justify-content-center gap-2">
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="stats" role="tabpanel" tabindex="0">
+                <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                    <div class="card-body p-4">
+                        <div class="row align-items-center mb-4">
+                            <div class="col-md-4">
+                                <h3 class="fw-bold m-0">Análise de Desempenho</h3>
+                            </div>
+                            <div class="col-md-8 mt-3 mt-md-0 d-flex flex-wrap justify-content-md-end gap-2">
+                                <select id="stats-filter" class="form-select bg-body text-body border-secondary shadow-none flex-grow-1 flex-md-grow-0" style="width: auto;">
+                                    <option value="league">Por Liga</option>
+                                    <option value="club">Por Clube</option>
+                                    <option value="country">Por Seleção</option>
+                                    <option value="age">Por Idade</option>
+                                    <option value="height">Por Altura</option>
+                                </select>
+                                <select id="stats-sort" class="form-select bg-body text-body border-secondary shadow-none flex-grow-1 flex-md-grow-0" style="width: auto;">
+                                    <option value="goals">Ordenar por Gols</option>
+                                    <option value="assists">Ordenar por Assistências</option>
+                                    <option value="rating">Ordenar por Nota</option>
+                                    <option value="xg">Ordenar por xG</option>
+                                    <option value="xa">Ordenar por xAst</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div id="top-stats-cards" class="row g-3 mb-4">
+                            </div>
+
+                        <div class="table-responsive rounded-3">
+                            <table class="table table-hover align-middle m-0 custom-table" id="stats-table">
+                                <thead class="table-black">
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Grupo</th>
+                                        <th class="text-center">Gols</th>
+                                        <th class="text-center">Assistências</th>
+                                        <th class="text-center">xG</th>
+                                        <th class="text-center">xAst</th>
+                                        <th class="text-center">Nota Média</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="ranking" role="tabpanel" tabindex="0">
+                
+                <ul class="nav nav-tabs mb-4" id="rankingTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active fw-bold text-warning" id="gols-tab" data-bs-toggle="tab" data-bs-target="#gols-ranking" type="button" role="tab">Artilharia</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link fw-bold" id="assists-tab" data-bs-toggle="tab" data-bs-target="#assists-ranking" type="button" role="tab">Assistências</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link fw-bold" id="mvp-tab" data-bs-toggle="tab" data-bs-target="#mvp-ranking" type="button" role="tab">Pontos Gerados</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link fw-bold" id="xg-tab" data-bs-toggle="tab" data-bs-target="#xg-ranking" type="button" role="tab">Top xG</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link fw-bold" id="xa-tab" data-bs-toggle="tab" data-bs-target="#xa-ranking" type="button" role="tab">Top xAst</button>
+                    </li>
+                </ul>
+                
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="gols-ranking" role="tabpanel">
+                        <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                            <div class="card-body p-4">
+                                <h3 class="fw-bold mb-4 text-center">Top Gols</h3>
+                                <div class="row g-4" id="ranking-gols-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="assists-ranking" role="tabpanel">
+                        <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                            <div class="card-body p-4">
+                                <h3 class="fw-bold mb-4 text-center">Top Assistências</h3>
+                                <div class="row g-4" id="ranking-assists-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="mvp-ranking" role="tabpanel">
+                        <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                            <div class="card-body p-4">
+                                <h3 class="fw-bold mb-4 text-center">Ranking de Pontos Gerados</h3>
+                                <div class="row g-4" id="ranking-grid">
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="xg-ranking" role="tabpanel">
+                        <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                            <div class="card-body p-4">
+                                <h3 class="fw-bold mb-4 text-center">Top xG (Gols Esperados)</h3>
+                                <div class="row g-4" id="ranking-xg-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="xa-ranking" role="tabpanel">
+                        <div class="card bg-body-tertiary border-0 shadow-lg rounded-4">
+                            <div class="card-body p-4">
+                                <h3 class="fw-bold mb-4 text-center">Top xAst (Assistências Esperadas)</h3>
+                                <div class="row g-4" id="ranking-xa-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="modal fade" id="bingoModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content bg-body text-body">
+                <div class="modal-header border-secondary">
+                    <h5 class="modal-title fw-bold" id="bingoModalLabel">Gols no Minuto <span id="bingo-modal-min" class="text-success"></span></h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body p-0">
+                    <div class="list-group list-group-flush" id="bingo-modal-list">
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="playersModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
+            <div class="modal-content bg-body text-body">
+                <div class="modal-header border-secondary">
+                    <h5 class="modal-title fw-bold" id="playersModalLabel">Jogadores</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close" id="modal-close-btn"></button>
+                </div>
+                <div class="modal-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle m-0 custom-table" id="modal-players-table">
+                            <thead class="table-black">
+                                <tr>
+                                    <th>Jogador</th>
+                                    <th class="text-center" data-sort="goals" style="cursor:pointer; user-select:none;">Gols <span class="sort-icon ms-1"></span></th>
+                                    <th class="text-center" data-sort="assists" style="cursor:pointer; user-select:none;">Assistências <span class="sort-icon ms-1"></span></th>
+                                    <th class="text-center" data-sort="xg" style="cursor:pointer; user-select:none;">xG <span class="sort-icon ms-1"></span></th>
+                                    <th class="text-center" data-sort="xa" style="cursor:pointer; user-select:none;">xAst <span class="sort-icon ms-1"></span></th>
+                                    <th class="text-center" data-sort="rating" style="cursor:pointer; user-select:none;">Nota <span class="sort-icon ms-1"></span></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
