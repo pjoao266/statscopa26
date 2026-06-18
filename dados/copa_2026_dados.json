@@ -7612,8 +7612,8 @@
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.0141905,
-      "rating": 6.7
+      "xa": 0.0141939,
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
@@ -7628,7 +7628,7 @@
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.0443638,
+      "xa": 0.044904,
       "rating": 7.1
     },
     {
@@ -7652,7 +7652,7 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.0141701,
+      "xa": 0.0141867,
       "rating": 7
     },
     {
@@ -7684,7 +7684,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.0134353,
+      "xa": 0.0134403,
       "rating": 6.9
     },
     {
@@ -7692,8 +7692,8 @@
       "player_id": 556866,
       "player_name": "Gregor Kobel",
       "xg": 0,
-      "xa": 0.00014705,
-      "rating": 6.5
+      "xa": 0.00014914,
+      "rating": 6.9
     },
     {
       "match_id": 15186806,
@@ -7708,7 +7708,7 @@
       "player_id": 850891,
       "player_name": "Michel Aebischer",
       "xg": 0,
-      "xa": 0.0178143,
+      "xa": 0.0187725,
       "rating": 6.7
     },
     {
@@ -7724,7 +7724,7 @@
       "player_id": 929620,
       "player_name": "Fabian Rieder",
       "xg": 0,
-      "xa": 0.0235697,
+      "xa": 0.0247095,
       "rating": 7
     },
     {
@@ -7732,7 +7732,7 @@
       "player_id": 944327,
       "player_name": "Dan Ndoye",
       "xg": 0.034799513407052,
-      "xa": 0.00837867,
+      "xa": 0.00887132,
       "rating": 6.4
     },
     {
@@ -7763,7 +7763,7 @@
       "match_id": 15186806,
       "player_id": 1129610,
       "player_name": "Amar Memić",
-      "xg": 0.0285,
+      "xg": 0.015491207130253,
       "xa": 0.00286342,
       "rating": 6.6
     },
