@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apify": "^3.7.2",
     "axios": "^1.18.0",
     "express": "^5.2.1",
     "got-scraping": "^4.2.1",

@@ -27,6 +27,8 @@ jobs:
         run: npm install
 
       - name: 🏃 Rodar o Scraper
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }} 
         run: node src/scraper.mjs
 
       - name: 💾 Salvar os dados novos no GitHub
