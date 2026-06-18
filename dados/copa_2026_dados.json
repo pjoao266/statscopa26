@@ -7612,7 +7612,7 @@
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.0012253,
+      "xa": 0.00708206,
       "rating": null
     },
     {
@@ -7620,15 +7620,15 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0,
-      "xa": 0.00089194,
+      "xa": 0.00905338,
       "rating": null
     },
     {
       "match_id": 15186806,
       "player_id": 117777,
       "player_name": "Granit Xhaka",
-      "xg": 0,
-      "xa": 0.00098079,
+      "xg": 0.0254,
+      "xa": 0.00199461,
       "rating": null
     },
     {
@@ -7652,7 +7652,7 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.0008581,
+      "xa": 0.00268648,
       "rating": null
     },
     {
@@ -7676,7 +7676,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.00089247,
+      "xa": 0.00095703,
       "rating": null
     },
     {
@@ -7692,7 +7692,15 @@
       "player_id": 850891,
       "player_name": "Michel Aebischer",
       "xg": 0,
-      "xa": 0.00051959,
+      "xa": 0.00121036,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 929620,
+      "player_name": "Fabian Rieder",
+      "xg": 0,
+      "xa": 0.00294154,
       "rating": null
     },
     {
