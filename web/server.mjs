@@ -38,10 +38,10 @@ app.post('/api/sync', async (req, res) => {
 // Inicialização: Rodar o scraper e subir o servidor
 app.listen(PORT, async () => {
     console.log(`Servidor rodando na porta http://localhost:${PORT}`);
-    // console.log('Iniciando o scraper para garantir dados atualizados...');
-    // try {
-    //     await runScraper();
-    // } catch (e) {
-    //     console.error('Erro no scraper ao iniciar:', e);
-    // }
+    console.log('Iniciando o scraper para garantir dados atualizados...');
+    try {
+        await runScraper();
+    } catch (e) {
+        console.error('Erro no scraper ao iniciar:', e);
+    }
 });

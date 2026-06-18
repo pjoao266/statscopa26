@@ -2,7 +2,20 @@ import { gotScraping } from 'got-scraping';
 import fs from 'fs/promises';
 import path from 'path';
 
-const HEADERS = { "x-requested-with": "4d5955" };
+//const HEADERS = { "x-requested-with": "4d5955" };
+const HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://www.sofascore.com/",
+    "Origin": "https://www.sofascore.com",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
+    "Cache-Control": "max-age=0",
+    "x-requested-with": "4d5955"
+};
 const DADOS_DIR = "dados";
 const TOURNAMENT_ID = 16;
 const SEASON_ID = 58210;
