@@ -24,12 +24,6 @@ async function fetchJson(url) {
     // Tenta ler o proxy configurado no GitHub Actions. Se não houver, roda sem proxy (local)
     const proxyUrl = process.env.PROXY_URL || undefined;
     
-    if(proxyUrl != undefined){
-        console.log("Buscando com proxy...");
-    }else{
-        console.log("Buscando sem proxy...");
-    }
-
     const response = await gotScraping({
         url: url,
         headers: HEADERS,
@@ -421,7 +415,7 @@ export async function runScraper() {
         console.error("❌ ERRO: A raspagem falhou ou foi bloqueada. Abortando salvamento para não corromper o cache antigo.");
         return;
     }
-    
+
     const fullData = {
         matches,
         goals: allGoals,
