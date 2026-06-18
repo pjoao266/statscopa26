@@ -59,12 +59,18 @@ function formatPlayerName(info) {
         badge.innerHTML = '<i class="fa-solid fa-spinner fa-spin me-1"></i> Sincronizando...';
         
         try {
-            const res = await fetch('/api/sync', { method: 'POST' });
+            // !!! TROQUE AQUI PELA URL QUE A VERCEL LHE DEU !!!
+            const urlVercel = 'https://statscopa26.vercel.app/api/sync';
+            
+            const res = await fetch(urlVercel, { method: 'POST' });
             if(res.ok) {
-                await fetchData();
+                badge.innerHTML = '🤖 Robô acionado! Atualize a página em 1 min.';
+            } else {
+                badge.innerHTML = '❌ Erro ao acionar o robô';
             }
         } catch (e) {
             console.error("Erro no sync", e);
+            badge.innerHTML = '❌ Erro de conexão';
         } finally {
             btnRefresh.disabled = false;
         }
