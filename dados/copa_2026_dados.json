@@ -7635,15 +7635,15 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
-      "xa": 0.261302,
-      "rating": 7.4
+      "xa": 0.261339,
+      "rating": 7.5
     },
     {
       "match_id": 15186806,
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.0651492,
+      "xa": 0.0655664,
       "rating": 7.6
     },
     {
@@ -7684,7 +7684,7 @@
       "player_name": "Nikola Vasilj",
       "xg": 0,
       "xa": 0.00052654,
-      "rating": 6.1
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
@@ -7699,7 +7699,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.0180731,
+      "xa": 0.0181819,
       "rating": 7.7
     },
     {
@@ -7715,7 +7715,7 @@
       "player_id": 799054,
       "player_name": "Djibril Sow",
       "xg": 0,
-      "xa": 0.00003811,
+      "xa": 0.0002318,
       "rating": 6.5
     },
     {
@@ -7738,7 +7738,7 @@
       "match_id": 15186806,
       "player_id": 872919,
       "player_name": "Rubén Vargas",
-      "xg": 0.0812,
+      "xg": 0.094435125589371,
       "xa": 0.0124904,
       "rating": 6.8
     },
@@ -7828,7 +7828,7 @@
       "player_name": "Johan Manzambi",
       "xg": 0.063893683254719,
       "xa": 0.0119874,
-      "rating": 7.6
+      "rating": 7.5
     }
   ],
   "players_info": [
