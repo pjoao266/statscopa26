@@ -204,7 +204,7 @@
       "match_id": 15186806,
       "home": "Switzerland",
       "away": "Bosnia & Herzegovina",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 0,
       "status": "2nd half"
     }
@@ -1387,6 +1387,21 @@
       "scorer_name": "Rubén Vargas",
       "assist_id": 352296,
       "assist_name": "Breel Embolo",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Ampliar",
+      "is_tie": false,
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186806,
+      "minute": "90",
+      "scorer_id": 1518931,
+      "scorer_name": "Johan Manzambi",
+      "assist_id": 872919,
+      "assist_name": "Rubén Vargas",
       "goal_type": "Bola rolando",
       "box_location": "Dentro da area",
       "impact": "Ampliar",
@@ -7635,14 +7650,14 @@
       "player_name": "Edin Džeko",
       "xg": 0.16268037632107202,
       "xa": 0.148978,
-      "rating": 6.7
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.0363829,
+      "xa": 0.0378571,
       "rating": 6.8
     },
     {
@@ -7650,7 +7665,7 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
-      "xa": 0.263019,
+      "xa": 0.265125,
       "rating": 7.5
     },
     {
@@ -7658,7 +7673,7 @@
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.067095,
+      "xa": 0.0732285,
       "rating": 7.6
     },
     {
@@ -7667,7 +7682,7 @@
       "player_name": "Sead Kolašinac",
       "xg": 0,
       "xa": 0.00840418,
-      "rating": 6.2
+      "rating": 5.9
     },
     {
       "match_id": 15186806,
@@ -7682,7 +7697,7 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.0173081,
+      "xa": 0.0209945,
       "rating": 7.1
     },
     {
@@ -7698,8 +7713,8 @@
       "player_id": 325061,
       "player_name": "Nikola Vasilj",
       "xg": 0,
-      "xa": 0.00052654,
-      "rating": 6.1
+      "xa": 0.00052949,
+      "rating": 5.4
     },
     {
       "match_id": 15186806,
@@ -7714,7 +7729,7 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.0217401,
+      "xa": 0.0249126,
       "rating": 7.8
     },
     {
@@ -7738,7 +7753,7 @@
       "player_id": 799054,
       "player_name": "Djibril Sow",
       "xg": 0,
-      "xa": 0.0062105,
+      "xa": 0.00760031,
       "rating": 6.7
     },
     {
@@ -7747,7 +7762,7 @@
       "player_name": "Nikola Katić",
       "xg": 0,
       "xa": 0.00144913,
-      "rating": 6.8
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
@@ -7762,8 +7777,8 @@
       "player_id": 872919,
       "player_name": "Rubén Vargas",
       "xg": 0.362701207399371,
-      "xa": 0.0128756,
-      "rating": 7.8
+      "xa": 0.14765,
+      "rating": 8.5
     },
     {
       "match_id": 15186806,
@@ -7803,7 +7818,7 @@
       "player_name": "Ivan Bašić",
       "xg": 0,
       "xa": 0.00360704,
-      "rating": 6.4
+      "rating": 6.3
     },
     {
       "match_id": 15186806,
@@ -7818,8 +7833,8 @@
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0.015353715978563,
-      "xa": 0.00709771,
-      "rating": 6.2
+      "xa": 0.00710058,
+      "rating": 5.9
     },
     {
       "match_id": 15186806,
@@ -7834,7 +7849,7 @@
       "player_id": 1127823,
       "player_name": "Luca Jaquez",
       "xg": 0,
-      "xa": 0.00318866,
+      "xa": 0.00548246,
       "rating": null
     },
     {
@@ -7843,7 +7858,7 @@
       "player_name": "Amar Memić",
       "xg": 0.015491207130253,
       "xa": 0.00857632,
-      "rating": 6.6
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
@@ -7865,9 +7880,9 @@
       "match_id": 15186806,
       "player_id": 1518931,
       "player_name": "Johan Manzambi",
-      "xg": 0.063893683254719,
-      "xa": 0.012567,
-      "rating": 7.3
+      "xg": 0.527893683254719,
+      "xa": 0.015503,
+      "rating": 8.1
     }
   ],
   "players_info": [
