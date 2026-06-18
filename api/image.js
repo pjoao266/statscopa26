@@ -13,7 +13,7 @@ export default async function handler(req, res) {
     }
 
     const proxyUrl = process.env.PROXY_URL || undefined;
-
+    console.log(proxyUrl)
     try {
         // Faz a requisição camuflada para o Sofascore buscando a imagem
         const response = await gotScraping({
