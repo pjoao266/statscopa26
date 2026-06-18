@@ -7598,6 +7598,94 @@
       "xg": 0.013625109568238,
       "xa": 0.0517245,
       "rating": 6.4
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 14990,
+      "player_name": "Edin Džeko",
+      "xg": 0.0613,
+      "xa": 0.00037848,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 115516,
+      "player_name": "Remo Freuler",
+      "xg": 0,
+      "xa": 4.1e-7,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 117777,
+      "player_name": "Granit Xhaka",
+      "xg": 0,
+      "xa": 0.000104,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 142148,
+      "player_name": "Sead Kolašinac",
+      "xg": 0,
+      "xa": 0.0526214,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 157377,
+      "player_name": "Silvan Widmer",
+      "xg": 0,
+      "xa": 0.00013187,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 282229,
+      "player_name": "Nico Elvedi",
+      "xg": 0,
+      "xa": 5.1e-7,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 352296,
+      "player_name": "Breel Embolo",
+      "xg": 0,
+      "xa": 0.00013149,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 556866,
+      "player_name": "Gregor Kobel",
+      "xg": 0,
+      "xa": 0.0000016,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 1102659,
+      "player_name": "Benjamin Tahirović",
+      "xg": 0,
+      "xa": 0.00002673,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 1102791,
+      "player_name": "Amar Dedić",
+      "xg": 0,
+      "xa": 0.00331197,
+      "rating": null
+    },
+    {
+      "match_id": 15186806,
+      "player_id": 1129610,
+      "player_name": "Amar Memić",
+      "xg": 0,
+      "xa": 0.00006377,
+      "rating": null
     }
   ],
   "players_info": [
