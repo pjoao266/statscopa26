@@ -1,5 +1,198 @@
 {
-  "matches": [],
+  "matches": [
+    {
+      "match_id": 15186710,
+      "home": "Mexico",
+      "away": "South Africa",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186720,
+      "home": "South Korea",
+      "away": "Czechia",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186836,
+      "home": "Canada",
+      "away": "Bosnia & Herzegovina",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186873,
+      "home": "USA",
+      "away": "Paraguay",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186526,
+      "home": "Qatar",
+      "away": "Switzerland",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186850,
+      "home": "Brazil",
+      "away": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186853,
+      "home": "Haiti",
+      "away": "Scotland",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186874,
+      "home": "Australia",
+      "away": "Türkiye",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186899,
+      "home": "Germany",
+      "away": "Curaçao",
+      "home_score": 7,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186945,
+      "home": "Netherlands",
+      "away": "Japan",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186904,
+      "home": "Côte d'Ivoire",
+      "away": "Ecuador",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186951,
+      "home": "Sweden",
+      "away": "Tunisia",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186783,
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186837,
+      "home": "Belgium",
+      "away": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186811,
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186832,
+      "home": "Iran",
+      "away": "New Zealand",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186501,
+      "home": "France",
+      "away": "Senegal",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186773,
+      "home": "Iraq",
+      "away": "Norway",
+      "home_score": 1,
+      "away_score": 4,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186854,
+      "home": "Argentina",
+      "away": "Algeria",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186751,
+      "home": "Austria",
+      "away": "Jordan",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186709,
+      "home": "Portugal",
+      "away": "DR Congo",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186504,
+      "home": "England",
+      "away": "Croatia",
+      "home_score": 4,
+      "away_score": 2,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186687,
+      "home": "Ghana",
+      "away": "Panama",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
+      "match_id": 15186722,
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "Ended"
+    }
+  ],
   "goals": [
     {
       "match_id": 15186710,
@@ -1065,6 +1258,66 @@
       "is_home": true,
       "is_own_goal": false,
       "is_winning_goal": true
+    },
+    {
+      "match_id": 15186722,
+      "minute": "40",
+      "scorer_id": 870360,
+      "scorer_name": "Daniel Muñoz",
+      "assist_id": 883537,
+      "assist_name": "Luis Díaz",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Lideranca",
+      "is_tie": false,
+      "is_home": false,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186722,
+      "minute": "60",
+      "scorer_id": 1118429,
+      "scorer_name": "Abbosbek Fayzullaev",
+      "assist_id": null,
+      "assist_name": null,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Empate",
+      "is_tie": true,
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186722,
+      "minute": "65",
+      "scorer_id": 883537,
+      "scorer_name": "Luis Díaz",
+      "assist_id": 1174889,
+      "assist_name": "Gustavo Puerta",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Lideranca",
+      "is_tie": false,
+      "is_home": false,
+      "is_own_goal": false,
+      "is_winning_goal": true
+    },
+    {
+      "match_id": 15186722,
+      "minute": "90+9",
+      "scorer_id": 877299,
+      "scorer_name": "Jaminton Campaz",
+      "assist_id": 887055,
+      "assist_name": "Cucho Hernández",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Ampliar",
+      "is_tie": false,
+      "is_home": false,
+      "is_own_goal": false,
+      "is_winning_goal": false
     }
   ],
   "player_match_stats": [
@@ -6561,7 +6814,7 @@
       "player_id": 103045,
       "player_name": "Jordan Ayew",
       "xg": 0,
-      "xa": 0.208197,
+      "xa": 0.145054,
       "rating": 7.5
     },
     {
@@ -6576,8 +6829,8 @@
       "match_id": 15186687,
       "player_id": 159931,
       "player_name": "Cecilio Waterman",
-      "xg": 0.058104526251554,
-      "xa": 0.0179792,
+      "xg": 0.063666000962257,
+      "xa": 0.0119903,
       "rating": 6.6
     },
     {
@@ -6585,7 +6838,7 @@
       "player_id": 791092,
       "player_name": "Lawrence Ati Zigi",
       "xg": 0,
-      "xa": 0.00027554,
+      "xa": 0.00027529,
       "rating": 7.5
     },
     {
@@ -6593,7 +6846,7 @@
       "player_id": 796328,
       "player_name": "Ismael Díaz",
       "xg": 0.306210212409496,
-      "xa": 0.02484,
+      "xa": 0.0248896,
       "rating": 6.8
     },
     {
@@ -6601,7 +6854,7 @@
       "player_id": 833352,
       "player_name": "Yoel Bárcenas",
       "xg": 0.081697952002287,
-      "xa": 0.0718125,
+      "xa": 0.0724557,
       "rating": 7
     },
     {
@@ -6609,7 +6862,7 @@
       "player_id": 839493,
       "player_name": "Amir Murillo",
       "xg": 0,
-      "xa": 0.0523711,
+      "xa": 0.0533534,
       "rating": 7.5
     },
     {
@@ -6617,31 +6870,31 @@
       "player_id": 841006,
       "player_name": "Cristian Martínez",
       "xg": 0.089771822094917,
-      "xa": 0.0146046,
+      "xa": 0.0146033,
       "rating": 6.7
     },
     {
       "match_id": 15186687,
       "player_id": 841793,
       "player_name": "César Blackman",
-      "xg": 0.038369907997549,
-      "xa": 0.0169303,
-      "rating": 6.4
+      "xg": 0.036669826135039,
+      "xa": 0.0188866,
+      "rating": 6.5
     },
     {
       "match_id": 15186687,
       "player_id": 841802,
       "player_name": "Andrés Andrade",
       "xg": 0,
-      "xa": 0.365506,
-      "rating": 7.9
+      "xa": 0.364358,
+      "rating": 7.8
     },
     {
       "match_id": 15186687,
       "player_id": 842253,
       "player_name": "José Luis Rodríguez",
       "xg": 0,
-      "xa": 0.0238759,
+      "xa": 0.0222496,
       "rating": 6.1
     },
     {
@@ -6649,7 +6902,7 @@
       "player_id": 844942,
       "player_name": "Gideon Mensah",
       "xg": 0,
-      "xa": 0.0121869,
+      "xa": 0.012461,
       "rating": 7.1
     },
     {
@@ -6673,7 +6926,7 @@
       "player_id": 904424,
       "player_name": "Elisha Owusu",
       "xg": 0,
-      "xa": 0.0086723,
+      "xa": 0.00881005,
       "rating": 6.8
     },
     {
@@ -6689,7 +6942,7 @@
       "player_id": 920514,
       "player_name": "Jerome Opoku",
       "xg": 0,
-      "xa": 0.0277309,
+      "xa": 0.0273247,
       "rating": 7.3
     },
     {
@@ -6697,8 +6950,8 @@
       "player_id": 934354,
       "player_name": "Antoine Semenyo",
       "xg": 0.109278421849012,
-      "xa": 0.00765891,
-      "rating": 6.5
+      "xa": 0.00762441,
+      "rating": 6.6
     },
     {
       "match_id": 15186687,
@@ -6713,15 +6966,15 @@
       "player_id": 985131,
       "player_name": "Carlos Harvey",
       "xg": 0.046557981520891,
-      "xa": 0.0280898,
+      "xa": 0.0280806,
       "rating": 6
     },
     {
       "match_id": 15186687,
       "player_id": 1006509,
       "player_name": "Jiovany Ramos",
-      "xg": 0.130022451281547,
-      "xa": 0.0207634,
+      "xg": 0.10513197258114801,
+      "xa": 0.0208248,
       "rating": 7.7
     },
     {
@@ -6730,14 +6983,14 @@
       "player_name": "Kamaldeen Sulemana",
       "xg": 0,
       "xa": 0.128754,
-      "rating": 6.7
+      "rating": 6.8
     },
     {
       "match_id": 15186687,
       "player_id": 1087805,
       "player_name": "Marvin Senaya",
       "xg": 0,
-      "xa": 0.00545256,
+      "xa": 0.00545358,
       "rating": 7.1
     },
     {
@@ -6753,7 +7006,7 @@
       "player_id": 1105688,
       "player_name": "José Córdoba",
       "xg": 0,
-      "xa": 0.00286703,
+      "xa": 0.00296082,
       "rating": 6.3
     },
     {
@@ -6777,7 +7030,7 @@
       "player_id": 1218056,
       "player_name": "Jonas Adjei Adjetey",
       "xg": 0.12523704022169102,
-      "xa": 0.00514659,
+      "xa": 0.00518273,
       "rating": 7.6
     },
     {
@@ -6801,8 +7054,264 @@
       "player_id": 1986794,
       "player_name": "Caleb Yirenkyi",
       "xg": 0.9992191530764121,
-      "xa": 0.0103374,
+      "xa": 0.0103481,
       "rating": 7.8
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 107414,
+      "player_name": "James Rodríguez",
+      "xg": 0.09287195280194299,
+      "xa": 0.0854746,
+      "rating": 6.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 125787,
+      "player_name": "Camilo Vargas",
+      "xg": 0,
+      "xa": 0.0010856,
+      "rating": 6.2
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 333625,
+      "player_name": "Igor Sergeev",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 344847,
+      "player_name": "Johan Mojica",
+      "xg": 0.015353715978563,
+      "xa": 0.0451064,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 355796,
+      "player_name": "Jefferson Lerma",
+      "xg": 0.18258472159504902,
+      "xa": 0.0327591,
+      "rating": 6.8
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 358822,
+      "player_name": "Rustam Ashurmatov",
+      "xg": 0,
+      "xa": 0.00363042,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 358880,
+      "player_name": "Dostonbek Khamdamov",
+      "xg": 0.060707380995154006,
+      "xa": 0.0258538,
+      "rating": 6.4
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 358890,
+      "player_name": "Otabek Shukurov",
+      "xg": 0,
+      "xa": 0.0179144,
+      "rating": 6.9
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 566102,
+      "player_name": "Davinson Sánchez",
+      "xg": 0.059173811227083,
+      "xa": 0.0339509,
+      "rating": 6.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 791355,
+      "player_name": "Eldor Shomurodov",
+      "xg": 0.057225104421377,
+      "xa": 0.0085261,
+      "rating": 6
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 791592,
+      "player_name": "Utkir Yusupov",
+      "xg": 0,
+      "xa": 0.0000788,
+      "rating": 5.4
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 792386,
+      "player_name": "Farrukh Sayfiev",
+      "xg": 0,
+      "xa": 0.0305477,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 818481,
+      "player_name": "Jhon Lucumí",
+      "xg": 0,
+      "xa": 0.00927289,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 844096,
+      "player_name": "Jhon Arias",
+      "xg": 0.207431495189663,
+      "xa": 0.394172,
+      "rating": 6.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 870360,
+      "player_name": "Daniel Muñoz",
+      "xg": 0.47727313637733,
+      "xa": 0.0143398,
+      "rating": 7.4
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 871965,
+      "player_name": "Azizbek Amanov",
+      "xg": 0.018779315054417,
+      "xa": 0.010835,
+      "rating": 6.4
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 877299,
+      "player_name": "Jaminton Campaz",
+      "xg": 0.201408602297309,
+      "xa": 0.004412,
+      "rating": 7.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 883537,
+      "player_name": "Luis Díaz",
+      "xg": 0.36046893894672005,
+      "xa": 0.621639,
+      "rating": 8.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 887055,
+      "player_name": "Cucho Hernández",
+      "xg": 0,
+      "xa": 0.125336,
+      "rating": 6.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 914213,
+      "player_name": "Luis Javier Suárez",
+      "xg": 0,
+      "xa": 0.00798902,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 926479,
+      "player_name": "Akmal Mozgovoy",
+      "xg": 0.06794586032629,
+      "xa": 0.0235587,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 954524,
+      "player_name": "Abdulla Abdullaev",
+      "xg": 0,
+      "xa": 0.00525018,
+      "rating": 6.8
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 985882,
+      "player_name": "Oston Urunov",
+      "xg": 0,
+      "xa": 0.00008989,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1014276,
+      "player_name": "Sherzod Nasrullaev",
+      "xg": 0,
+      "xa": 0.00174482,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1015292,
+      "player_name": "Richard Ríos",
+      "xg": 0,
+      "xa": 0.00165791,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1066915,
+      "player_name": "Kevin Castaño",
+      "xg": 0,
+      "xa": 0.00000198,
+      "rating": 6.7
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1118429,
+      "player_name": "Abbosbek Fayzullaev",
+      "xg": 0.98225212097168,
+      "xa": 0.00026623,
+      "rating": 7.1
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1160386,
+      "player_name": "Andrés Gómez",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1174889,
+      "player_name": "Gustavo Puerta",
+      "xg": 0.0099720722064376,
+      "xa": 0.0791706,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1194333,
+      "player_name": "Abdukodir Khusanov",
+      "xg": 0,
+      "xa": 0.00404821,
+      "rating": 6.2
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1403414,
+      "player_name": "Jakhongir Urozov",
+      "xg": 0,
+      "xa": 0.00793774,
+      "rating": 6.4
+    },
+    {
+      "match_id": 15186722,
+      "player_id": 1597255,
+      "player_name": "Bekhruz Karimov",
+      "xg": 0.033651114441454,
+      "xa": 0.0054987,
+      "rating": 6.4
     }
   ],
   "players_info": [
@@ -28556,6 +29065,11 @@
       "points": 3
     },
     {
+      "player_id": "883537",
+      "player_name": "Luis Díaz",
+      "points": 3
+    },
+    {
       "player_id": "934237",
       "player_name": "Folarin Balogun",
       "points": 3
@@ -28658,6 +29172,11 @@
     {
       "player_id": "1090019",
       "player_name": "Martin Baturina",
+      "points": 1
+    },
+    {
+      "player_id": "1118429",
+      "player_name": "Abbosbek Fayzullaev",
       "points": 1
     },
     {
