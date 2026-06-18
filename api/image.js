@@ -13,11 +13,14 @@ export default async function handler(req, res) {
     }
 
     const proxyUrl = process.env.PROXY_URL || undefined;
-    if (!proxyUrl) {
-        console.log('Rodando com proxy');
-    }else{
-        console.log('Rodando sem proxy');
+    
+    // CORREÇÃO DA LÓGICA DO LOG:
+    if (proxyUrl) {
+        console.log('✅ PROXY ATIVO: Roteando requisição de imagem de forma mascarada.');
+    } else {
+        console.log('⚠️ AVISO: Nenhum proxy encontrado nas variáveis da Vercel. Usando IP direto.');
     }
+
     try {
         // Faz a requisição camuflada para o Sofascore buscando a imagem
         const response = await gotScraping({
@@ -28,14 +31,14 @@ export default async function handler(req, res) {
                 "Origin": "https://www.sofascore.com"
             },
             proxyUrl: proxyUrl,
-            responseType: 'buffer' // Crucial: avisa o Node que o retorno é um arquivo binário (imagem)
+            responseType: 'buffer' // Crucial: trata o retorno como arquivo binário
         });
 
-        // Repassa o formato exato da imagem (image/png, image/jpeg, etc) obtido do Sofascore
+        // Repassa o formato exato da imagem obtido do Sofascore
         const contentType = response.headers['content-type'] || 'image/png';
         res.setHeader('Content-Type', contentType);
 
-        // Desempenho: Guarda a imagem no cache por 1 dia para não estourar a cota do seu proxy Webshare
+        // Guarda a imagem no cache por 1 dia para economizar tráfego do seu plano de proxy
         res.setHeader('Cache-Control', 'public, max-age=86400, s-maxage=86400');
 
         // Envia o arquivo binário direto para o navegador do usuário
@@ -43,6 +46,10 @@ export default async function handler(req, res) {
 
     } catch (error) {
         console.error('Erro ao burlar imagem do Sofascore:', error.message);
-        return res.status(500).json({ error: 'Erro ao processar imagem' });
+        const statusCode = error.response?.statusCode || 500;
+        return res.status(statusCode).json({ 
+            error: 'Erro ao processar imagem', 
+            message: error.message 
+        });
     }
 }
