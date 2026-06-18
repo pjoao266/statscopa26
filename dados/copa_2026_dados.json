@@ -1,6 +1,14 @@
 {
   "matches": [
     {
+      "match_id": 15186710,
+      "home": "Mexico",
+      "away": "South Africa",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended"
+    },
+    {
       "match_id": 15186720,
       "home": "South Korea",
       "away": "Czechia",
@@ -1318,257 +1326,39 @@
       "is_home": false,
       "is_own_goal": false,
       "is_winning_goal": false
+    },
+    {
+      "match_id": 15186710,
+      "minute": "9",
+      "scorer_id": 843114,
+      "scorer_name": "Julián Quiñones",
+      "assist_id": 944068,
+      "assist_name": "Erik Lira",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Lideranca",
+      "is_tie": false,
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": true
+    },
+    {
+      "match_id": 15186710,
+      "minute": "67",
+      "scorer_id": 192442,
+      "scorer_name": "Raúl Jiménez",
+      "assist_id": 865500,
+      "assist_name": "Roberto Alvarado",
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "impact": "Ampliar",
+      "is_tie": false,
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
     }
   ],
   "player_match_stats": [
-    {
-      "match_id": 15186710,
-      "player_id": 192442,
-      "player_name": "Raúl Jiménez",
-      "xg": 0.8442866802215651,
-      "xa": 0.0118956,
-      "rating": 7.6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 539792,
-      "player_name": "Ronwen Williams",
-      "xg": 0,
-      "xa": 0.00129646,
-      "rating": 6.3
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 559504,
-      "player_name": "Themba Zwane",
-      "xg": 0,
-      "xa": 0.00299355,
-      "rating": 5.3
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 757770,
-      "player_name": "Luis Chávez",
-      "xg": 0,
-      "xa": 0.0124083,
-      "rating": 6.8
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 770253,
-      "player_name": "Jesús Gallardo",
-      "xg": 0.035084727220237,
-      "xa": 0.0549847,
-      "rating": 6.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 815637,
-      "player_name": "Alexis Vega",
-      "xg": 0,
-      "xa": 0.00672213,
-      "rating": 6.4
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 818406,
-      "player_name": "César Montes",
-      "xg": 0,
-      "xa": 0.00629034,
-      "rating": 6.8
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 822684,
-      "player_name": "Sphephelo Sithole",
-      "xg": 0,
-      "xa": 0.00251981,
-      "rating": 4.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 837099,
-      "player_name": "Aubrey Modiba",
-      "xg": 0.016079094260931,
-      "xa": 0.00267398,
-      "rating": 5.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 838629,
-      "player_name": "Álvaro Fidalgo",
-      "xg": 0,
-      "xa": 0.0084267,
-      "rating": 7.1
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 843114,
-      "player_name": "Julián Quiñones",
-      "xg": 0.370070915669204,
-      "xa": 0.0779786,
-      "rating": 8.6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 847151,
-      "player_name": "Edson Álvarez",
-      "xg": 0,
-      "xa": 0.00891164,
-      "rating": 7
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 865500,
-      "player_name": "Roberto Alvarado",
-      "xg": 0,
-      "xa": 0.712317,
-      "rating": 8.2
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 881117,
-      "player_name": "Teboho Mokoena",
-      "xg": 0,
-      "xa": 0.0110385,
-      "rating": 6.5
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 889785,
-      "player_name": "Johan Vásquez",
-      "xg": 0,
-      "xa": 0.00396203,
-      "rating": 6.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 901907,
-      "player_name": "Lyle Foster",
-      "xg": 0.042823750525713,
-      "xa": 0.0004274,
-      "rating": 5.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 902117,
-      "player_name": "Nkosinathi Sibisi",
-      "xg": 0,
-      "xa": 0.00208963,
-      "rating": 6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 936047,
-      "player_name": "Khuliso Mudau",
-      "xg": 0,
-      "xa": 0.00888132,
-      "rating": 6.5
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 944068,
-      "player_name": "Erik Lira",
-      "xg": 0,
-      "xa": 0.00234599,
-      "rating": 7.4
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 984505,
-      "player_name": "Oswin Appollis",
-      "xg": 0,
-      "xa": 0.00232247,
-      "rating": 6.6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 989236,
-      "player_name": "Israel Reyes",
-      "xg": 0.013926075771451,
-      "xa": 0.032834,
-      "rating": 7.2
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 990408,
-      "player_name": "Raúl Rangel",
-      "xg": 0,
-      "xa": 0.00404796,
-      "rating": 7.3
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 991024,
-      "player_name": "Iqraam Rayners",
-      "xg": 0,
-      "xa": 0.00302864,
-      "rating": 6.1
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1014410,
-      "player_name": "Thalente Mbatha",
-      "xg": 0,
-      "xa": 0.00010301,
-      "rating": 6.5
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1022170,
-      "player_name": "Evidence Makgopa",
-      "xg": 0,
-      "xa": 0.00915979,
-      "rating": 6.8
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1023088,
-      "player_name": "Brian Gutiérrez",
-      "xg": 0.193581195548177,
-      "xa": 0.166365,
-      "rating": 6.9
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1049669,
-      "player_name": "Jayden Adams",
-      "xg": 0,
-      "xa": 0.059524,
-      "rating": 6.6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1507710,
-      "player_name": "Ime Okon",
-      "xg": 0,
-      "xa": 0.00085624,
-      "rating": 6.3
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1595162,
-      "player_name": "Armando González",
-      "xg": 0,
-      "xa": 0.00207808,
-      "rating": 6.2
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 1914576,
-      "player_name": "Gilberto Mora",
-      "xg": 0,
-      "xa": 0.0917053,
-      "rating": 6.6
-    },
-    {
-      "match_id": 15186710,
-      "player_id": 2058228,
-      "player_name": "Mbekezeli Mbokazi",
-      "xg": 0.013625109568238,
-      "xa": 0.0517245,
-      "rating": 6.4
-    },
     {
       "match_id": 15186720,
       "player_id": 111505,
@@ -7552,6 +7342,254 @@
       "xg": 0.047950249165297,
       "xa": 0.00891732,
       "rating": 6.8
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 192442,
+      "player_name": "Raúl Jiménez",
+      "xg": 0.8442866802215651,
+      "xa": 0.0118956,
+      "rating": 7.6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 539792,
+      "player_name": "Ronwen Williams",
+      "xg": 0,
+      "xa": 0.00129646,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 559504,
+      "player_name": "Themba Zwane",
+      "xg": 0,
+      "xa": 0.00299355,
+      "rating": 5.3
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 757770,
+      "player_name": "Luis Chávez",
+      "xg": 0,
+      "xa": 0.0124083,
+      "rating": 6.8
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 770253,
+      "player_name": "Jesús Gallardo",
+      "xg": 0.035084727220237,
+      "xa": 0.0549847,
+      "rating": 6.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 815637,
+      "player_name": "Alexis Vega",
+      "xg": 0,
+      "xa": 0.00672213,
+      "rating": 6.4
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 818406,
+      "player_name": "César Montes",
+      "xg": 0,
+      "xa": 0.00629034,
+      "rating": 6.8
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 822684,
+      "player_name": "Sphephelo Sithole",
+      "xg": 0,
+      "xa": 0.00251981,
+      "rating": 4.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 837099,
+      "player_name": "Aubrey Modiba",
+      "xg": 0.016079094260931,
+      "xa": 0.00267398,
+      "rating": 5.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 838629,
+      "player_name": "Álvaro Fidalgo",
+      "xg": 0,
+      "xa": 0.0084267,
+      "rating": 7.1
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 843114,
+      "player_name": "Julián Quiñones",
+      "xg": 0.370070915669204,
+      "xa": 0.0779786,
+      "rating": 8.6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 847151,
+      "player_name": "Edson Álvarez",
+      "xg": 0,
+      "xa": 0.00891164,
+      "rating": 7
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 865500,
+      "player_name": "Roberto Alvarado",
+      "xg": 0,
+      "xa": 0.712317,
+      "rating": 8.2
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 881117,
+      "player_name": "Teboho Mokoena",
+      "xg": 0,
+      "xa": 0.0110385,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 889785,
+      "player_name": "Johan Vásquez",
+      "xg": 0,
+      "xa": 0.00396203,
+      "rating": 6.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 901907,
+      "player_name": "Lyle Foster",
+      "xg": 0.042823750525713,
+      "xa": 0.0004274,
+      "rating": 5.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 902117,
+      "player_name": "Nkosinathi Sibisi",
+      "xg": 0,
+      "xa": 0.00208963,
+      "rating": 6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 936047,
+      "player_name": "Khuliso Mudau",
+      "xg": 0,
+      "xa": 0.00888132,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 944068,
+      "player_name": "Erik Lira",
+      "xg": 0,
+      "xa": 0.00234599,
+      "rating": 7.4
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 984505,
+      "player_name": "Oswin Appollis",
+      "xg": 0,
+      "xa": 0.00232247,
+      "rating": 6.6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 989236,
+      "player_name": "Israel Reyes",
+      "xg": 0.013926075771451,
+      "xa": 0.032834,
+      "rating": 7.2
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 990408,
+      "player_name": "Raúl Rangel",
+      "xg": 0,
+      "xa": 0.00404796,
+      "rating": 7.3
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 991024,
+      "player_name": "Iqraam Rayners",
+      "xg": 0,
+      "xa": 0.00302864,
+      "rating": 6.1
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1014410,
+      "player_name": "Thalente Mbatha",
+      "xg": 0,
+      "xa": 0.00010301,
+      "rating": 6.5
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1022170,
+      "player_name": "Evidence Makgopa",
+      "xg": 0,
+      "xa": 0.00915979,
+      "rating": 6.8
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1023088,
+      "player_name": "Brian Gutiérrez",
+      "xg": 0.193581195548177,
+      "xa": 0.166365,
+      "rating": 6.9
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1049669,
+      "player_name": "Jayden Adams",
+      "xg": 0,
+      "xa": 0.059524,
+      "rating": 6.6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1507710,
+      "player_name": "Ime Okon",
+      "xg": 0,
+      "xa": 0.00085624,
+      "rating": 6.3
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1595162,
+      "player_name": "Armando González",
+      "xg": 0,
+      "xa": 0.00207808,
+      "rating": 6.2
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 1914576,
+      "player_name": "Gilberto Mora",
+      "xg": 0,
+      "xa": 0.0917053,
+      "rating": 6.6
+    },
+    {
+      "match_id": 15186710,
+      "player_id": 2058228,
+      "player_name": "Mbekezeli Mbokazi",
+      "xg": 0.013625109568238,
+      "xa": 0.0517245,
+      "rating": 6.4
     }
   ],
   "players_info": [
