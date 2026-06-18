@@ -7951,7 +7951,15 @@
       "player_id": 233746,
       "player_name": "Boualem Khoukhi",
       "xg": 0,
-      "xa": 0.00003918,
+      "xa": 0.00004156,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 794541,
+      "player_name": "Akram Afif",
+      "xg": 0,
+      "xa": 0.00005964,
       "rating": null
     },
     {
@@ -7975,7 +7983,7 @@
       "player_id": 801411,
       "player_name": "Derek Cornelius",
       "xg": 0,
-      "xa": 0.000674,
+      "xa": 0.00273406,
       "rating": null
     },
     {
@@ -7988,10 +7996,18 @@
     },
     {
       "match_id": 15186798,
+      "player_id": 884189,
+      "player_name": "Pedro Miguel",
+      "xg": 0,
+      "xa": 0.00000225,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
       "player_id": 886223,
       "player_name": "Stephen Eustaquio",
       "xg": 0,
-      "xa": 0.00027627,
+      "xa": 0.00630445,
       "rating": null
     },
     {
@@ -8004,10 +8020,18 @@
     },
     {
       "match_id": 15186798,
+      "player_id": 935564,
+      "player_name": "Jonathan David",
+      "xg": 0.0388,
+      "xa": 0.00240777,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
       "player_id": 973290,
       "player_name": "Tajon Buchanan",
       "xg": 0,
-      "xa": 0.0231643,
+      "xa": 0.0281331,
       "rating": null
     },
     {
@@ -8015,7 +8039,15 @@
       "player_id": 984419,
       "player_name": "Alistair Johnston",
       "xg": 0,
-      "xa": 0.00496017,
+      "xa": 0.00729812,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1012458,
+      "player_name": "Mahmud Abunada",
+      "xg": 0,
+      "xa": 8.8e-7,
       "rating": null
     },
     {
@@ -8039,7 +8071,7 @@
       "player_id": 1413129,
       "player_name": "Luc De Fougerolles",
       "xg": 0,
-      "xa": 0.00284082,
+      "xa": 0.00283822,
       "rating": null
     },
     {
@@ -8047,7 +8079,15 @@
       "player_id": 1464637,
       "player_name": "Ali Ahmed",
       "xg": 0,
-      "xa": 0.0164853,
+      "xa": 0.033845,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1892282,
+      "player_name": "Issa Laye",
+      "xg": 0,
+      "xa": 0.00023292,
       "rating": null
     }
   ],
