@@ -7604,7 +7604,7 @@
       "player_id": 14990,
       "player_name": "Edin Džeko",
       "xg": 0.044736918061972,
-      "xa": 0.00039736,
+      "xa": 0.00040073,
       "rating": 6.5
     },
     {
@@ -7612,7 +7612,7 @@
       "player_id": 67769,
       "player_name": "Ricardo Rodríguez",
       "xg": 0,
-      "xa": 0.00708206,
+      "xa": 0.00858071,
       "rating": 6.7
     },
     {
@@ -7620,15 +7620,15 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0,
-      "xa": 0.00544057,
-      "rating": 6.6
+      "xa": 0.0292251,
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
       "player_id": 117777,
       "player_name": "Granit Xhaka",
       "xg": 0.013619099743664,
-      "xa": 0.0264858,
+      "xa": 0.0298536,
       "rating": 6.9
     },
     {
@@ -7636,7 +7636,7 @@
       "player_id": 142148,
       "player_name": "Sead Kolašinac",
       "xg": 0,
-      "xa": 0.00000472,
+      "xa": 0.00001155,
       "rating": 6.4
     },
     {
@@ -7644,23 +7644,23 @@
       "player_id": 157377,
       "player_name": "Silvan Widmer",
       "xg": 0,
-      "xa": 0.00021086,
-      "rating": 6.5
+      "xa": 0.00061547,
+      "rating": 6.4
     },
     {
       "match_id": 15186806,
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.00460956,
-      "rating": 6.7
+      "xa": 0.00539207,
+      "rating": 6.8
     },
     {
       "match_id": 15186806,
       "player_id": 283833,
       "player_name": "Ivan Šunjić",
       "xg": 0,
-      "xa": 0.00000838,
+      "xa": 0.00002896,
       "rating": 6.6
     },
     {
@@ -7668,7 +7668,7 @@
       "player_id": 325061,
       "player_name": "Nikola Vasilj",
       "xg": 0,
-      "xa": 0.00000158,
+      "xa": 0.00000239,
       "rating": 6.4
     },
     {
@@ -7676,7 +7676,7 @@
       "player_id": 352296,
       "player_name": "Breel Embolo",
       "xg": 0,
-      "xa": 0.00031245,
+      "xa": 0.0134998,
       "rating": 6.6
     },
     {
@@ -7684,15 +7684,15 @@
       "player_id": 383560,
       "player_name": "Manuel Akanji",
       "xg": 0,
-      "xa": 0.00348695,
-      "rating": 6.7
+      "xa": 0.00904426,
+      "rating": 6.8
     },
     {
       "match_id": 15186806,
       "player_id": 556866,
       "player_name": "Gregor Kobel",
       "xg": 0,
-      "xa": 0.00000382,
+      "xa": 0.00013407,
       "rating": 6.5
     },
     {
@@ -7701,22 +7701,22 @@
       "player_name": "Nikola Katić",
       "xg": 0,
       "xa": 0.00000367,
-      "rating": 6.5
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
       "player_id": 850891,
       "player_name": "Michel Aebischer",
       "xg": 0,
-      "xa": 0.00303367,
-      "rating": 6.4
+      "xa": 0.00374854,
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 878081,
       "player_name": "Ermedin Demirović",
       "xg": 0,
-      "xa": 0,
+      "xa": 0.00000606,
       "rating": 6.4
     },
     {
@@ -7724,23 +7724,23 @@
       "player_id": 929620,
       "player_name": "Fabian Rieder",
       "xg": 0,
-      "xa": 0.0125425,
+      "xa": 0.0220757,
       "rating": 6.7
     },
     {
       "match_id": 15186806,
       "player_id": 944327,
       "player_name": "Dan Ndoye",
-      "xg": 0.022053569555283,
-      "xa": 0.00378342,
-      "rating": 6.4
+      "xg": 0.052116237580777,
+      "xa": 0.0039616,
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 1102659,
       "player_name": "Benjamin Tahirović",
       "xg": 0,
-      "xa": 0.00004282,
+      "xa": 0.000048,
       "rating": 6.5
     },
     {
@@ -7748,15 +7748,15 @@
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0,
-      "xa": 0.00333178,
-      "rating": 6.6
+      "xa": 0.00333199,
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
       "player_id": 1118177,
       "player_name": "Tarik Muharemović",
       "xg": 0,
-      "xa": 0.00000468,
+      "xa": 0.00026699,
       "rating": 6.5
     },
     {
@@ -7773,7 +7773,7 @@
       "player_name": "Kerim Alajbegović",
       "xg": 0,
       "xa": 0.00000352,
-      "rating": 6.5
+      "rating": 6.4
     }
   ],
   "players_info": [
