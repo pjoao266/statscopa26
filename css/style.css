@@ -3,62 +3,63 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* --- World Cup 2026 Vibrant Palette Variables --- */
+/* --- World Cup 2026 Refined & Eye-Friendly Palette --- */
 :root, [data-bs-theme="light"] {
-    /* World Cup 2026 Inspired Colors */
-    --wc-purple: #4B0082;
-    --wc-vibrant-purple: #7B00FF;
-    --wc-neon-green: #00FF66;
-    --wc-magenta: #FF004D;
-    --wc-cyan: #00D2FF;
-    --wc-yellow: #FFEA00;
+    /* Cores de Identidade (Inspiradas nos estádios e troféus, mas foscas) */
+    --wc-deep-emerald: #134E4A;    /* Verde campo profundo */
+    --wc-pitch-green: #15803D;     /* Verde gramado clássico */
+    --wc-amber-gold: #D97706;      /* Ouro da taça (suave, sem ofuscar) */
+    --wc-crimson: #BE123C;         /* Vermelho paixão controlado */
+    --wc-ocean-blue: #0369A1;      /* Azul clássico de transição */
     
-    /* Backgrounds & Text */
-    --bs-body-bg: #F4F5F7;
-    --bs-body-color: #121212;
-    --card-bg: #FFFFFF;
-    --navbar-bg: var(--wc-purple);
-    --table-header-bg: #E9ECEF;
-    --table-header-text: #121212;
+    /* Estrutura de Telas (Evita o branco puro que agride os olhos) */
+    --bs-body-bg: #F3F4F6;         /* Cinza canvas suave e limpo */
+    --bs-body-color: #1E293B;      /* Slate escuro (mais confortável que preto puro) */
+    --card-bg: #FFFFFF;            /* Cards limpos */
+    --navbar-bg: var(--wc-deep-emerald);
+    --table-header-bg: #E2E8F0;
+    --table-header-text: #0F172A;
 
-    /* Theme-mapped Utility Colors */
-    --theme-accent: var(--wc-vibrant-purple);
-    --theme-accent-hover: #5A00CC;
-    --theme-success: #00B347; /* Darker green for light mode contrast */
-    --theme-info: #007EB5; /* Darker cyan for light mode */
-    --theme-warning: #D90040; /* Darker magenta for light mode */
+    /* Mapeamento de Status Utilitários */
+    --theme-accent: #4F46E5;       /* Índigo moderno para botões ativos */
+    --theme-accent-hover: #4338CA;
+    --theme-success: var(--wc-pitch-green);
+    --theme-info: var(--wc-ocean-blue);
+    --theme-warning: var(--wc-amber-gold);
 }
 
 [data-bs-theme="dark"] {
-    --bs-body-bg: #0F0518; /* Very deep purple/black */
-    --bs-body-color: #F8F9FA;
-    --card-bg: #1C0A2E; /* Slightly lighter deep purple */
-    --navbar-bg: #000000;
-    --table-header-bg: #000000;
-    --table-header-text: #F8F9FA;
+    /* Base de Tela: Inspirada no céu de jogos noturnos (Deep Midnight Slate) */
+    --bs-body-bg: #0B0F19;         /* Azul escuro profundo (reduz 90% da fadiga visual) */
+    --bs-body-color: #F1F5F9;      /* Branco gelo suave para leitura */
+    --card-bg: #151D30;            /* Azul ardósia para destaque dos cards */
+    --navbar-bg: #070A10;          /* Quase preto para foco na navegação */
+    --table-header-bg: #0D1424;
+    --table-header-text: #F8FAFC;
 
-    /* Theme-mapped Utility Colors */
-    --theme-accent: var(--wc-neon-green);
-    --theme-accent-hover: #00CC52;
-    --theme-success: var(--wc-neon-green);
-    --theme-info: var(--wc-cyan);
-    --theme-warning: var(--wc-yellow);
+    /* Mapeamento de Status Utilitários (Tons pastel/emissivos controlados) */
+    --theme-accent: #34D399;       /* Verde menta suave para destaque */
+    --theme-accent-hover: #059669;
+    --theme-success: #4ADE80;      /* Sucesso legível em fundo escuro */
+    --theme-info: #38BDF8;         /* Cyan pastel */
+    --theme-warning: #FBBF24;      /* Âmbar confortável */
 }
 
 body {
     background-color: var(--bs-body-bg) !important;
     color: var(--bs-body-color) !important;
 }
+
 .flag-emoji {
     font-family: 'Noto Color Emoji', sans-serif;
     font-weight: normal;
 }
 
-/* Override Bootstrap specific utility classes that we used in app.js and index.html */
+/* Classes Utilitárias Adaptadas */
 .text-success { color: var(--theme-success) !important; }
 .text-info { color: var(--theme-info) !important; }
 .text-warning { color: var(--theme-warning) !important; }
-.text-secondary { color: #888 !important; }
+.text-secondary { color: #94A3B8 !important; }
 
 /* Custom Backgrounds */
 .bg-black {
@@ -78,27 +79,27 @@ body {
 /* Nav Pills (Tabs) Styling */
 .nav-pills .nav-link {
     color: var(--bs-body-color);
-    opacity: 0.7;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0.75;
+    transition: all 0.25s ease;
 }
 
 .nav-pills .nav-link:hover {
     opacity: 1;
-    background-color: rgba(123, 0, 255, 0.1);
+    background-color: rgba(79, 70, 229, 0.08);
 }
 
 .nav-pills .nav-link.active {
     background-color: var(--theme-accent) !important;
-    /* Removed invalid CSS ternary */
-    transform: scale(1.02);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transform: scale(1.01);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
 [data-bs-theme="dark"] .nav-pills .nav-link.active {
-    color: #000 !important;
+    color: #000000 !important; /* Contraste preto no verde-menta */
+    font-weight: 700;
 }
 [data-bs-theme="light"] .nav-pills .nav-link.active {
-    color: #FFF !important;
+    color: #FFFFFF !important; /* Contraste branco no índigo */
 }
 
 /* Sub-tabs */
@@ -118,7 +119,7 @@ body {
     opacity: 1;
 }
 
-/* Bingo Grid */
+/* Bingo Grid (Otimizado para o olhar não se perder) */
 .bingo-box {
     width: 45px;
     height: 45px;
@@ -127,54 +128,55 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 8px;
-    background-color: rgba(128, 128, 128, 0.1);
+    background-color: rgba(148, 163, 184, 0.08);
     color: var(--bs-body-color);
     font-size: 14px;
-    font-weight: bold;
-    border: 1px solid rgba(128, 128, 128, 0.2);
-    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.3s;
+    font-weight: 600;
+    border: 1px solid rgba(148, 163, 184, 0.15);
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.2s;
 }
 
 .bingo-box.active {
-    background-color: #198754 !important; /* Softer, matte green */
-    border-color: #198754 !important;
-    transform: scale(1.05);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    background-color: #16A34A !important; /* Verde fosco de gol anotado */
+    border-color: #16A34A !important;
+    transform: scale(1.03);
     cursor: pointer;
 }
 
 .bingo-box.active:hover {
-    background-color: #146c43 !important; /* Darker green on hover */
-    transform: scale(1.1);
+    background-color: #15803D !important;
+    transform: scale(1.08);
 }
 
-[data-bs-theme="dark"] .bingo-box.active { color: #FFF !important; }
-[data-bs-theme="light"] .bingo-box.active { color: #FFF !important; }
+.bingo-box.active, 
+[data-bs-theme="dark"] .bingo-box.active, 
+[data-bs-theme="light"] .bingo-box.active { 
+    color: #FFFFFF !important; 
+}
 
 .bingo-box .count {
     font-size: 10px;
-    opacity: 0.9;
+    opacity: 0.85;
 }
 
 /* Progress Bar */
 .progress {
-    background-color: rgba(128, 128, 128, 0.2);
+    background-color: rgba(148, 163, 184, 0.15);
 }
 .progress-bar {
     background-color: var(--theme-accent) !important;
-    /* Removed invalid CSS ternary */
 }
-[data-bs-theme="dark"] .progress-bar { color: #000 !important; }
-[data-bs-theme="light"] .progress-bar { color: #FFF !important; }
+[data-bs-theme="dark"] .progress-bar { color: #000000 !important; font-weight: 700; }
+[data-bs-theme="light"] .progress-bar { color: #FFFFFF !important; }
 
-/* Player/Team Image */
+/* Imagens e Avatares */
 .img-thumbnail-circle {
     width: 60px;
     height: 60px;
     object-fit: cover;
     border-radius: 50%;
-    border: 3px solid var(--theme-accent);
-    background-color: #fff;
+    border: 2px solid var(--theme-accent);
+    background-color: var(--card-bg);
     padding: 2px;
 }
 
@@ -182,55 +184,55 @@ body {
     width: 50px;
     height: 50px;
     object-fit: contain;
-    background-color: #fff;
+    background-color: var(--card-bg);
     border-radius: 8px;
     padding: 2px;
     border: 2px solid var(--theme-accent);
 }
 
-/* Cards Hover */
+/* Efeito Elevação Sutil nos Cards */
 .hover-card {
-    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
-    border: 1px solid rgba(128, 128, 128, 0.1) !important;
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease;
+    border: 1px solid rgba(148, 163, 184, 0.1) !important;
 }
 
 .hover-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2) !important;
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25) !important;
     border-color: var(--theme-accent) !important;
 }
 
 [data-bs-theme="light"] .hover-card:hover {
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08) !important;
 }
 
-/* Table Hover Row */
+/* Linhas da Tabela */
 .custom-table tbody tr {
     cursor: pointer;
-    transition: background-color 0.2s ease;
+    transition: background-color 0.15s ease;
 }
 
 .custom-table tbody tr:hover {
-    background-color: rgba(123, 0, 255, 0.05) !important;
+    background-color: rgba(79, 70, 229, 0.04) !important;
 }
 
 [data-bs-theme="dark"] .custom-table tbody tr:hover {
-    background-color: rgba(0, 255, 102, 0.1) !important;
+    background-color: rgba(52, 211, 153, 0.04) !important;
 }
 
 /* Badges */
 .badge.bg-warning {
     background-color: var(--theme-accent) !important;
-    /* Removed invalid CSS ternary */
 }
-[data-bs-theme="dark"] .badge.bg-warning { color: #000 !important; }
-[data-bs-theme="light"] .badge.bg-warning { color: #FFF !important; }
+[data-bs-theme="dark"] .badge.bg-warning { color: #000000 !important; }
+[data-bs-theme="light"] .badge.bg-warning { color: #FFFFFF !important; }
 
-/* Modals */
+/* Modais */
 .modal-content {
     background-color: var(--card-bg);
+    border: 1px solid rgba(148, 163, 184, 0.1);
 }
 
 [data-bs-theme="light"] .btn-close-white {
-    filter: invert(1) grayscale(100%) brightness(200%);
+    filter: invert(1) grayscale(100%) brightness(50%);
 }
