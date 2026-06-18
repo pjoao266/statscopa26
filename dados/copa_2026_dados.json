@@ -7937,6 +7937,102 @@
       "xg": 0.508894361555579,
       "xa": 0.0155234,
       "rating": 8.4
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 155736,
+      "player_name": "Maxime Crépeau",
+      "xg": 0,
+      "xa": 7e-7,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 233746,
+      "player_name": "Boualem Khoukhi",
+      "xg": 0,
+      "xa": 0.00003918,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 796500,
+      "player_name": "Assim Madibo",
+      "xg": 0,
+      "xa": 0.00000356,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 797734,
+      "player_name": "Edmilson Junior",
+      "xg": 0.0606,
+      "xa": 0.00000447,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 829207,
+      "player_name": "Richie Laryea",
+      "xg": 0,
+      "xa": 0.00045075,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 886223,
+      "player_name": "Stephen Eustaquio",
+      "xg": 0,
+      "xa": 0.00024459,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 933433,
+      "player_name": "Homam Al-Amin",
+      "xg": 0,
+      "xa": 0.0395529,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 973290,
+      "player_name": "Tajon Buchanan",
+      "xg": 0,
+      "xa": 0.0219303,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 984419,
+      "player_name": "Alistair Johnston",
+      "xg": 0,
+      "xa": 0.00046915,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1134351,
+      "player_name": "Ismael Koné",
+      "xg": 0,
+      "xa": 0.00107317,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1396639,
+      "player_name": "Ayoub Al Oui",
+      "xg": 0,
+      "xa": 0.00000228,
+      "rating": null
+    },
+    {
+      "match_id": 15186798,
+      "player_id": 1413129,
+      "player_name": "Luc De Fougerolles",
+      "xg": 0,
+      "xa": 0.00072863,
+      "rating": null
     }
   ],
   "players_info": [
