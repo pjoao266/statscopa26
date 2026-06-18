@@ -565,6 +565,7 @@ function obterImagemSegura(urlSofascore) {
             });
         }
 
+
         // 2. Goals Ranking
         const golsList = [...playerList].filter(ps => ps.goals > 0).sort((a,b) => b.goals - a.goals || b.avgRating - a.avgRating);
         document.getElementById('ranking-gols-grid').innerHTML = golsList.slice(0, 50).map((ps, i) => generateCardHtml(ps, i, `${ps.goals} Gols`)).join('');
@@ -580,6 +581,10 @@ function obterImagemSegura(urlSofascore) {
         // 5. xAst Ranking
         const xaList = [...playerList].filter(ps => ps.xa > 0).sort((a,b) => b.xa - a.xa || b.avgRating - a.avgRating);
         document.getElementById('ranking-xa-grid').innerHTML = xaList.slice(0, 50).map((ps, i) => generateCardHtml(ps, i, `${ps.xa.toFixed(2)} xAst`)).join('');
+        
+        // 6. Média de Notas Ranking
+        const ratingList = [...playerList].filter(ps => ps.avgRating > 0).sort((a,b) => b.avgRating - a.avgRating);
+        document.getElementById('ranking-rating-grid').innerHTML = ratingList.slice(0, 50).map((ps, i) => generateCardHtml(ps, i, `${ps.avgRating.toFixed(2)}`)).join('');
     }
 
     function generateCardHtml(ps, index, mainStat, subTextHtml = '') {
