@@ -7605,7 +7605,7 @@
       "player_name": "Edin Džeko",
       "xg": 0.16268037632107202,
       "xa": 0.148978,
-      "rating": 6.5
+      "rating": 6.6
     },
     {
       "match_id": 15186806,
@@ -7620,8 +7620,8 @@
       "player_id": 115516,
       "player_name": "Remo Freuler",
       "xg": 0.015920124948025,
-      "xa": 0.260355,
-      "rating": 7.5
+      "xa": 0.260376,
+      "rating": 7.6
     },
     {
       "match_id": 15186806,
@@ -7652,7 +7652,7 @@
       "player_id": 282229,
       "player_name": "Nico Elvedi",
       "xg": 0,
-      "xa": 0.0155738,
+      "xa": 0.015553,
       "rating": 7.1
     },
     {
@@ -7675,9 +7675,9 @@
       "match_id": 15186806,
       "player_id": 352296,
       "player_name": "Breel Embolo",
-      "xg": 0,
+      "xg": 0.1364681571722,
       "xa": 0.0122585,
-      "rating": 6.5
+      "rating": 6.4
     },
     {
       "match_id": 15186806,
@@ -7701,14 +7701,14 @@
       "player_name": "Nikola Katić",
       "xg": 0,
       "xa": 0.00040451,
-      "rating": 7.1
+      "rating": 7.2
     },
     {
       "match_id": 15186806,
       "player_id": 850891,
       "player_name": "Michel Aebischer",
       "xg": 0.062050618231297,
-      "xa": 0.180484,
+      "xa": 0.029593,
       "rating": 6.7
     },
     {
@@ -7717,7 +7717,7 @@
       "player_name": "Ermedin Demirović",
       "xg": 0,
       "xa": 0.0213253,
-      "rating": 6.4
+      "rating": 6.5
     },
     {
       "match_id": 15186806,
@@ -7749,7 +7749,7 @@
       "player_name": "Amar Dedić",
       "xg": 0,
       "xa": 0.00530233,
-      "rating": 6.6
+      "rating": 6.7
     },
     {
       "match_id": 15186806,
