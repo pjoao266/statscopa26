@@ -7398,7 +7398,7 @@
       "player_name": "Ladislav Krejčí",
       "xg": 0.074468769133091,
       "xa": 0.019428,
-      "rating": 7.3
+      "rating": 7
     },
     {
       "match_id": 15186731,
@@ -7438,7 +7438,7 @@
       "player_name": "Robin Hranáč",
       "xg": 0,
       "xa": 0.00086886,
-      "rating": 6.8
+      "rating": 6.9
     },
     {
       "match_id": 15186731,
@@ -7446,7 +7446,7 @@
       "player_name": "Adam Hložek",
       "xg": 0.035935707390308,
       "xa": 0.0216536,
-      "rating": 6
+      "rating": 6.1
     },
     {
       "match_id": 15186731,
@@ -7462,7 +7462,7 @@
       "player_name": "Iqraam Rayners",
       "xg": 0.058765780180693,
       "xa": 0.0803898,
-      "rating": 6.3
+      "rating": 6.2
     },
     {
       "match_id": 15186731,
@@ -7486,14 +7486,14 @@
       "player_name": "Thapelo Maseko",
       "xg": 0.11159133166075,
       "xa": 0.0177807,
-      "rating": 6.9
+      "rating": 6.7
     },
     {
       "match_id": 15186731,
       "player_id": 1403491,
       "player_name": "Alexandr Sojka",
       "xg": 0,
-      "xa": 0.0893054,
+      "xa": 0.0892544,
       "rating": 7
     },
     {
