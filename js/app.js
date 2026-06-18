@@ -50,6 +50,11 @@ function formatPlayerName(info) {
     return `${name} &nbsp; ${flagHtml}`.trim();
 }
 
+function obterImagemSegura(urlSofascore) {
+    const VERCEL_BASE = 'https://statscopa26.vercel.app/api/image';
+    // Codifica a URL para evitar problemas com caracteres especiais na query string
+    return `${VERCEL_BASE}?url=${encodeURIComponent(urlSofascore)}`;
+}
     // Inicializa a aplicação
     fetchData();
 
@@ -347,7 +352,7 @@ function formatPlayerName(info) {
         tbody.innerHTML = '';
         list.forEach((item, index) => {
             const tr = document.createElement('tr');
-            let imgHtml = item.img ? `<img src="${item.img}" class="me-2" style="width:24px; height:24px; object-fit:contain; background:#fff; border-radius:4px;" onerror="this.style.display='none'">` : '';
+            let imgHtml = item.img ? `<img src="${obterImagemSegura(item.img)}" class="me-2" style="width:24px; height:24px; object-fit:contain; background:#fff; border-radius:4px;" onerror="this.style.display='none'">` : '';
             if(filter === 'age' || filter === 'height') imgHtml = '';
 
             tr.innerHTML = `
@@ -371,7 +376,7 @@ function formatPlayerName(info) {
         const cardsContainer = document.getElementById('top-stats-cards');
         cardsContainer.innerHTML = '';
         list.slice(0, 3).forEach((item, index) => {
-            let imgHtml = item.img ? `<img src="${item.img}" class="top-card-img me-3" onerror="this.style.display='none'">` : '<div class="top-card-img me-3 bg-secondary d-flex align-items-center justify-content-center"><i class="fa-solid fa-users text-dark"></i></div>';
+            let imgHtml = item.img ? `<img src="${obterImagemSegura(item.img)}" class="top-card-img me-3" onerror="this.style.display='none'">` : '<div class="top-card-img me-3 bg-secondary d-flex align-items-center justify-content-center"><i class="fa-solid fa-users text-dark"></i></div>';
             if(filter === 'age' || filter === 'height') imgHtml = '<div class="top-card-img me-3 bg-warning d-flex align-items-center justify-content-center"><i class="fa-solid fa-chart-simple text-dark"></i></div>';
             //if(filter === 'country') imgHtml = '<div class="top-card-img me-3 bg-success d-flex align-items-center justify-content-center"><i class="fa-solid fa-flag text-white"></i></div>';
             
@@ -463,7 +468,7 @@ function formatPlayerName(info) {
             const tr = document.createElement('tr');
             tr.innerHTML = `
                 <td class="fw-bold d-flex align-items-center">
-                    <img src="https://img.sofascore.com/api/v1/player/${ps.info.player_id}/image" class="me-2" style="width:30px; height:30px; border-radius:50%; object-fit:cover; background:#fff;" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
+                    <img src="${obterImagemSegura(`https://img.sofascore.com/api/v1/player/${ps.info.player_id}/image`)}" class="me-2" style="width:30px; height:30px; border-radius:50%; object-fit:cover; background:#fff;" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
                     ${formatPlayerName(ps.info)}
                 </td>
                 <td class="text-center text-success">${ps.goals}</td>
@@ -590,7 +595,7 @@ function formatPlayerName(info) {
             <div class="col-lg-4 col-md-6">
                 <div class="card bg-black border-secondary hover-card h-100 shadow-sm p-3">
                     <div class="d-flex align-items-center">
-                        <img src="${imgUrl}" alt="${info.name || 'Desconhecido'}" class="img-thumbnail-circle me-3" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
+                        <img src="${obtenerImagemSegura(imgUrl)}" alt="${info.name || 'Desconhecido'}" class="img-thumbnail-circle me-3" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
                         <div class="flex-grow-1">
                             <h6 class="fw-bold mb-1">${formatPlayerName(info)}</h6>
                             <div class="small text-muted mb-1">${info.club_country || 'Seleção'} • ${info.club || '-'}</div>

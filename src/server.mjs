@@ -11,7 +11,7 @@ const app = express();
 const PORT = 3000;
 
 // Servir arquivos estáticos
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '..')));
 
 // Endpoint para fornecer os dados já cacheados (JSON)
 app.get('/api/data', async (req, res) => {  })
