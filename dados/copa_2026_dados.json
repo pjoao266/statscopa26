@@ -7341,15 +7341,15 @@
       "player_id": 109002,
       "player_name": "Vladimír Darida",
       "xg": 0,
-      "xa": 0.00015459,
-      "rating": 6.7
+      "xa": 0.00035136,
+      "rating": 6.8
     },
     {
       "match_id": 15186731,
       "player_id": 138024,
       "player_name": "Vladimír Coufal",
       "xg": 0,
-      "xa": 0.0575201,
+      "xa": 0.0576338,
       "rating": 6.7
     },
     {
@@ -7357,7 +7357,7 @@
       "player_id": 151440,
       "player_name": "Tomáš Holeš",
       "xg": 0,
-      "xa": 0.00426785,
+      "xa": 0.00435311,
       "rating": 6.7
     },
     {
@@ -7365,15 +7365,15 @@
       "player_id": 280609,
       "player_name": "Patrik Schick",
       "xg": 0.089055627584457,
-      "xa": 0.0009903,
-      "rating": 6.4
+      "xa": 0.00261558,
+      "rating": 6.3
     },
     {
       "match_id": 15186731,
       "player_id": 539792,
       "player_name": "Ronwen Williams",
       "xg": 0,
-      "xa": 0.00071286,
+      "xa": 0.00200664,
       "rating": 6.2
     },
     {
@@ -7381,7 +7381,7 @@
       "player_id": 825731,
       "player_name": "Michal Sadílek",
       "xg": 0.211770733818411,
-      "xa": 0.0036229,
+      "xa": 0.00408768,
       "rating": 7.5
     },
     {
@@ -7389,15 +7389,15 @@
       "player_id": 837099,
       "player_name": "Aubrey Modiba",
       "xg": 0.013625109568238,
-      "xa": 0.00059916,
-      "rating": 6.3
+      "xa": 0.0740026,
+      "rating": 6.4
     },
     {
       "match_id": 15186731,
       "player_id": 856250,
       "player_name": "Ladislav Krejčí",
       "xg": 0.074468769133091,
-      "xa": 0.0183097,
+      "xa": 0.0188638,
       "rating": 6.8
     },
     {
@@ -7405,15 +7405,15 @@
       "player_id": 881117,
       "player_name": "Teboho Mokoena",
       "xg": 0,
-      "xa": 0.00716956,
-      "rating": 6.6
+      "xa": 0.00972887,
+      "rating": 6.7
     },
     {
       "match_id": 15186731,
       "player_id": 927366,
       "player_name": "Matěj Kovář",
       "xg": 0,
-      "xa": 0.000002,
+      "xa": 0.00001625,
       "rating": 6.5
     },
     {
@@ -7421,7 +7421,7 @@
       "player_id": 936047,
       "player_name": "Khuliso Mudau",
       "xg": 0,
-      "xa": 0.00495764,
+      "xa": 0.235258,
       "rating": 6.7
     },
     {
@@ -7429,7 +7429,7 @@
       "player_id": 952114,
       "player_name": "Lukáš Červ",
       "xg": 0,
-      "xa": 0.0008025,
+      "xa": 0.00083469,
       "rating": 6.5
     },
     {
@@ -7437,31 +7437,31 @@
       "player_id": 957615,
       "player_name": "Robin Hranáč",
       "xg": 0,
-      "xa": 0.00027438,
-      "rating": 6.7
+      "xa": 0.0008231,
+      "rating": 6.8
     },
     {
       "match_id": 15186731,
       "player_id": 963801,
       "player_name": "Adam Hložek",
       "xg": 0,
-      "xa": 0.0165319,
-      "rating": 6.3
+      "xa": 0.0216536,
+      "rating": 6.1
     },
     {
       "match_id": 15186731,
       "player_id": 984505,
       "player_name": "Oswin Appollis",
       "xg": 0.018657702952623,
-      "xa": 0.00237531,
-      "rating": 6.6
+      "xa": 0.0327712,
+      "rating": 6.7
     },
     {
       "match_id": 15186731,
       "player_id": 991024,
       "player_name": "Iqraam Rayners",
-      "xg": 0,
-      "xa": 0.0000784,
+      "xg": 0.0538,
+      "xa": 0.0659671,
       "rating": 6.1
     },
     {
@@ -7469,15 +7469,15 @@
       "player_id": 1014410,
       "player_name": "Thalente Mbatha",
       "xg": 0,
-      "xa": 0.00061125,
-      "rating": 6.4
+      "xa": 0.00066785,
+      "rating": 6.3
     },
     {
       "match_id": 15186731,
       "player_id": 1049669,
       "player_name": "Jayden Adams",
       "xg": 0,
-      "xa": 0.00158433,
+      "xa": 0.00666451,
       "rating": 6.6
     },
     {
@@ -7493,24 +7493,24 @@
       "player_id": 1403491,
       "player_name": "Alexandr Sojka",
       "xg": 0,
-      "xa": 0.0864488,
-      "rating": 7
+      "xa": 0.0869132,
+      "rating": 6.9
     },
     {
       "match_id": 15186731,
       "player_id": 1507710,
       "player_name": "Ime Okon",
       "xg": 0,
-      "xa": 0.00156975,
-      "rating": 6.4
+      "xa": 0.00239168,
+      "rating": 6.5
     },
     {
       "match_id": 15186731,
       "player_id": 2058228,
       "player_name": "Mbekezeli Mbokazi",
       "xg": 0,
-      "xa": 0.0029918,
-      "rating": 6.4
+      "xa": 0.00313989,
+      "rating": 6.5
     }
   ],
   "players_info": [
