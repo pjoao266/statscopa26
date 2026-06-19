@@ -725,10 +725,10 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const positionFallbacks = {
-        'GL': ['GL'], 'LD': ['LD', 'ZAG', 'MD'], 'LE': ['LE', 'ZAG', 'ME'],
-        'ZAG': ['ZAG', 'VOL'], 'VOL': ['VOL', 'MC', 'ZAG'], 'MC': ['MC', 'VOL', 'MEI'],
-        'MEI': ['MEI', 'MC', 'PE', 'PD'], 'MD': ['MD', 'PD', 'LD'], 'ME': ['ME', 'PE', 'LE'],
-        'PD': ['PD', 'CA', 'MD'], 'PE': ['PE', 'CA', 'ME'], 'CA': ['CA', 'PE', 'PD']
+        'GL': ['GL'], 'LD': ['LD'], 'LE': ['LE'],
+        'ZAG': ['ZAG'], 'VOL': ['VOL', 'MC'], 'MC': ['MC', 'VOL', 'MEI', 'MD', 'ME'],
+        'MEI': ['MEI', 'MC', 'PE', 'PD', 'ME', 'MD'], 'MD': ['MD', 'PD', 'ME', 'PE'], 'ME': ['ME', 'PE', 'MD', 'PD'],
+        'PD': ['PD', 'CA', 'MD', 'PE', 'ME'], 'PE': ['PE', 'CA', 'ME', 'MD', 'PE'], 'CA': ['CA', 'PE', 'PD', 'ME', 'MD']
     };
 
     function renderBest11(data) {
