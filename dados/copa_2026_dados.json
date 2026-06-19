@@ -276,7 +276,7 @@
       "away": "South Korea",
       "home_score": 1,
       "away_score": 0,
-      "status": "2nd half",
+      "status": "Ended",
       "round": "2ª rodada",
       "roundStage": "Fase de Grupos"
     }
@@ -13204,11 +13204,11 @@
       "xa": 0.0145357,
       "rating": 6.7,
       "nominal_position": "F",
-      "detailed_position": "PE",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 69.480769230769,
+      "average_y": 58.592307692308
     },
     {
       "match_id": 15186490,
@@ -13221,22 +13221,22 @@
       "detailed_position": "CA",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 59.151282051282,
+      "average_y": 48.079487179487
     },
     {
       "match_id": 15186490,
       "player_id": 235686,
       "player_name": "Kim Seung-gyu",
       "xg": 0,
-      "xa": 0.00168028,
+      "xa": 0.0016804,
       "rating": 6.4,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 12.286567164179,
+      "average_y": 46.159701492537
     },
     {
       "match_id": 15186490,
@@ -13246,11 +13246,11 @@
       "xa": 0.00398224,
       "rating": 6.7,
       "nominal_position": "F",
-      "detailed_position": "CA",
+      "detailed_position": "PE",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 51.712765957447,
+      "average_y": 72.844680851064
     },
     {
       "match_id": 15186490,
@@ -13258,13 +13258,13 @@
       "player_name": "Jesús Gallardo",
       "xg": 0.03550836071372,
       "xa": 0.0103412,
-      "rating": 6.8,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 41.689743589744,
+      "average_y": 87.407692307692
     },
     {
       "match_id": 15186490,
@@ -13274,11 +13274,11 @@
       "xa": 0.00988949,
       "rating": 6.6,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.044,
+      "average_y": 66.828
     },
     {
       "match_id": 15186490,
@@ -13286,13 +13286,13 @@
       "player_name": "Jorge Sánchez",
       "xg": 0,
       "xa": 0.00313979,
-      "rating": 6.4,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 41.826086956522,
+      "average_y": 16.74347826087
     },
     {
       "match_id": 15186490,
@@ -13305,8 +13305,8 @@
       "detailed_position": "PE",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.492452830189,
+      "average_y": 72.879245283019
     },
     {
       "match_id": 15186490,
@@ -13314,13 +13314,13 @@
       "player_name": "Edson Álvarez",
       "xg": 0,
       "xa": 0.00303244,
-      "rating": 7.1,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 32.265656565657,
+      "average_y": 39.681818181818
     },
     {
       "match_id": 15186490,
@@ -13328,13 +13328,13 @@
       "player_name": "Orbelín Pineda",
       "xg": 0,
       "xa": 0.00027301,
-      "rating": 6.2,
+      "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-3-3",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 55.681818181818,
+      "average_y": 63.781818181818
     },
     {
       "match_id": 15186490,
@@ -13347,8 +13347,8 @@
       "detailed_position": "PD",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.110638297872,
+      "average_y": 20.085106382979
     },
     {
       "match_id": 15186490,
@@ -13358,11 +13358,11 @@
       "xa": 0.0225657,
       "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 48.269444444444,
+      "average_y": 53.369444444444
     },
     {
       "match_id": 15186490,
@@ -13372,11 +13372,11 @@
       "xa": 0.0338304,
       "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 50.374683544304,
+      "average_y": 45.750632911392
     },
     {
       "match_id": 15186490,
@@ -13384,13 +13384,13 @@
       "player_name": "Johan Vásquez",
       "xg": 0,
       "xa": 0.00224868,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 31.602941176471,
+      "average_y": 65.860294117647
     },
     {
       "match_id": 15186490,
@@ -13400,11 +13400,11 @@
       "xa": 0.00019961,
       "rating": 6.3,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PE",
       "formation": "4-3-3",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 65.35,
+      "average_y": 81.14
     },
     {
       "match_id": 15186490,
@@ -13417,8 +13417,8 @@
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 36.354128440367,
+      "average_y": 49.938532110092
     },
     {
       "match_id": 15186490,
@@ -13428,25 +13428,25 @@
       "xa": 0.00044637,
       "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "4-3-3",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 51.844444444444,
+      "average_y": 83.733333333333
     },
     {
       "match_id": 15186490,
       "player_id": 917087,
       "player_name": "Kang-in Lee",
       "xg": 0.044265169650317,
-      "xa": 0.177474,
+      "xa": 0.177545,
       "rating": 6.8,
       "nominal_position": "F",
       "detailed_position": "PD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 53.565333333333,
+      "average_y": 48.442666666667
     },
     {
       "match_id": 15186490,
@@ -13456,11 +13456,11 @@
       "xa": 0.058082,
       "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.681081081081,
+      "average_y": 14.835135135135
     },
     {
       "match_id": 15186490,
@@ -13468,13 +13468,13 @@
       "player_name": "Erik Lira",
       "xg": 0,
       "xa": 0.00631349,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 46.73,
+      "average_y": 52.672857142857
     },
     {
       "match_id": 15186490,
@@ -13482,13 +13482,13 @@
       "player_name": "Israel Reyes",
       "xg": 0,
       "xa": 0.00001174,
-      "rating": 6.5,
+      "rating": 6.7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "4-3-3",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 27.2125,
+      "average_y": 24.75
     },
     {
       "match_id": 15186490,
@@ -13496,55 +13496,55 @@
       "player_name": "Raúl Rangel",
       "xg": 0,
       "xa": 0.00146007,
-      "rating": 7.3,
+      "rating": 7.6,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 9.6280701754386,
+      "average_y": 50.054385964912
     },
     {
       "match_id": 15186490,
       "player_id": 1002448,
       "player_name": "Han-Beom Lee",
       "xg": 0.084353096783161,
-      "xa": 0.00505375,
-      "rating": 6.6,
+      "xa": 0.00506598,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.60198019802,
+      "average_y": 20.893069306931
     },
     {
       "match_id": 15186490,
       "player_id": 1002508,
       "player_name": "Ji-sung Eom",
       "xg": 0,
-      "xa": 0.196102,
+      "xa": 0.196031,
       "rating": 7.2,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 57.2375,
+      "average_y": 66.71875
     },
     {
       "match_id": 15186490,
       "player_id": 1010634,
       "player_name": "Hyeon-gyu Oh",
-      "xg": 0,
+      "xg": 0.0507,
       "xa": 0.0235577,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 64.97,
+      "average_y": 48.62
     },
     {
       "match_id": 15186490,
@@ -13554,11 +13554,11 @@
       "xa": 0,
       "rating": 6.2,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 79.475,
+      "average_y": 39.1625
     },
     {
       "match_id": 15186490,
@@ -13568,11 +13568,11 @@
       "xa": 0.00888298,
       "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 56.308510638298,
+      "average_y": 92.129787234043
     },
     {
       "match_id": 15186490,
@@ -13580,41 +13580,41 @@
       "player_name": "Brian Gutiérrez",
       "xg": 0.024244684726,
       "xa": 0.0267756,
-      "rating": 7.1,
+      "rating": 7.2,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 51.415384615385,
+      "average_y": 41.196153846154
     },
     {
       "match_id": 15186490,
       "player_id": 1103520,
       "player_name": "Gi-Hyuk Lee",
       "xg": 0,
-      "xa": 0.00765293,
-      "rating": 6.5,
+      "xa": 0.00892563,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 38.020720720721,
+      "average_y": 71.561261261261
     },
     {
       "match_id": 15186490,
       "player_id": 1103531,
       "player_name": "Yang Hyun-Jun",
       "xg": 0.15615376830101,
-      "xa": 0.00094031,
+      "xa": 0.0012965,
       "rating": 6.7,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PD",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 40.447826086957,
+      "average_y": 16.339130434783
     },
     {
       "match_id": 15186490,
@@ -13624,11 +13624,11 @@
       "xa": 0.00189533,
       "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "4-3-3",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.09,
+      "average_y": 69.34
     },
     {
       "match_id": 15186490,
@@ -13636,13 +13636,13 @@
       "player_name": "Luis Romo",
       "xg": 0.064488686621189,
       "xa": 0.0254541,
-      "rating": 7.9,
+      "rating": 8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-3-3",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.312903225806,
+      "average_y": 53.258064516129
     }
   ],
   "players_info": [
