@@ -280,6 +280,72 @@ body {
     transform: translate(-50%, -50%);
 }
 
+/* Marcador do Jogador (Cartinha com Foto) */
+.player-marker {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70px;
+    text-align: center;
+    z-index: 10;
+    transition: all 0.3s ease;
+}
+
+.player-marker:hover {
+    transform: translate(-50%, -50%) scale(1.15);
+    z-index: 20;
+}
+
+.player-photo {
+    width: 45px;
+    height: 45px;
+    background: #fff;
+    border: 2px solid #fdd301;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.4);
+    position: relative;
+}
+
+.player-marker .position-badge {
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    background: #212529;
+    color: #fdd301;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 1px 4px;
+    border-radius: 4px;
+    border: 1px solid #fdd301;
+    z-index: 11;
+}
+
+.player-marker .player-info {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    font-size: 10px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    margin-top: 4px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.player-marker .player-rating {
+    background: #198754;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 1px 6px;
+    border-radius: 10px;
+    margin-top: 2px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
 
 /* Título de Separação do Bingo */
 .bingo-section-title {
@@ -291,6 +357,40 @@ body {
     border-bottom: 1px solid var(--bs-border-color);
     padding-bottom: 0.5rem;
     color: var(--bs-body-color);
+}
+
+/* Base da info do jogador */
+.player-marker .player-info {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-top: 4px;
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: all 0.2s ease;
+}
+
+/* Expansão e Hover na Cartinha da Seleção Ideal */
+.player-marker:hover .player-info {
+    width: max-content; /* Estica o container pro tamanho do nome */
+    max-width: 250px; /* Limite de segurança */
+    overflow: visible;
+    z-index: 100;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.95);
+}
+
+.player-marker:hover .short-name { 
+    display: none; 
+}
+
+.player-marker:hover .full-name { 
+    display: inline-block !important; /* Mostra o nome completo + bandeira ao passar o mouse */
 }
 
 /* Base da info do jogador */
