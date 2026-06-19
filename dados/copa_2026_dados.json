@@ -286,7 +286,7 @@
       "away": "Australia",
       "home_score": 2,
       "away_score": 0,
-      "status": "2nd half",
+      "status": "Ended",
       "round": "2ª rodada",
       "roundStage": "Fase de Grupos"
     }
@@ -1374,7 +1374,7 @@
     },
     {
       "match_id": 15186878,
-      "minute": "44",
+      "minute": "43",
       "scorer_id": 1184541,
       "scorer_name": "Alexander Freeman",
       "assist_id": null,
@@ -13683,14 +13683,14 @@
       "player_id": 118179,
       "player_name": "Tim Ream",
       "xg": 0,
-      "xa": 0.0104337,
-      "rating": 6.8,
+      "xa": 0.0104338,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.145652173913,
+      "average_y": 71.936956521739
     },
     {
       "match_id": 15186878,
@@ -13700,39 +13700,39 @@
       "xa": 0.00126955,
       "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 60.478378378378,
+      "average_y": 39.759459459459
     },
     {
       "match_id": 15186878,
       "player_id": 181581,
       "player_name": "Jackson Irvine",
       "xg": 0,
-      "xa": 0.00536369,
+      "xa": 0.00634637,
       "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "5-4-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 68.330769230769,
+      "average_y": 44.792307692308
     },
     {
       "match_id": 15186878,
       "player_id": 303258,
       "player_name": "Jason Geria",
       "xg": 0,
-      "xa": 0.00144212,
+      "xa": 0.00147394,
       "rating": 6.6,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "5-4-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.726666666667,
+      "average_y": 17.837777777778
     },
     {
       "match_id": 15186878,
@@ -13745,8 +13745,8 @@
       "detailed_position": "ZAG",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 17.846428571429,
+      "average_y": 75.614285714286
     },
     {
       "match_id": 15186878,
@@ -13754,13 +13754,13 @@
       "player_name": "Tyler Adams",
       "xg": 0,
       "xa": 0.0331836,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 45.211111111111,
+      "average_y": 52.687878787879
     },
     {
       "match_id": 15186878,
@@ -13768,27 +13768,41 @@
       "player_name": "Antonee Robinson",
       "xg": 0,
       "xa": 0.0328597,
-      "rating": 7.1,
+      "rating": 7.2,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 48.528205128205,
+      "average_y": 87.123076923077
     },
     {
       "match_id": 15186878,
       "player_id": 808680,
       "player_name": "Harry Souttar",
       "xg": 0,
-      "xa": 0.00573352,
-      "rating": 6.2,
+      "xa": 0.00602546,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.732692307692,
+      "average_y": 45.461538461538
+    },
+    {
+      "match_id": 15186878,
+      "player_id": 818391,
+      "player_name": "Haji Wright",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "3-5-2",
+      "is_starter": false,
+      "average_x": 61.933333333333,
+      "average_y": 77.733333333333
     },
     {
       "match_id": 15186878,
@@ -13796,13 +13810,13 @@
       "player_name": "Auston Trusty",
       "xg": 0,
       "xa": 0.00002836,
-      "rating": 6.5,
+      "rating": 6.7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LE",
       "formation": "3-5-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.884615384615,
+      "average_y": 82.784615384615
     },
     {
       "match_id": 15186878,
@@ -13810,41 +13824,41 @@
       "player_name": "Aiden O'Neill",
       "xg": 0,
       "xa": 0.0135812,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 46.636363636364,
+      "average_y": 44.190909090909
     },
     {
       "match_id": 15186878,
       "player_id": 881931,
       "player_name": "Weston McKennie",
       "xg": 0.301657963544128,
-      "xa": 0.361053,
-      "rating": 6.8,
+      "xa": 0.361475,
+      "rating": 6.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 60.578787878788,
+      "average_y": 30.540909090909
     },
     {
       "match_id": 15186878,
       "player_id": 888854,
       "player_name": "Connor Metcalfe",
       "xg": 0.043511744588614,
-      "xa": 0.00351438,
-      "rating": 6.5,
+      "xa": 0.00362143,
+      "rating": 6.6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "5-4-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.575,
+      "average_y": 29.503571428571
     },
     {
       "match_id": 15186878,
@@ -13852,27 +13866,27 @@
       "player_name": "Sergiño Dest",
       "xg": 0.121818795800209,
       "xa": 0.148347,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 67.847727272727,
+      "average_y": 16.895454545455
     },
     {
       "match_id": 15186878,
       "player_id": 907217,
       "player_name": "Jacob Italiano",
       "xg": 0,
-      "xa": 0.0237285,
-      "rating": 6,
+      "xa": 0.0237287,
+      "rating": 5.9,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 53.912307692308,
+      "average_y": 17.204615384615
     },
     {
       "match_id": 15186878,
@@ -13885,92 +13899,106 @@
       "detailed_position": "ZAG",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 36.876612903226,
+      "average_y": 38.004032258065
     },
     {
       "match_id": 15186878,
       "player_id": 934237,
       "player_name": "Folarin Balogun",
       "xg": 0.16488815844059002,
-      "xa": 0.0135542,
+      "xa": 0.0184266,
       "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 67.52619047619,
+      "average_y": 53.678571428571
     },
     {
       "match_id": 15186878,
       "player_id": 973436,
       "player_name": "Matthew Freese",
       "xg": 0,
-      "xa": 0.00033504,
-      "rating": 6.7,
+      "xa": 0.00043172,
+      "rating": 6.8,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 8.7513513513513,
+      "average_y": 50.2
     },
     {
       "match_id": 15186878,
       "player_id": 975798,
       "player_name": "Malik Tillman",
       "xg": 0,
-      "xa": 0.380356,
-      "rating": 7.5,
+      "xa": 0.386617,
+      "rating": 7.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.838043478261,
+      "average_y": 65.820652173913
     },
     {
       "match_id": 15186878,
       "player_id": 986395,
       "player_name": "Ricardo Pepi",
       "xg": 0.110788870602846,
-      "xa": 0.0192068,
+      "xa": 0.019207,
       "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 55.145454545455,
+      "average_y": 68.702272727273
+    },
+    {
+      "match_id": 15186878,
+      "player_id": 989056,
+      "player_name": "Giovanni Reyna",
+      "xg": 0,
+      "xa": 0.00064452,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "ME",
+      "formation": "3-5-2",
+      "is_starter": false,
+      "average_x": 47.9,
+      "average_y": 76
     },
     {
       "match_id": 15186878,
       "player_id": 1002920,
       "player_name": "Joe Scally",
       "xg": 0,
-      "xa": 0.00032455,
-      "rating": 6.7,
+      "xa": 0.0031067,
+      "rating": 6.8,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "3-5-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.366666666667,
+      "average_y": 25.011111111111
     },
     {
       "match_id": 15186878,
       "player_id": 1014845,
       "player_name": "Sebastian Berhalter",
       "xg": 0,
-      "xa": 0.00090422,
-      "rating": 6.7,
+      "xa": 0.0036301,
+      "rating": 6.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-5-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 48.778947368421,
+      "average_y": 58.621052631579
     },
     {
       "match_id": 15186878,
@@ -13983,8 +14011,8 @@
       "detailed_position": "CA",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 59.585714285714,
+      "average_y": 50.885714285714
     },
     {
       "match_id": 15186878,
@@ -13994,95 +14022,95 @@
       "xa": 0.00080868,
       "rating": 6.1,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 45.338095238095,
+      "average_y": 80.790476190476
     },
     {
       "match_id": 15186878,
       "player_id": 1144138,
       "player_name": "Jordan Bos",
       "xg": 0,
-      "xa": 0.0499814,
+      "xa": 0.0499957,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 46.66724137931,
+      "average_y": 85.762068965517
     },
     {
       "match_id": 15186878,
       "player_id": 1144687,
       "player_name": "Nestory Irankunda",
       "xg": 0,
-      "xa": 0.11183,
-      "rating": 6.6,
+      "xa": 0.113884,
+      "rating": 6.5,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "5-4-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 70.717391304348,
+      "average_y": 40.547826086957
     },
     {
       "match_id": 15186878,
       "player_id": 1155423,
       "player_name": "Alessandro Circati",
       "xg": 0.034554991871119,
-      "xa": 0.00448296,
-      "rating": 7.5,
+      "xa": 0.00452814,
+      "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 37.542647058824,
+      "average_y": 48.079411764706
     },
     {
       "match_id": 15186878,
       "player_id": 1155625,
       "player_name": "Cristian Volpato",
       "xg": 0.24168294668198,
-      "xa": 0.111221,
+      "xa": 0.112669,
       "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "5-4-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 67.99696969697,
+      "average_y": 40.545454545455
     },
     {
       "match_id": 15186878,
       "player_id": 1177240,
       "player_name": "Patrick Beach",
       "xg": 0,
-      "xa": 0.00023719,
+      "xa": 0.00059923,
       "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 10.142857142857,
+      "average_y": 49.432142857143
     },
     {
       "match_id": 15186878,
       "player_id": 1184541,
       "player_name": "Alexander Freeman",
       "xg": 0.60416287183762,
-      "xa": 0.0282177,
-      "rating": 8.1,
+      "xa": 0.0305798,
+      "rating": 8.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-5-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 46.165656565657,
+      "average_y": 19.772727272727
     },
     {
       "match_id": 15186878,
@@ -14092,11 +14120,11 @@
       "xa": 0.0475798,
       "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "5-4-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.405263157895,
+      "average_y": 65.701754385965
     }
   ],
   "players_info": [
