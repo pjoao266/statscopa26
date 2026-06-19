@@ -105,89 +105,104 @@ document.addEventListener('DOMContentLoaded', () => {
 // 3. LÓGICA DO BINGO DOS MINUTOS (ATUALIZADA)
 // ==========================================
     function renderBingo(data) {
-        const grid = document.getElementById('bingo-grid');
-        grid.innerHTML = '';
-        
-        const firstHalfMap = {};
-        const secondHalfMap = {};
+            const container = document.getElementById('bingo-grid');
+            container.innerHTML = '';
+            container.className = ''; // Removemos a classe grid do container principal
+            
+            const firstHalfMap = {};
+            const secondHalfMap = {};
 
-        // 1º Tempo: do 0 ao 45 e acréscimos
-        for(let i=0; i<=45; i++) firstHalfMap[i.toString()] = [];
-        for(let i=1; i<=10; i++) firstHalfMap[`45+${i}`] = [];
-        
-        // 2º Tempo: do 46 ao 90 e acréscimos
-        for(let i=46; i<=90; i++) secondHalfMap[i.toString()] = [];
-        for(let i=1; i<=10; i++) secondHalfMap[`90+${i}`] = [];
+            for(let i=1; i<=45; i++) firstHalfMap[i.toString()] = [];
+            for(let i=1; i<=10; i++) firstHalfMap[`45+${i}`] = [];
+            
+            for(let i=46; i<=90; i++) secondHalfMap[i.toString()] = [];
+            for(let i=1; i<=10; i++) secondHalfMap[`90+${i}`] = [];
 
-        data.goals.forEach(g => {
-            const m = g.minute;
-            if(firstHalfMap[m] !== undefined) firstHalfMap[m].push(g);
-            else if(secondHalfMap[m] !== undefined) secondHalfMap[m].push(g);
-        });
-
-        const totalRegulares = 91; // Agora conta do 0 ao 90 (91 minutos totais)
-        let filledRegulares = 0;
-
-        const renderHalf = (map, title) => {
-            // Criar o Título de Separação Visual
-            const sectionTitle = document.createElement('h5');
-            sectionTitle.className = "bingo-section-title";
-            sectionTitle.innerHTML = title;
-            grid.appendChild(sectionTitle);
-
-            // Lógica de Ordenação Segura
-            const keys = Object.keys(map).sort((a, b) => {
-                const baseA = parseInt(a);
-                const baseB = parseInt(b);
-                if (baseA !== baseB) return baseA - baseB;
+            data.goals.forEach(g => {
+                const m = String(g.minute);
                 
-                const isPlusA = a.includes('+');
-                const isPlusB = b.includes('+');
-                if (!isPlusA && isPlusB) return -1;
-                if (isPlusA && !isPlusB) return 1;
-                
-                const extraA = isPlusA ? parseInt(a.split('+')[1]) : 0;
-                const extraB = isPlusB ? parseInt(b.split('+')[1]) : 0;
-                return extraA - extraB;
-            });
-
-            keys.forEach(min => {
-                const goalsArray = map[min];
-                const count = goalsArray.length;
-                const isRegular = !min.includes('+') && parseInt(min) >= 0 && parseInt(min) <= 90;
-                if (isRegular && count > 0) filledRegulares++;
-
-                const box = document.createElement('div');
-                box.className = `bingo-box ${count > 0 ? 'active' : ''}`;
-                box.innerHTML = `
-                    <div>${min}'</div>
-                    <div class="count">${count > 0 ? count + ' gol(s)' : ''}</div>
-                `;
-                
-                if (count > 0) {
-                    box.addEventListener('click', () => showBingoModal(min, goalsArray, data));
+                if (firstHalfMap[m] !== undefined) {
+                    firstHalfMap[m].push(g);
+                } else if (secondHalfMap[m] !== undefined) {
+                    secondHalfMap[m].push(g);
+                } else {
+                    if (m.startsWith('45+')) firstHalfMap[m] = [g];
+                    else if (m.startsWith('90+') || parseInt(m) > 90) secondHalfMap[m] = [g];
+                    else if (parseInt(m) <= 45) firstHalfMap[m] = [g];
+                    else secondHalfMap[m] = [g];
                 }
-                grid.appendChild(box);
             });
-        };
 
-        // Renderiza primeiro o 1º tempo, depois o 2º tempo (isso já impede o 46 de se misturar)
-        renderHalf(firstHalfMap, '');
-        renderHalf(secondHalfMap, '');
+            let filledRegulares = 0;
+            const totalRegulares = 91; 
 
-        const progress = Math.round((filledRegulares / totalRegulares) * 100);
-        const pb = document.getElementById('bingo-progress-bar');
-        pb.style.width = `${progress}%`;
-        pb.textContent = `${progress}%`;
-        
-        const faltam = totalRegulares - filledRegulares;
-        const statusText = document.getElementById('bingo-status-text');
-        if (faltam === 0) {
-            statusText.innerHTML = '<span class="text-success"><i class="fa-solid fa-check-circle me-1"></i> Bingo gabaritado!</span>';
-        } else {
-            statusText.textContent = `Faltam ${faltam} minutos (do tempo regulamentar) para gabaritar!`;
+            // Função para criar o título e a grelha de CADA tempo
+            const renderHalf = (map, title) => {
+                // 1. Cria o Título 100% separado da grelha
+                const sectionTitle = document.createElement('h5');
+                sectionTitle.className = "bingo-section-title";
+                sectionTitle.innerHTML = title;
+                container.appendChild(sectionTitle);
+
+                // 2. Cria uma nova grelha isolada
+                const subGrid = document.createElement('div');
+                subGrid.className = "bingo-grid";
+
+                const keys = Object.keys(map).sort((a, b) => {
+                    const baseA = parseInt(a), baseB = parseInt(b);
+                    if (baseA !== baseB) return baseA - baseB;
+                    
+                    const isPlusA = a.includes('+'), isPlusB = b.includes('+');
+                    if (!isPlusA && isPlusB) return -1;
+                    if (isPlusA && !isPlusB) return 1;
+                    
+                    const extraA = isPlusA ? parseInt(a.split('+')[1]) : 0;
+                    const extraB = isPlusB ? parseInt(b.split('+')[1]) : 0;
+                    return extraA - extraB;
+                });
+
+                keys.forEach(min => {
+                    const goalsArray = map[min];
+                    const count = goalsArray.length;
+                    
+                    const isRegular = !min.includes('+') && parseInt(min) >= 0 && parseInt(min) <= 90;
+                    if (isRegular && count > 0) filledRegulares++;
+
+                    const box = document.createElement('div');
+                    box.className = `bingo-box ${count > 0 ? 'active' : ''}`;
+                    box.innerHTML = `
+                        <div class="minute">${min}'</div>
+                        ${count > 0 ? `<div class="badge-count">${count} gol(s)</div>` : ''}
+                    `;
+                    
+                    if (count > 0) {
+                        box.addEventListener('click', () => showBingoModal(min, goalsArray, data));
+                    }
+                    subGrid.appendChild(box);
+                });
+
+                // 3. Adiciona a grelha ao container principal
+                container.appendChild(subGrid);
+            };
+
+            // Renderiza os dois blocos separadamente
+            renderHalf(firstHalfMap, '<i class="fa-regular fa-clock text-warning me-2"></i> 1º Tempo');
+            renderHalf(secondHalfMap, '<i class="fa-solid fa-clock text-warning me-2"></i> 2º Tempo');
+
+            // Lógica da Barra de Progresso...
+            const progress = Math.round((filledRegulares / totalRegulares) * 100);
+            const pb = document.getElementById('bingo-progress-bar');
+            pb.style.width = `${progress}%`;
+            pb.textContent = `${progress}%`;
+            
+            const faltam = totalRegulares - filledRegulares;
+            const statusText = document.getElementById('bingo-status-text');
+            if (faltam === 0) {
+                statusText.innerHTML = '<span class="text-success"><i class="fa-solid fa-check-circle me-1"></i> Bingo gabaritado!</span>';
+            } else {
+                statusText.textContent = `Faltam ${faltam} minutos (do tempo regulamentar) para gabaritar!`;
+            }
         }
-    }
 
     function getMatchScoreAtMinute(matchId, targetMinuteStr, data) {
         const matchGoals = data.goals.filter(g => g.match_id === matchId);

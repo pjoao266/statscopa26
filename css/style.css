@@ -120,43 +120,123 @@ body {
 }
 
 /* Bingo Grid (Otimizado para o olhar não se perder) */
+/* Grid geral do Bingo */
+.bingo-grid {
+    display: grid;
+    /* Aumenta um pouco a largura mínima para as caixas respirarem melhor */
+    grid-template-columns: repeat(auto-fill, minmax(75px, 1fr)); 
+    gap: 12px;
+}
+
+/* Título de Separação (1º Tempo / 2º Tempo) */
+.bingo-section-title {
+    grid-column: 1 / -1;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 800;
+    font-size: 1.1rem;
+    background-color: var(--bs-tertiary-bg);
+    padding: 12px 16px;
+    border-radius: 8px;
+    border-left: 5px solid #D97706; /* Um destaque dourado na lateral */
+    color: var(--bs-body-color);
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Caixinhas dos Minutos */
 .bingo-box {
-    width: 45px;
-    height: 45px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 8px;
-    background-color: rgba(148, 163, 184, 0.08);
-    color: var(--bs-body-color);
-    font-size: 14px;
-    font-weight: 600;
-    border: 1px solid rgba(148, 163, 184, 0.15);
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.2s;
+    aspect-ratio: 1; /* Força a serem quadrados perfeitos */
+    border: 1px solid var(--bs-border-color-translucent);
+    border-radius: 12px;
+    text-align: center;
+    background-color: var(--bs-secondary-bg);
+    color: var(--bs-secondary-color);
+    transition: all 0.2s ease-in-out;
+    user-select: none;
+    padding: 8px;
 }
 
+/* Caixinha Ativa (Com Gol) */
+/* Container que agrupa cada tempo do Bingo */
+.bingo-grid {
+    display: grid;
+    /* Tamanho FIXO de 75px. Nada de esticar (1fr)! */
+    grid-template-columns: repeat(auto-fill, 75px); 
+    justify-content: center; /* Mantém o bloco de quadrados centrado no ecrã */
+    gap: 12px;
+    margin-bottom: 2rem;
+}
+
+/* Título de Separação (1º Tempo / 2º Tempo) */
+.bingo-section-title {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 800;
+    font-size: 1.1rem;
+    background-color: var(--bs-tertiary-bg);
+    padding: 12px 16px;
+    border-radius: 8px;
+    border-left: 5px solid #D97706;
+    color: var(--bs-body-color);
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Caixinhas dos Minutos */
+.bingo-box {
+    width: 75px;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--bs-border-color-translucent);
+    border-radius: 12px;
+    text-align: center;
+    background-color: var(--bs-secondary-bg);
+    color: var(--bs-secondary-color);
+    transition: all 0.2s ease-in-out;
+    user-select: none;
+    padding: 4px;
+}
+
+/* Caixinha Ativa (Com Gol) */
 .bingo-box.active {
-    background-color: #16A34A !important; /* Verde fosco de gol anotado */
-    border-color: #16A34A !important;
-    transform: scale(1.03);
+    background: linear-gradient(135deg, #10b981 0%, #15803d 100%);
+    color: white;
+    border: none;
     cursor: pointer;
+    box-shadow: 0 4px 10px rgba(16, 185, 129, 0.3);
 }
 
 .bingo-box.active:hover {
-    background-color: #15803D !important;
-    transform: scale(1.08);
+    transform: translateY(-4px) scale(1.05);
+    box-shadow: 0 8px 15px rgba(16, 185, 129, 0.4);
+    filter: brightness(1.1);
 }
 
-.bingo-box.active, 
-[data-bs-theme="dark"] .bingo-box.active, 
-[data-bs-theme="light"] .bingo-box.active { 
-    color: #FFFFFF !important; 
+/* Textos dentro da caixinha */
+.bingo-box .minute {
+    font-size: 1.3rem;
+    font-weight: 800;
+    line-height: 1;
 }
 
-.bingo-box .count {
-    font-size: 10px;
-    opacity: 0.85;
+.bingo-box .badge-count {
+    font-size: 0.7rem;
+    margin-top: 8px;
+    background: rgba(255, 255, 255, 0.25);
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
 }
 
 /* Progress Bar */
