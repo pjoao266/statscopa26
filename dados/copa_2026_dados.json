@@ -296,7 +296,7 @@
       "away": "Morocco",
       "home_score": 0,
       "away_score": 1,
-      "status": "2nd half",
+      "status": "Ended",
       "round": "2ª rodada",
       "roundStage": "Fase de Grupos"
     }
@@ -14153,42 +14153,42 @@
       "player_id": 75756,
       "player_name": "Kenny McLean",
       "xg": 0,
-      "xa": 0.00803681,
-      "rating": 6.6,
+      "xa": 0.00804928,
+      "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-4-1-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 53.204761904762,
+      "average_y": 53.533333333333
     },
     {
       "match_id": 15186859,
       "player_id": 95791,
       "player_name": "Grant Hanley",
       "xg": 0,
-      "xa": 0.00621141,
-      "rating": 6.7,
+      "xa": 0.0215693,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 32.181428571429,
+      "average_y": 30.281428571429
     },
     {
       "match_id": 15186859,
       "player_id": 227946,
       "player_name": "Angus Gunn",
       "xg": 0,
-      "xa": 0.00054793,
+      "xa": 0.00057456,
       "rating": 6.8,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 11.332653061224,
+      "average_y": 48.987755102041
     },
     {
       "match_id": 15186859,
@@ -14198,25 +14198,25 @@
       "xa": 0.12941,
       "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 62.548648648649,
+      "average_y": 41.543243243243
     },
     {
       "match_id": 15186859,
       "player_id": 262911,
       "player_name": "Andy Robertson",
       "xg": 0,
-      "xa": 0.127437,
-      "rating": 6.5,
+      "xa": 0.127441,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.39512195122,
+      "average_y": 84.535365853659
     },
     {
       "match_id": 15186859,
@@ -14226,25 +14226,25 @@
       "xa": 0.00523397,
       "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 48.421739130435,
+      "average_y": 42.934782608696
     },
     {
       "match_id": 15186859,
       "player_id": 360938,
       "player_name": "Bono",
       "xg": 0,
-      "xa": 0.00005115,
+      "xa": 0.00027811,
       "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 9.748,
+      "average_y": 51.456
     },
     {
       "match_id": 15186859,
@@ -14254,11 +14254,11 @@
       "xa": 0.0255296,
       "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 53.871428571429,
+      "average_y": 79.62
     },
     {
       "match_id": 15186859,
@@ -14271,50 +14271,50 @@
       "detailed_position": "CA",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 50.493333333333,
+      "average_y": 52.706666666667
     },
     {
       "match_id": 15186859,
       "player_id": 795696,
       "player_name": "Jack Hendry",
       "xg": 0,
-      "xa": 0.0106588,
+      "xa": 0.0106769,
       "rating": 7.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 34.048275862069,
+      "average_y": 64.450574712644
     },
     {
       "match_id": 15186859,
       "player_id": 814594,
       "player_name": "Achraf Hakimi",
       "xg": 0.314936478622261,
-      "xa": 0.207571,
-      "rating": 6.7,
+      "xa": 0.209289,
+      "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 52.614782608696,
+      "average_y": 16.402608695652
     },
     {
       "match_id": 15186859,
       "player_id": 825719,
       "player_name": "Issa Diop",
       "xg": 0,
-      "xa": 0.00424071,
-      "rating": 6.7,
+      "xa": 0.00483764,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 30.72972972973,
+      "average_y": 26.434234234234
     },
     {
       "match_id": 15186859,
@@ -14322,27 +14322,41 @@
       "player_name": "Brahim Díaz",
       "xg": 0.042207263410091,
       "xa": 0.332362,
-      "rating": 7.2,
+      "rating": 7.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 59.056060606061,
+      "average_y": 22.359090909091
+    },
+    {
+      "match_id": 15186859,
+      "player_id": 840227,
+      "player_name": "Tony Ralston",
+      "xg": 0,
+      "xa": 0.00762286,
+      "rating": 6.7,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-4-1-1",
+      "is_starter": false,
+      "average_x": 49.642857142857,
+      "average_y": 26.414285714286
     },
     {
       "match_id": 15186859,
       "player_id": 846204,
       "player_name": "Lyndon Dykes",
       "xg": 0.16738314926624,
-      "xa": 0.00024853,
-      "rating": 6.3,
+      "xa": 0.000253,
+      "rating": 6.4,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "4-4-1-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 62.7,
+      "average_y": 57.94
     },
     {
       "match_id": 15186859,
@@ -14350,41 +14364,69 @@
       "player_name": "Noussair Mazraoui",
       "xg": 0,
       "xa": 0.0103131,
-      "rating": 7.1,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.692307692308,
+      "average_y": 83.033333333333
     },
     {
       "match_id": 15186859,
       "player_id": 879346,
       "player_name": "Scott McTominay",
-      "xg": 0.119537672668695,
-      "xa": 0.0351954,
+      "xg": 0.130525838583707,
+      "xa": 0.0352383,
       "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 50.950847457627,
+      "average_y": 59.084745762712
+    },
+    {
+      "match_id": 15186859,
+      "player_id": 886117,
+      "player_name": "Ross Stewart",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-4-1-1",
+      "is_starter": false,
+      "average_x": 83.68,
+      "average_y": 63.96
     },
     {
       "match_id": 15186859,
       "player_id": 907152,
       "player_name": "Lewis Ferguson",
       "xg": 0,
-      "xa": 0.0256706,
-      "rating": 7.3,
+      "xa": 0.0256781,
+      "rating": 7.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 43.232989690722,
+      "average_y": 55.275257731959
+    },
+    {
+      "match_id": 15186859,
+      "player_id": 953995,
+      "player_name": "Soufiane Rahimi",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.5,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 53.95,
+      "average_y": 32.15
     },
     {
       "match_id": 15186859,
@@ -14392,13 +14434,13 @@
       "player_name": "Azzedine Ounahi",
       "xg": 0,
       "xa": 0.0514125,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.950574712644,
+      "average_y": 37.249425287356
     },
     {
       "match_id": 15186859,
@@ -14411,8 +14453,8 @@
       "detailed_position": "LD",
       "formation": "4-4-1-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 45.016666666667,
+      "average_y": 13.027083333333
     },
     {
       "match_id": 15186859,
@@ -14425,22 +14467,22 @@
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.389473684211,
+      "average_y": 54.618421052632
     },
     {
       "match_id": 15186859,
       "player_id": 1064218,
       "player_name": "Chadi Riad",
       "xg": 0,
-      "xa": 0.00197653,
-      "rating": 7,
+      "xa": 0.00197918,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 30.813580246914,
+      "average_y": 63.135802469136
     },
     {
       "match_id": 15186859,
@@ -14450,67 +14492,95 @@
       "xa": 0.126773,
       "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 58.677966101695,
+      "average_y": 70.96779661017
     },
     {
       "match_id": 15186859,
       "player_id": 1128530,
       "player_name": "Neil El Aynaoui",
       "xg": 0.047450039535761,
-      "xa": 0.0146094,
+      "xa": 0.0154268,
       "rating": 6.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 43.169158878505,
+      "average_y": 50.599065420561
     },
     {
       "match_id": 15186859,
       "player_id": 1142675,
       "player_name": "Chemsdine Talbi",
-      "xg": 0,
-      "xa": 0.00000203,
-      "rating": null,
+      "xg": 0.0538582233712074,
+      "xa": 0.0123558,
+      "rating": 6.5,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PE",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.814285714286,
+      "average_y": 82.214285714286
     },
     {
       "match_id": 15186859,
       "player_id": 1154861,
       "player_name": "Ben Gannon-Doak",
       "xg": 0,
-      "xa": 0.00439556,
+      "xa": 0.00461609,
       "rating": 6.5,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PD",
       "formation": "4-4-1-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 67.215,
+      "average_y": 13.125
     },
     {
       "match_id": 15186859,
       "player_id": 1564180,
       "player_name": "Ayyoub Bouaddi",
       "xg": 0.011489948257804,
-      "xa": 0.00931928,
-      "rating": 6.4,
+      "xa": 0.00989617,
+      "rating": 6.5,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 46.51125,
+      "average_y": 40.08
+    },
+    {
+      "match_id": 15186859,
+      "player_id": 1605921,
+      "player_name": "Samir El Mourabet",
+      "xg": 0,
+      "xa": 0.0284241,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 58.2375,
+      "average_y": 44.8625
+    },
+    {
+      "match_id": 15186859,
+      "player_id": 1898148,
+      "player_name": "Ayoube Amaimouni Echghouyab",
+      "xg": 0.090730242431164,
+      "xa": 0.020835,
+      "rating": 6.4,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 65.933333333333,
+      "average_y": 10.733333333333
     }
   ],
   "players_info": [
