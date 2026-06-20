@@ -1,16 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 15186720,
-      "home": "South Korea",
-      "away": "Czechia",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
       "match_id": 15186836,
       "home": "Canada",
       "away": "Bosnia & Herzegovina",
@@ -301,11 +291,31 @@
       "roundStage": "Fase de Grupos"
     },
     {
+      "match_id": 15186879,
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "1st half",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
       "match_id": 15186710,
       "home": "Mexico",
       "away": "South Africa",
       "home_score": 2,
       "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186720,
+      "home": "South Korea",
+      "away": "Czechia",
+      "home_score": 2,
+      "away_score": 1,
       "status": "Ended",
       "round": "1ª rodada",
       "roundStage": "Fase de Grupos"
@@ -15075,6 +15085,76 @@
       "is_starter": false,
       "average_x": 55.274193548387,
       "average_y": 19.629032258065
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 806968,
+      "player_name": "Merih Demiral",
+      "xg": 0,
+      "xa": 5e-7,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 836683,
+      "player_name": "Mert Müldür",
+      "xg": 0,
+      "xa": 0.00000315,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 952600,
+      "player_name": "İsmail Yüksek",
+      "xg": 0,
+      "xa": 0.00019846,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 989801,
+      "player_name": "Juan Cáceres",
+      "xg": 0,
+      "xa": 0.00000723,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 1091116,
+      "player_name": "Arda Güler",
+      "xg": 0,
+      "xa": 0.00000971,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null
     }
   ],
   "players_info": [
