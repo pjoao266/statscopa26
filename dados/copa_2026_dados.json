@@ -296,7 +296,7 @@
       "away": "Paraguay",
       "home_score": 0,
       "away_score": 1,
-      "status": "2nd half",
+      "status": "Ended",
       "round": "2ª rodada",
       "roundStage": "Fase de Grupos"
     },
@@ -15102,15 +15102,15 @@
       "match_id": 15186879,
       "player_id": 135700,
       "player_name": "Hakan Çalhanoğlu",
-      "xg": 0.1552990889176728,
-      "xa": 0.216999,
-      "rating": 7.4,
+      "xg": 0.1883405493572348,
+      "xa": 0.315333,
+      "rating": 7.6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 57.555371900826,
+      "average_y": 57.23305785124
     },
     {
       "match_id": 15186879,
@@ -15123,8 +15123,8 @@
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.176691729323,
+      "average_y": 71.696240601504
     },
     {
       "match_id": 15186879,
@@ -15132,27 +15132,27 @@
       "player_name": "Gustavo Gómez",
       "xg": 0.053261194378138,
       "xa": 0.0005949,
-      "rating": 7.2,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 24.670967741935,
+      "average_y": 41.745161290323
     },
     {
       "match_id": 15186879,
       "player_id": 333275,
       "player_name": "Junior Alonso",
       "xg": 0,
-      "xa": 0.00662831,
-      "rating": 7.2,
+      "xa": 0.00663009,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 29.25,
+      "average_y": 79.413636363636
     },
     {
       "match_id": 15186879,
@@ -15162,11 +15162,11 @@
       "xa": 0.00455809,
       "rating": 5.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 37.725925925926,
+      "average_y": 43.396296296296
     },
     {
       "match_id": 15186879,
@@ -15176,39 +15176,39 @@
       "xa": 0.00874942,
       "rating": 6.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 34.38813559322,
+      "average_y": 46.774576271186
     },
     {
       "match_id": 15186879,
       "player_id": 754330,
       "player_name": "Uğurcan Çakır",
       "xg": 0,
-      "xa": 0.00523211,
+      "xa": 0.0052337,
       "rating": 6.2,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 21.355,
+      "average_y": 49.3125
     },
     {
       "match_id": 15186879,
       "player_id": 789453,
       "player_name": "Gabriel Ávalos",
       "xg": 0,
-      "xa": 0.00042099,
+      "xa": 0.00042902,
       "rating": null,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 74.94,
+      "average_y": 52.8
     },
     {
       "match_id": 15186879,
@@ -15216,41 +15216,41 @@
       "player_name": "Omar Alderete",
       "xg": 0.0060507846064866,
       "xa": 0.0001483,
-      "rating": 6.9,
+      "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 28.058620689655,
+      "average_y": 56.068965517241
     },
     {
       "match_id": 15186879,
       "player_id": 805427,
       "player_name": "Gustavo Velázquez",
       "xg": 0,
-      "xa": 0.00319467,
-      "rating": 6.7,
+      "xa": 0.0031947,
+      "rating": 7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "4-4-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.136363636364,
+      "average_y": 15.1
     },
     {
       "match_id": 15186879,
       "player_id": 806968,
       "player_name": "Merih Demiral",
-      "xg": 0.257166979834439,
+      "xg": 0.333346506580712,
       "xa": 0.0434803,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 49.744230769231,
+      "average_y": 37.904807692308
     },
     {
       "match_id": 15186879,
@@ -15263,22 +15263,22 @@
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 60.257647058824,
+      "average_y": 84.761176470588
     },
     {
       "match_id": 15186879,
       "player_id": 836683,
       "player_name": "Mert Müldür",
-      "xg": 0.182211019098759,
-      "xa": 0.0967147,
-      "rating": 6.5,
+      "xg": 0.198562126606703,
+      "xa": 0.0975242,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 62.637755102041,
+      "average_y": 18.90306122449
     },
     {
       "match_id": 15186879,
@@ -15288,11 +15288,25 @@
       "xa": 0.0423385,
       "rating": 6.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 68.017073170732,
+      "average_y": 24.175609756098
+    },
+    {
+      "match_id": 15186879,
+      "player_id": 877452,
+      "player_name": "José Canale",
+      "xg": 0,
+      "xa": 0.00001387,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 53.3375,
+      "average_y": 80.1625
     },
     {
       "match_id": 15186879,
@@ -15305,36 +15319,36 @@
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 82.825,
+      "average_y": 45.425
     },
     {
       "match_id": 15186879,
       "player_id": 904096,
       "player_name": "Barış Alper Yılmaz",
-      "xg": 0.025532389059663,
-      "xa": 0.141646,
-      "rating": 6.7,
+      "xg": 0.024886634200811,
+      "xa": 0.111762,
+      "rating": 6.6,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PD",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 78.075862068965,
+      "average_y": 26.275862068966
     },
     {
       "match_id": 15186879,
       "player_id": 907461,
       "player_name": "Orkun Kökçü",
       "xg": 0,
-      "xa": 0.0109951,
+      "xa": 0.0130446,
       "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 56.7,
+      "average_y": 25.461538461538
     },
     {
       "match_id": 15186879,
@@ -15344,25 +15358,25 @@
       "xa": 0.0535071,
       "rating": 6.9,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 52.291666666667,
+      "average_y": 52.661904761905
     },
     {
       "match_id": 15186879,
       "player_id": 973556,
       "player_name": "Julio Enciso",
       "xg": 0.094098202884197,
-      "xa": 0.0814965,
+      "xa": 0.118374,
       "rating": 7.6,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 58.690697674419,
+      "average_y": 55.613953488372
     },
     {
       "match_id": 15186879,
@@ -15375,22 +15389,22 @@
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 51.25,
+      "average_y": 51.91
     },
     {
       "match_id": 15186879,
       "player_id": 981483,
       "player_name": "Eren Elmalı",
       "xg": 0,
-      "xa": 0.0177149,
-      "rating": 6.5,
+      "xa": 0.102087,
+      "rating": 6.8,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 55.334615384615,
+      "average_y": 78.011538461538
     },
     {
       "match_id": 15186879,
@@ -15398,13 +15412,13 @@
       "player_name": "Juan Cáceres",
       "xg": 0.052846308797598,
       "xa": 0.00086154,
-      "rating": 8,
+      "rating": 8.2,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 30.732835820896,
+      "average_y": 15.617910447761
     },
     {
       "match_id": 15186879,
@@ -15412,13 +15426,13 @@
       "player_name": "Orlando Gill",
       "xg": 0,
       "xa": 0.00306873,
-      "rating": 7.4,
+      "rating": 7.8,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 9.2220338983051,
+      "average_y": 49.55593220339
     },
     {
       "match_id": 15186879,
@@ -15428,11 +15442,11 @@
       "xa": 0.00003441,
       "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 29.55625,
+      "average_y": 26.4625
     },
     {
       "match_id": 15186879,
@@ -15440,97 +15454,97 @@
       "player_name": "Diego Gómez",
       "xg": 0.023166973143816,
       "xa": 0.0100489,
-      "rating": 6.7,
+      "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 43.064912280702,
+      "average_y": 48.10350877193
     },
     {
       "match_id": 15186879,
       "player_id": 1091116,
       "player_name": "Arda Güler",
       "xg": 0.245635334402321,
-      "xa": 0.240087,
-      "rating": 7.3,
+      "xa": 0.357288,
+      "rating": 7.6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 64.067307692308,
+      "average_y": 35.447115384615
     },
     {
       "match_id": 15186879,
       "player_id": 1105836,
       "player_name": "Matías Galarza",
-      "xg": 0.056114722043276,
+      "xg": 0.09052760712802399,
       "xa": 0.0298398,
-      "rating": 7.6,
+      "rating": 7.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "4-4-2",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 42.459322033898,
+      "average_y": 59.516949152542
     },
     {
       "match_id": 15186879,
       "player_id": 1149011,
       "player_name": "Kenan Yıldız",
-      "xg": 0.18466598726809103,
-      "xa": 0.522307,
+      "xg": 0.20417058095336,
+      "xa": 0.536346,
       "rating": 7.3,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "4-2-3-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 74.11030927835,
+      "average_y": 80.542268041237
     },
     {
       "match_id": 15186879,
       "player_id": 1407720,
       "player_name": "Deniz Gül",
-      "xg": 0.38920758664608,
+      "xg": 0.58871875703335,
       "xa": 0,
-      "rating": 6.3,
+      "rating": 6.2,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 68.271428571429,
+      "average_y": 55.8
     },
     {
       "match_id": 15186879,
       "player_id": 1440948,
       "player_name": "Can Uzun",
-      "xg": 0.187401652336121,
-      "xa": 0.0211547,
-      "rating": 6.5,
+      "xg": 0.285507857799529,
+      "xa": 0.0281954,
+      "rating": 6.8,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "4-2-3-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.88125,
+      "average_y": 69.45
     },
     {
       "match_id": 15186879,
       "player_id": 1546739,
       "player_name": "Alexandro Maidana",
       "xg": 0,
-      "xa": 0.00060628,
-      "rating": 6.5,
+      "xa": 0.00114115,
+      "rating": 6.7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 52.65,
+      "average_y": 40.2125
     }
   ],
   "players_info": [
