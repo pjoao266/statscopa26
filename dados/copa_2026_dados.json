@@ -1,16 +1,6 @@
 {
   "matches": [
     {
-      "match_id": 15186836,
-      "home": "Canada",
-      "away": "Bosnia & Herzegovina",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
       "match_id": 15186873,
       "home": "USA",
       "away": "Paraguay",
@@ -301,6 +291,16 @@
       "roundStage": "Fase de Grupos"
     },
     {
+      "match_id": 15186957,
+      "home": "Netherlands",
+      "away": "Sweden",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "1st half",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
       "match_id": 15186710,
       "home": "Mexico",
       "away": "South Africa",
@@ -315,6 +315,16 @@
       "home": "South Korea",
       "away": "Czechia",
       "home_score": 2,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186836,
+      "home": "Canada",
+      "away": "Bosnia & Herzegovina",
+      "home_score": 1,
       "away_score": 1,
       "status": "Ended",
       "round": "1ª rodada",
