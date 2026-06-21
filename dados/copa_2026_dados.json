@@ -296,7 +296,7 @@
       "away": "Japan",
       "home_score": 0,
       "away_score": 4,
-      "status": "2nd half",
+      "status": "Ended",
       "round": "2ª rodada",
       "roundStage": "Fase de Grupos"
     },
@@ -1660,7 +1660,7 @@
     },
     {
       "match_id": 15186963,
-      "minute": "84",
+      "minute": "83",
       "scorer_id": 985823,
       "scorer_name": "Ayase Ueda",
       "assist_id": 1028307,
@@ -17074,31 +17074,45 @@
     },
     {
       "match_id": 15186963,
+      "player_id": 149479,
+      "player_name": "Rani Khedira",
+      "xg": 0,
+      "xa": 0.00010555,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 46.771428571429,
+      "average_y": 65.585714285714
+    },
+    {
+      "match_id": 15186963,
       "player_id": 591706,
       "player_name": "Ellyes Skhiri",
       "xg": 0,
       "xa": 0.00525341,
       "rating": 6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "VOL",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.246296296296,
+      "average_y": 59.65
     },
     {
       "match_id": 15186963,
       "player_id": 783278,
       "player_name": "Junya Ito",
       "xg": 0.636641751974819,
-      "xa": 0.0377997,
-      "rating": 7,
+      "xa": 0.0383026,
+      "rating": 6.9,
       "nominal_position": "F",
       "detailed_position": "PD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.3425,
+      "average_y": 18.56
     },
     {
       "match_id": 15186963,
@@ -17106,27 +17120,27 @@
       "player_name": "Ritsu Doan",
       "xg": 0,
       "xa": 0.0100909,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 59.603921568627,
+      "average_y": 8.2509803921569
     },
     {
       "match_id": 15186963,
       "player_id": 790989,
       "player_name": "Ko Itakura",
       "xg": 0,
-      "xa": 0.0523427,
-      "rating": 7.7,
+      "xa": 0.0530428,
+      "rating": 7.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 33.423853211009,
+      "average_y": 51.245871559633
     },
     {
       "match_id": 15186963,
@@ -17136,11 +17150,11 @@
       "xa": 0.0133095,
       "rating": 6.6,
       "nominal_position": "F",
-      "detailed_position": "CA",
+      "detailed_position": "PE",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 63.217777777778,
+      "average_y": 76.211111111111
     },
     {
       "match_id": 15186963,
@@ -17148,13 +17162,13 @@
       "player_name": "Takehiro Tomiyasu",
       "xg": 0.14002181589603,
       "xa": 0.0179998,
-      "rating": 7.3,
+      "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.173958333333,
+      "average_y": 17.697916666667
     },
     {
       "match_id": 15186963,
@@ -17162,13 +17176,13 @@
       "player_name": "Yan Valery",
       "xg": 0,
       "xa": 0.0223522,
-      "rating": 6.5,
+      "rating": 6.4,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 58.36875,
+      "average_y": 7.2229166666667
     },
     {
       "match_id": 15186963,
@@ -17181,92 +17195,92 @@
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 37.09375,
+      "average_y": 25.46875
     },
     {
       "match_id": 15186963,
       "player_id": 871886,
       "player_name": "Ao Tanaka",
       "xg": 0.02709798142314,
-      "xa": 0.0321334,
-      "rating": 7.1,
+      "xa": 0.032899,
+      "rating": 7.2,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 47.006315789474,
+      "average_y": 54.247368421053
     },
     {
       "match_id": 15186963,
       "player_id": 873106,
       "player_name": "Hiroki Itō",
       "xg": 0,
-      "xa": 0.0167151,
-      "rating": 7.2,
+      "xa": 0.0175392,
+      "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 43.725742574257,
+      "average_y": 83.151485148515
     },
     {
       "match_id": 15186963,
       "player_id": 873221,
       "player_name": "Ayumu Seko",
       "xg": 0,
-      "xa": 0.00014957,
-      "rating": 6.6,
+      "xa": 0.00207838,
+      "rating": 6.7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 39.768421052632,
+      "average_y": 18.589473684211
     },
     {
       "match_id": 15186963,
       "player_id": 879618,
       "player_name": "Montassar Talbi",
       "xg": 0,
-      "xa": 0.00391754,
+      "xa": 0.00396029,
       "rating": 5.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 34.907575757576,
+      "average_y": 52.345454545455
     },
     {
       "match_id": 15186963,
       "player_id": 905347,
       "player_name": "Yukinari Sugawara",
       "xg": 0,
-      "xa": 0.0030788,
-      "rating": 6.2,
+      "xa": 0.00431401,
+      "rating": 6.4,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LD",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 60.483333333333,
+      "average_y": 9.65
     },
     {
       "match_id": 15186963,
       "player_id": 905351,
       "player_name": "Zion Suzuki",
       "xg": 0,
-      "xa": 0.00550297,
+      "xa": 0.00550549,
       "rating": 6.9,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 10.37,
+      "average_y": 47.286666666667
     },
     {
       "match_id": 15186963,
@@ -17276,11 +17290,11 @@
       "xa": 0.30363,
       "rating": 7.6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.202,
+      "average_y": 89.83
     },
     {
       "match_id": 15186963,
@@ -17290,25 +17304,39 @@
       "xa": 0.00180696,
       "rating": 6.4,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "ME",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 44.448148148148,
+      "average_y": 88.42037037037
     },
     {
       "match_id": 15186963,
       "player_id": 919198,
       "player_name": "Firas Chaouat",
       "xg": 0,
-      "xa": 0.00451473,
-      "rating": 6.4,
+      "xa": 0.00457031,
+      "rating": 6.5,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 54.592307692308,
+      "average_y": 44.753846153846
+    },
+    {
+      "match_id": 15186963,
+      "player_id": 945204,
+      "player_name": "Elias Achouri",
+      "xg": 0,
+      "xa": 0.00024543,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 30.275,
+      "average_y": 18.15
     },
     {
       "match_id": 15186963,
@@ -17321,22 +17349,22 @@
       "detailed_position": "PE",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 58.158823529412,
+      "average_y": 59.376470588235
     },
     {
       "match_id": 15186963,
       "player_id": 976251,
       "player_name": "Omar Rekik",
       "xg": 0,
-      "xa": 0.0103206,
-      "rating": 5.8,
+      "xa": 0.0109685,
+      "rating": 5.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 40.984210526316,
+      "average_y": 57.042105263158
     },
     {
       "match_id": 15186963,
@@ -17346,25 +17374,25 @@
       "xa": 0.345398,
       "rating": 9.6,
       "nominal_position": "F",
-      "detailed_position": "PE",
+      "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 61.123529411765,
+      "average_y": 46.623529411765
     },
     {
       "match_id": 15186963,
       "player_id": 1000809,
       "player_name": "Amine Ben Hmida",
       "xg": 0,
-      "xa": 0.00237086,
-      "rating": 6.3,
+      "xa": 0.00243265,
+      "rating": 6.2,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LE",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 29.49347826087,
+      "average_y": 85.173913043478
     },
     {
       "match_id": 15186963,
@@ -17374,67 +17402,67 @@
       "xa": 0.0731407,
       "rating": 6.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 49.368518518519,
+      "average_y": 45.692592592593
     },
     {
       "match_id": 15186963,
       "player_id": 1009386,
       "player_name": "Hannibal Mejbri",
       "xg": 0.014202390797436,
-      "xa": 0.0194572,
-      "rating": 6.6,
+      "xa": 0.0194981,
+      "rating": 6.8,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 59.945901639344,
+      "average_y": 58.595081967213
     },
     {
       "match_id": 15186963,
       "player_id": 1020422,
       "player_name": "Yuito Suzuki",
       "xg": 0,
-      "xa": 0.00002453,
-      "rating": 6.5,
+      "xa": 0.00079201,
+      "rating": 6.6,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MEI",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 68.688888888889,
+      "average_y": 72.844444444444
     },
     {
       "match_id": 15186963,
       "player_id": 1028307,
       "player_name": "Kaishu Sano",
       "xg": 0,
-      "xa": 0.295459,
+      "xa": 0.298601,
       "rating": 7.7,
       "nominal_position": "M",
-      "detailed_position": "M",
+      "detailed_position": "MC",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 50.343181818182,
+      "average_y": 36.845454545455
     },
     {
       "match_id": 15186963,
       "player_id": 1113488,
       "player_name": "Ismael Gharbi",
       "xg": 0.031370893120766,
-      "xa": 0.00168284,
-      "rating": 6.5,
+      "xa": 0.0018331,
+      "rating": 6.3,
       "nominal_position": "F",
-      "detailed_position": "F",
+      "detailed_position": "PE",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 48.545454545455,
+      "average_y": 68.959090909091
     },
     {
       "match_id": 15186963,
@@ -17447,36 +17475,50 @@
       "detailed_position": "PD",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 62.377777777778,
+      "average_y": 35.827777777778
     },
     {
       "match_id": 15186963,
       "player_id": 1171902,
       "player_name": "Junnosuke Suzuki",
       "xg": 0,
-      "xa": 0.00000234,
-      "rating": 6.5,
+      "xa": 0.0000743,
+      "rating": 6.7,
       "nominal_position": "D",
-      "detailed_position": "D",
+      "detailed_position": "LE",
       "formation": "3-4-2-1",
       "is_starter": false,
-      "average_x": null,
-      "average_y": null
+      "average_x": 35.271428571429,
+      "average_y": 93.814285714286
     },
     {
       "match_id": 15186963,
       "player_id": 1198374,
       "player_name": "Aymen Dahmen",
       "xg": 0,
-      "xa": 0.00013704,
+      "xa": 0.00013986,
       "rating": 5.3,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "3-4-2-1",
       "is_starter": true,
-      "average_x": null,
-      "average_y": null
+      "average_x": 10.047058823529,
+      "average_y": 51.835294117647
+    },
+    {
+      "match_id": 15186963,
+      "player_id": 1391315,
+      "player_name": "Keisuke Goto",
+      "xg": 0,
+      "xa": 0.00183168,
+      "rating": 6.8,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 46.1,
+      "average_y": 78.533333333333
     }
   ],
   "players_info": [
