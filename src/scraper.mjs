@@ -33,13 +33,14 @@ async function checkLiveGamesWithRetry(jwtToken, retries = 10) {
                     'Authorization': `Bearer ${jwtToken}`
                 }
             });
+            
 
             if (!gamesResponse.ok) {
                 throw new Error(`HTTP Status ${gamesResponse.status}`);
             }
 
             const gamesData = await gamesResponse.json();
-            
+            console.log(`\n{${gamesData}`);
             let live_games = 0;
             let time_game = '';
             
