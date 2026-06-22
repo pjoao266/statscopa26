@@ -554,7 +554,7 @@ export async function runScraper() {
 }
 
 try {
-    const JWT_TOKEN = process.env.JWT_TOKEN || undefined; // ATENÇÃO: Insira seu token aqui
+    const JWT_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMzk1NzYxMGUyMjIyZTdlMzE5OWYwMSIsImlhdCI6MTc4MjE0MjgyNCwiZXhwIjoxNzg5NDAwNDI0fQ.2xRzSFszzg79RVt8Gu38iyWCyYTMofaUUAhBnzchjGU"; // ATENÇÃO: Insira seu token aqui
     
     // 1. Verifica se há jogos rodando antes de acionar o Sofascore
     const temJogoAoVivo = await checkLiveGamesWithRetry(JWT_TOKEN, 10);
