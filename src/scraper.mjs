@@ -538,7 +538,7 @@ export async function runScraper() {
 
 try {
     // 1. Verifica se há jogos rodando antes de acionar o Sofascore
-    const temJogoAoVivo = await checkLiveGamesESPN();
+    const temJogoAoVivo = true;
     
     if (temJogoAoVivo) {
         console.log("\n🚀 Jogos em andamento detectados! Iniciando raspagem do Sofascore...");
