@@ -20,6 +20,57 @@ const DADOS_DIR = "dados";
 const TOURNAMENT_ID = 16;
 const SEASON_ID = 58210;
 
+async function checkLiveGamesWithRetry(jwtToken, retries = 10) {
+    const BASE_URL = 'https://worldcup26.ir';
+    
+    for (let i = 0; i < retries; i++) {
+        try {
+            console.log(`\n⏳ [Tentativa ${i + 1}/${retries}] Verificando API de jogos ao vivo...`);
+            
+            const gamesResponse = await fetch(`${BASE_URL}/get/games`, {
+                method: 'GET',
+                headers: {
+                    'Authorization': `Bearer ${jwtToken}`
+                }
+            });
+
+            if (!gamesResponse.ok) {
+                throw new Error(`HTTP Status ${gamesResponse.status}`);
+            }
+
+            const gamesData = await gamesResponse.json();
+            
+            let live_games = 0;
+            let time_game = '';
+            
+            for (let game of (gamesData.games || [])) {
+                time_game = game.time_elapsed ? game.time_elapsed.toLowerCase().replace(/\s+/g, '') : '';
+
+                if (time_game !== 'notstarted' && time_game !== 'finished' && time_game !== '') {
+                    live_games++;
+                    console.log(`🟢 Jogo em andamento: tempo -> ${time_game}`);
+                }
+            }
+            
+            console.log(`✅ Total de jogos ao vivo encontrados: ${live_games}`);
+            return live_games > 0; // Retorna true se houver jogo, false se não houver
+            
+        } catch (error) {
+            console.error(`❌ Erro na tentativa ${i + 1}: ${error.message}`);
+            
+            if (i === retries - 1) {
+                console.error("🛑 Limite máximo de tentativas alcançado. Assumindo que não há jogos ao vivo para evitar falhas em cascata.");
+                return false;
+            }
+            
+            // Aguarda 2 segundos antes de tentar de novo para não sobrecarregar a API
+            console.log("🔄 Aguardando 2 segundos para tentar novamente...");
+            await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+    }
+    return false;
+}
+
 async function fetchJson(url) {
     // Tenta ler o proxy configurado no GitHub Actions. Se não houver, roda sem proxy (local)
     const proxyUrl = process.env.PROXY_URL || undefined;
@@ -502,8 +553,19 @@ export async function runScraper() {
 }
 
 try {
-    // Roda a extração usando a rede de proxies configurada
-    const dadosFinais = await runScraper();  
+    const JWT_TOKEN = process.env.JWT_TOKEN || undefined; // ATENÇÃO: Insira seu token aqui
+    
+    // 1. Verifica se há jogos rodando antes de acionar o Sofascore
+    const temJogoAoVivo = await checkLiveGamesWithRetry(JWT_TOKEN, 10);
+    
+    if (temJogoAoVivo) {
+        console.log("\n🚀 Jogos em andamento detectados! Iniciando raspagem do Sofascore...");
+        // Roda a extração usando a rede de proxies configurada
+        const dadosFinais = await runScraper();  
+    } else {
+        console.log("\n⏸️ Nenhum jogo em andamento. O scraper do Sofascore foi pausado.");
+    }
+    
 } catch (error) {
-    console.error("Ocorreu um erro durante a execução do script:", error);
+    console.error("❌ Ocorreu um erro crítico durante a execução do script:", error);
 }
