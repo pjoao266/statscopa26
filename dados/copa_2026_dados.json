@@ -24403,7 +24403,7 @@
       "rating": 7,
       "nominal_position": "G",
       "detailed_position": "GL",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24459,7 +24459,7 @@
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24484,10 +24484,10 @@
       "player_name": "Ricardo Adé",
       "xg": 0,
       "xa": 0.001694,
-      "rating": 6.3,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24501,7 +24501,7 @@
       "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24515,7 +24515,7 @@
       "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LD",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24529,7 +24529,7 @@
       "rating": 7.5,
       "nominal_position": "F",
       "detailed_position": "CA",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24553,11 +24553,11 @@
       "player_id": 954066,
       "player_name": "Ruben Providence",
       "xg": 0,
-      "xa": 0.0609067,
+      "xa": 0.0598422,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24585,7 +24585,7 @@
       "rating": 5.7,
       "nominal_position": "F",
       "detailed_position": "CA",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24599,7 +24599,7 @@
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24641,7 +24641,7 @@
       "rating": 5.9,
       "nominal_position": "D",
       "detailed_position": "LE",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
@@ -24697,7 +24697,7 @@
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
-      "formation": "4-4-2",
+      "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null
