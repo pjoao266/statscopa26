@@ -276,6 +276,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById('stats-filter')?.addEventListener('change', () => { if(appData) renderStats(appData); });
     document.getElementById('stats-sort')?.addEventListener('change', () => { if(appData) renderStats(appData); });
+    // NOVO: Adiciona o listener para o botão de p/90
+    document.getElementById('toggle-p90-stats')?.addEventListener('change', () => { if(appData) renderStats(appData); });
 
     document.querySelectorAll('#modal-players-table th[data-sort]').forEach(th => {
         th.addEventListener('click', () => {
@@ -294,14 +296,19 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderStats(data) {
         const filter = document.getElementById('stats-filter').value;
         const sortBy = document.getElementById('stats-sort').value;
+        const isP90 = document.getElementById('toggle-p90-stats')?.checked; // Verifica se o modo P90 está ativo
         const groups = {};
+
+        const disclaimerStats = document.getElementById('p90-disclaimer-stats');
+        if (disclaimerStats) disclaimerStats.className = isP90 ? 'text-muted mt-1' : 'text-muted d-none mt-1';
 
         const playersMap = {};
         data.players_info.forEach(p => { playersMap[p.player_id] = p; });
 
         const playerStats = {};
         Object.keys(playersMap).forEach(pid => {
-            playerStats[pid] = { info: playersMap[pid], goals: 0, assists: 0, ratings: [], xg: 0, xa: 0 };
+            // NOVO: Adicionado campo minutes
+            playerStats[pid] = { info: playersMap[pid], goals: 0, assists: 0, ratings: [], xg: 0, xa: 0, minutes: 0 };
         });
 
         data.goals.forEach(g => {
@@ -314,22 +321,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(st.rating) playerStats[st.player_id].ratings.push(st.rating);
                 if(st.xg) playerStats[st.player_id].xg += st.xg;
                 if(st.xa) playerStats[st.player_id].xa += st.xa;
+                if(st.minutes_played) playerStats[st.player_id].minutes += st.minutes_played; // Acumula minutos
             }
         });
 
-        Object.values(playerStats).forEach(ps => {
+        // NOVO: Lógica de normalização e filtro P/90 antes de formar os grupos
+        let processedPlayers = Object.values(playerStats);
+        if (isP90) {
+            processedPlayers = processedPlayers.filter(ps => ps.minutes >= 120); // Regra dos 120 minutos
+            processedPlayers.forEach(ps => {
+                const factor = 90 / ps.minutes;
+                ps.goals = ps.goals * factor;
+                ps.assists = ps.assists * factor;
+                ps.xg = ps.xg * factor;
+                ps.xa = ps.xa * factor;
+                // A nota média não é normalizada, mantém-se intacta.
+            });
+        }
+
+        processedPlayers.forEach(ps => {
             const p = ps.info;
             let key = getGroupKey(p, filter);
             if(!key) return;
 
             let imgUrl = null;
-            if (filter === 'league') {
-                imgUrl = p.club_league_id ? `https://img.sofascore.com/api/v1/unique-tournament/${p.club_league_id}/image` : null;
-            } else if (filter === 'club') {
-                imgUrl = p.club_id ? `https://img.sofascore.com/api/v1/team/${p.club_id}/image` : null;
-            } else if (filter === 'country'){
-                imgUrl = p.country.alpha2 ? `https://img.sofascore.com/api/v1/country/${p.country.alpha2}/flag` : null;
-            }
+            if (filter === 'league') imgUrl = p.club_league_id ? `https://img.sofascore.com/api/v1/unique-tournament/${p.club_league_id}/image` : null;
+            else if (filter === 'club') imgUrl = p.club_id ? `https://img.sofascore.com/api/v1/team/${p.club_id}/image` : null;
+            else if (filter === 'country') imgUrl = p.country.alpha2 ? `https://img.sofascore.com/api/v1/country/${p.country.alpha2}/flag` : null;
 
             if(!groups[key]) {
                 groups[key] = { name: key, img: imgUrl, goals: 0, assists: 0, xg: 0, xa: 0, ratings: [], playersCount: 0, players: [] };
@@ -361,6 +379,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const tbody = document.querySelector('#stats-table tbody');
         tbody.innerHTML = '';
+        
+        // NOVO: Formatação condicional (exibe decimais se P/90 for usado)
+        const formatIntStat = (val) => isP90 ? val.toFixed(2) : Math.round(val);
+
         list.forEach((item, index) => {
             const tr = document.createElement('tr');
             let imgHtml = item.img ? `<img src="${obterImagemSegura(item.img)}" class="me-2" style="width:24px; height:24px; object-fit:contain; background:#fff; border-radius:4px;" onerror="this.style.display='none'">` : '';
@@ -369,8 +391,8 @@ document.addEventListener('DOMContentLoaded', () => {
             tr.innerHTML = `
                 <td class="text-muted fw-bold">${index + 1}</td>
                 <td class="fw-bold">${imgHtml}${item.name} <span class="badge bg-secondary ms-2" style="font-size:0.7em;">${item.playersCount} players</span></td>
-                <td class="text-center text-success fw-bold">${item.goals}</td>
-                <td class="text-center text-info fw-bold">${item.assists}</td>
+                <td class="text-center text-success fw-bold">${formatIntStat(item.goals)}</td>
+                <td class="text-center text-info fw-bold">${formatIntStat(item.assists)}</td>
                 <td class="text-center text-secondary fw-bold">${item.xg.toFixed(2)}</td>
                 <td class="text-center text-secondary fw-bold">${item.xa.toFixed(2)}</td>
                 <td class="text-center text-warning fw-bold">${item.avgRating ? item.avgRating.toFixed(2) : '-'}</td>
@@ -394,8 +416,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div>
                                 <h6 class="fw-bold mb-1">${medals[index]} ${item.name}</h6>
                                 <div class="small text-muted mb-1">
-                                    <span class="text-success"><i class="fa-solid fa-futbol me-1"></i>${item.goals}</span> | 
-                                    <span class="text-info"><i class="fa-solid fa-handshake me-1"></i>${item.assists}</span> | 
+                                    <span class="text-success" title="Gols"><i class="fa-solid fa-futbol me-1"></i>${formatIntStat(item.goals)}</span> | 
+                                    <span class="text-info" title="Assistências"><i class="fa-solid fa-handshake me-1"></i>${formatIntStat(item.assists)}</span> | 
                                     <span class="text-warning"><i class="fa-solid fa-star me-1"></i>${item.avgRating ? item.avgRating.toFixed(1) : '-'}</span>
                                 </div>
                                 <div class="small text-muted" style="font-size:0.75em;">
@@ -415,7 +437,10 @@ document.addEventListener('DOMContentLoaded', () => {
         modalSortCol = null;
         modalSortDir = null;
         
-        document.getElementById('playersModalLabel').textContent = `Jogadores: ${groupItem.name}`;
+        const isP90 = document.getElementById('toggle-p90-stats')?.checked;
+        const p90Tag = isP90 ? ' (Métricas por 90 min)' : '';
+        document.getElementById('playersModalLabel').textContent = `Jogadores: ${groupItem.name}${p90Tag}`;
+        
         renderModalTable();
 
         if(!playersModalInst) {
@@ -427,6 +452,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderModalTable() {
         const tbody = document.querySelector('#modal-players-table tbody');
         tbody.innerHTML = '';
+        const isP90 = document.getElementById('toggle-p90-stats')?.checked;
+        const formatIntStat = (val) => isP90 ? val.toFixed(2) : Math.round(val);
         
         document.querySelectorAll('#modal-players-table th[data-sort]').forEach(th => {
             const icon = th.querySelector('.sort-icon');
@@ -442,10 +469,7 @@ document.addEventListener('DOMContentLoaded', () => {
             players.sort((a,b) => {
                 let valA = a[modalSortCol];
                 let valB = b[modalSortCol];
-                if (modalSortCol === 'rating') {
-                    valA = a.avgRating;
-                    valB = b.avgRating;
-                }
+                if (modalSortCol === 'rating') { valA = a.avgRating; valB = b.avgRating; }
                 return modalSortDir === 'desc' ? valB - valA : valA - valB;
             });
         } else {
@@ -467,8 +491,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="${obterImagemSegura(`https://img.sofascore.com/api/v1/player/${ps.info.player_id}/image`)}" class="me-2" style="width:30px; height:30px; border-radius:50%; object-fit:cover; background:#fff;" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' fill=\\'none\\' viewBox=\\'0 0 24 24\\' stroke=\\'%23666\\'><path stroke-linecap=\\'round\\' stroke-linejoin=\\'round\\' stroke-width=\\'2\\' d=\\'M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z\\'/></svg>'">
                     ${formatPlayerName(ps.info)}
                 </td>
-                <td class="text-center text-success">${ps.goals}</td>
-                <td class="text-center text-info">${ps.assists}</td>
+                <td class="text-center text-success">${formatIntStat(ps.goals)}</td>
+                <td class="text-center text-info">${formatIntStat(ps.assists)}</td>
                 <td class="text-center text-secondary">${ps.xg.toFixed(2)}</td>
                 <td class="text-center text-secondary">${ps.xa.toFixed(2)}</td>
                 <td class="text-center text-warning fw-bold">${ps.avgRating ? ps.avgRating.toFixed(2) : '-'}</td>
@@ -530,16 +554,24 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInputEl.addEventListener('input', () => { if (appData) renderRanking(appData); });
     }
 
+    // NOVO: Listener para o switch do p90 no ranking
+    document.getElementById('toggle-p90-ranking')?.addEventListener('change', () => { if (appData) renderRanking(appData); });
+
     function renderRanking(data) {
         const selectedCountry = document.getElementById('ranking-countries-filter')?.value || '';
         const searchQuery = document.getElementById('ranking-search')?.value.trim().toLowerCase() || '';
+        const isP90 = document.getElementById('toggle-p90-ranking')?.checked;
+        
+        // Controla a exibição do texto de disclaimer
+        const disclaimer = document.getElementById('p90-disclaimer-ranking');
+        if(disclaimer) disclaimer.className = isP90 ? 'text-muted' : 'text-muted d-none';
 
         const playersMap = {};
         data.players_info.forEach(p => { playersMap[p.player_id] = p; });
 
         const pStats = {};
         Object.keys(playersMap).forEach(pid => {
-            pStats[pid] = { id: pid, info: playersMap[pid], goals: 0, assists: 0, xg: 0, xa: 0, ratings: [] };
+            pStats[pid] = { id: pid, info: playersMap[pid], goals: 0, assists: 0, xg: 0, xa: 0, ratings: [], minutes: 0 };
         });
 
         data.goals.forEach(g => {
@@ -552,18 +584,39 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(st.rating) pStats[st.player_id].ratings.push(st.rating);
                 if(st.xg) pStats[st.player_id].xg += st.xg;
                 if(st.xa) pStats[st.player_id].xa += st.xa;
+                if(st.minutes_played) pStats[st.player_id].minutes += st.minutes_played; // Captura de minutos
             }
         });
+
+        const pointsMap = {};
+        data.player_points.forEach(pp => { pointsMap[pp.player_id] = pp.points; });
 
         let playerList = Object.values(pStats).map(ps => {
             ps.avgRating = ps.ratings.length > 0 ? ps.ratings.reduce((a,b)=>a+b,0)/ps.ratings.length : 0;
             return ps;
         });
 
+        // NOVO: Aplica os cálculos p/90 diretamente na lista
+        if (isP90) {
+            playerList = playerList.filter(ps => ps.minutes >= 120);
+            playerList.forEach(ps => {
+                const factor = 90 / ps.minutes;
+                ps.goals = ps.goals * factor;
+                ps.assists = ps.assists * factor;
+                ps.xg = ps.xg * factor;
+                ps.xa = ps.xa * factor;
+                ps.points = (pointsMap[ps.id] || 0) * factor; // Mapeia os pontos gerados p/90
+            });
+        } else {
+            playerList.forEach(ps => {
+                ps.points = pointsMap[ps.id] || 0;
+            });
+        }
+
+        // Filtros de país e barra de pesquisa
         if (selectedCountry && selectedCountry !== 'Todos') {
             playerList = playerList.filter(ps => (ps.info.country?.name || '') === selectedCountry);
         }
-
         if (searchQuery) {
             playerList = playerList.filter(ps => {
                 const playerName = (ps.info.name || '').toLowerCase();
@@ -578,7 +631,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="col-12 text-center py-5">
                         <i class="fa-solid fa-user-slash mb-3 text-secondary" style="font-size: 3rem; opacity: 0.5;"></i>
                         <h5 class="text-muted fw-bold">Nenhum jogador encontrado</h5>
-                        <p class="text-secondary small">Tente ajustar os filtros ou a pesquisa.</p>
+                        <p class="text-secondary small">Tente ajustar os filtros, a pesquisa ou o limite de minutos.</p>
                     </div>
                 `;
             } else {
@@ -586,33 +639,29 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         };
 
-        const pointsMap = {};
-        data.player_points.forEach(pp => { pointsMap[pp.player_id] = pp.points; });
-
-        const mvpList = [...playerList].filter(ps => pointsMap[ps.id] > 0);
+        // Geração das abas com as variáveis modificadas (se P90, exibem as médias e formatam decimal)
+        const mvpList = [...playerList].filter(ps => ps.points > 0);
         mvpList.sort((a,b) => {
-            const ptA = pointsMap[a.id] || 0;
-            const ptB = pointsMap[b.id] || 0;
-            if (ptB !== ptA) return ptB - ptA;
+            if (b.points !== a.points) return b.points - a.points;
             return b.avgRating - a.avgRating;
         });
         
         renderGrid('ranking-grid', mvpList, (ps, i) => {
-            const pts = pointsMap[ps.id];
-            return generateCardHtml(ps, i, `${pts} pts`, `<i class="fa-solid fa-star text-warning" style="font-size:0.9em;"></i> ${ps.avgRating.toFixed(2)}`);
+            const ptsText = isP90 ? `${ps.points.toFixed(2)} pts p/90` : `${ps.points} pts`;
+            return generateCardHtml(ps, i, ptsText, `<i class="fa-solid fa-star text-warning" style="font-size:0.9em;"></i> ${ps.avgRating.toFixed(2)}`);
         });
 
         const golsList = [...playerList].filter(ps => ps.goals > 0).sort((a,b) => b.goals - a.goals || b.avgRating - a.avgRating);
-        renderGrid('ranking-gols-grid', golsList, (ps, i) => generateCardHtml(ps, i, `${ps.goals} Gols`));
+        renderGrid('ranking-gols-grid', golsList, (ps, i) => generateCardHtml(ps, i, isP90 ? `${ps.goals.toFixed(2)} Gols p/90` : `${ps.goals} Gols`));
 
         const astList = [...playerList].filter(ps => ps.assists > 0).sort((a,b) => b.assists - a.assists || b.avgRating - a.avgRating);
-        renderGrid('ranking-assists-grid', astList, (ps, i) => generateCardHtml(ps, i, `${ps.assists} Assists`));
+        renderGrid('ranking-assists-grid', astList, (ps, i) => generateCardHtml(ps, i, isP90 ? `${ps.assists.toFixed(2)} Assists p/90` : `${ps.assists} Assists`));
 
         const xgList = [...playerList].filter(ps => ps.xg > 0).sort((a,b) => b.xg - a.xg || b.avgRating - a.avgRating);
-        renderGrid('ranking-xg-grid', xgList, (ps, i) => generateCardHtml(ps, i, `${ps.xg.toFixed(2)} xG`));
+        renderGrid('ranking-xg-grid', xgList, (ps, i) => generateCardHtml(ps, i, isP90 ? `${ps.xg.toFixed(2)} xG p/90` : `${ps.xg.toFixed(2)} xG`));
 
         const xaList = [...playerList].filter(ps => ps.xa > 0).sort((a,b) => b.xa - a.xa || b.avgRating - a.avgRating);
-        renderGrid('ranking-xa-grid', xaList, (ps, i) => generateCardHtml(ps, i, `${ps.xa.toFixed(2)} xAst`));
+        renderGrid('ranking-xa-grid', xaList, (ps, i) => generateCardHtml(ps, i, isP90 ? `${ps.xa.toFixed(2)} xAst p/90` : `${ps.xa.toFixed(2)} xAst`));
         
         const ratingList = [...playerList].filter(ps => ps.avgRating > 0).sort((a,b) => b.avgRating - a.avgRating);
         renderGrid('ranking-rating-grid', ratingList, (ps, i) => generateCardHtml(ps, i, `${ps.avgRating.toFixed(2)}`));

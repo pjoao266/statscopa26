@@ -70,7 +70,8 @@
                             <div class="col-md-4">
                                 <h3 class="fw-bold m-0">Análise de Desempenho</h3>
                             </div>
-                            <div class="col-md-8 mt-3 mt-md-0 d-flex flex-wrap justify-content-md-end gap-2">
+                            <div class="col-md-8 mt-3 mt-md-0 d-flex flex-column align-items-md-end">
+                            <div class="d-flex flex-wrap justify-content-md-end gap-2 align-items-center w-100">
                                 <select id="stats-filter" class="form-select bg-body text-body border-secondary shadow-none flex-grow-1 flex-md-grow-0" style="width: auto;">
                                     <option value="league">Por Liga</option>
                                     <option value="club">Por Clube</option>
@@ -78,6 +79,7 @@
                                     <option value="age">Por Idade</option>
                                     <option value="height">Por Altura</option>
                                 </select>
+                                
                                 <select id="stats-sort" class="form-select bg-body text-body border-secondary shadow-none flex-grow-1 flex-md-grow-0" style="width: auto;">
                                     <option value="goals">Ordenar por Gols</option>
                                     <option value="assists">Ordenar por Assistências</option>
@@ -85,7 +87,18 @@
                                     <option value="xg">Ordenar por xG</option>
                                     <option value="xa">Ordenar por xAst</option>
                                 </select>
+
+                                <div class="d-flex align-items-center border border-secondary rounded px-3 bg-body" style="min-height: 38px;">
+                                    <div class="form-check form-switch m-0 p-0 d-flex align-items-center">
+                                        <input class="form-check-input m-0 position-relative" type="checkbox" role="switch" id="toggle-p90-stats" style="cursor: pointer;">
+                                        <label class="form-check-label fw-bold small text-nowrap ms-2" for="toggle-p90-stats" style="padding-top: 1px;">Por 90 min</label>
+                                    </div>
+                                </div>
                             </div>
+                            <small id="p90-disclaimer-stats" class="text-muted d-none mt-1" style="font-size: 0.75em; text-align: right;">
+                                <i class="fa-solid fa-circle-info"></i> Exibindo jogadores com mín. 120 minutos jogados.
+                            </small>
+                        </div>
                         </div>
 
                         <div id="top-stats-cards" class="row g-3 mb-4">
@@ -153,19 +166,28 @@
             </div>
 
             <div class="tab-pane fade" id="ranking" role="tabpanel" tabindex="0">
-                
+                                
                 <div class="row mb-4 align-items-center">
-                    <div class="col-md-7 mb-3 mb-md-0">
+                    <div class="col-md-6 mb-3 mb-md-0">
                         <div class="input-group">
                             <span class="input-group-text bg-body-tertiary border-secondary text-body"><i class="fa-solid fa-magnifying-glass"></i></span>
                             <input type="text" id="ranking-search" class="form-control bg-body text-body border-secondary shadow-none" placeholder="Pesquisar por jogador ou seleção...">
                         </div>
                     </div>
-                    <div class="col-md-5">
+                    <div class="col-md-3 mb-3 mb-md-0">
                         <select id="ranking-countries-filter" class="form-select bg-body text-body border-secondary shadow-none">
                             <option value="">Todos os Países</option>
-                            <!-- As opções de países deverão ser populadas via JavaScript -->
                         </select>
+                    </div>
+                    <!-- NOVO: Filtro P90 com explicação de regra -->
+                    <div class="col-md-3 d-flex flex-column align-items-md-end">
+                        <div class="form-check form-switch border border-secondary rounded px-3 py-1 bg-body mb-1">
+                            <input class="form-check-input ms-0 me-2" type="checkbox" role="switch" id="toggle-p90-ranking" style="cursor: pointer;">
+                            <label class="form-check-label fw-bold small" for="toggle-p90-ranking">Por 90 min</label>
+                        </div>
+                        <small id="p90-disclaimer-ranking" class="text-muted d-none" style="font-size: 0.75em; text-align: right;">
+                            <i class="fa-solid fa-circle-info"></i> Exibindo jogadores com mín. 120 minutos.
+                        </small>
                     </div>
                 </div>
 
