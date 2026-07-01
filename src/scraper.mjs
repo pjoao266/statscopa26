@@ -579,15 +579,27 @@ export async function runScraper() {
 }
 
 try {
-    // 1. Verifica se há jogos rodando antes de acionar o Sofascore
+    // 1. Obtém a hora atual forçando o fuso horário de Brasília (UTC-3)
+    // Isto evita bugs caso o servidor do cronjob esteja em UTC ou outro fuso
+    const agora = new Date();
+    const horaBrasil = new Date(agora.toLocaleString("en-US", { timeZone: "America/Sao_Paulo" }));
+    
+    // 2. Verifica se é a primeira execução do dia (entre 00:00 e 00:04)
+    // Como o cron roda a cada 5 minutos, isso garante que a rotina roda apenas 1x por dia.
+    const ehMeiaNoite = horaBrasil.getHours() === 0 && horaBrasil.getMinutes() < 5;
+
+    // 3. Verifica se há jogos rodando antes de acionar o Sofascore
     const temJogoAoVivo = await checkLiveGamesESPN();
     
+    // 4. Lógica de decisão: Rodar se houver jogo OU se for o backup da meia-noite
     if (temJogoAoVivo) {
         console.log("\n🚀 Jogos em andamento detectados! Iniciando raspagem do Sofascore...");
-        // Roda a extração usando a rede de proxies configurada
-        const dadosFinais = await runScraper();  
+        await runScraper();  
+    } else if (ehMeiaNoite) {
+        console.log("\n🕛 Rotina diária da meia-noite acionada! Iniciando raspagem para consolidação de dados...");
+        await runScraper();
     } else {
-        console.log("\n⏸️ Nenhum jogo em andamento. O scraper do Sofascore foi pausado.");
+        console.log(`\n⏸️ Nenhum jogo em andamento e não é meia-noite (Hora atual no Brasil: ${horaBrasil.getHours()}:${String(horaBrasil.getMinutes()).padStart(2, '0')}). O scraper do Sofascore foi pausado.`);
     }
     
 } catch (error) {
