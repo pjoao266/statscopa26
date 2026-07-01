@@ -1,9 +1,489 @@
 {
   "matches": [
     {
-      "match_id": 15186861,
+      "match_id": 15186710,
+      "home": "Mexico",
+      "away": "South Africa",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186720,
+      "home": "South Korea",
+      "away": "Czechia",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186836,
+      "home": "Canada",
+      "away": "Bosnia & Herzegovina",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186873,
+      "home": "USA",
+      "away": "Paraguay",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186526,
+      "home": "Qatar",
+      "away": "Switzerland",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186850,
+      "home": "Brazil",
+      "away": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186853,
+      "home": "Haiti",
+      "away": "Scotland",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186874,
+      "home": "Australia",
+      "away": "Türkiye",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186899,
+      "home": "Germany",
+      "away": "Curaçao",
+      "home_score": 7,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186904,
+      "home": "Côte d'Ivoire",
+      "away": "Ecuador",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186945,
+      "home": "Netherlands",
+      "away": "Japan",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186951,
+      "home": "Sweden",
+      "away": "Tunisia",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186837,
+      "home": "Belgium",
+      "away": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186832,
+      "home": "Iran",
+      "away": "New Zealand",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186783,
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186811,
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186501,
+      "home": "France",
+      "away": "Senegal",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186773,
+      "home": "Iraq",
+      "away": "Norway",
+      "home_score": 1,
+      "away_score": 4,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186854,
+      "home": "Argentina",
+      "away": "Algeria",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186751,
+      "home": "Austria",
+      "away": "Jordan",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186709,
+      "home": "Portugal",
+      "away": "DR Congo",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186722,
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186504,
+      "home": "England",
+      "away": "Croatia",
+      "home_score": 4,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186687,
+      "home": "Ghana",
+      "away": "Panama",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "1ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186731,
+      "home": "Czechia",
+      "away": "South Africa",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186490,
+      "home": "Mexico",
+      "away": "South Korea",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186806,
+      "home": "Switzerland",
+      "away": "Bosnia & Herzegovina",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186798,
+      "home": "Canada",
+      "away": "Qatar",
+      "home_score": 6,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186859,
       "home": "Scotland",
-      "away": "Brazil",
+      "away": "Morocco",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186856,
+      "home": "Brazil",
+      "away": "Haiti",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186878,
+      "home": "USA",
+      "away": "Australia",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186879,
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186905,
+      "home": "Germany",
+      "away": "Côte d'Ivoire",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186906,
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186957,
+      "home": "Netherlands",
+      "away": "Sweden",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186963,
+      "home": "Tunisia",
+      "away": "Japan",
+      "home_score": 0,
+      "away_score": 4,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186499,
+      "home": "Belgium",
+      "away": "Iran",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186827,
+      "home": "New Zealand",
+      "away": "Egypt",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186840,
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186800,
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186769,
+      "home": "France",
+      "away": "Iraq",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186770,
+      "home": "Norway",
+      "away": "Senegal",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186502,
+      "home": "Argentina",
+      "away": "Austria",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186740,
+      "home": "Jordan",
+      "away": "Algeria",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186858,
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "home_score": 5,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186713,
+      "home": "Colombia",
+      "away": "DR Congo",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186672,
+      "home": "England",
+      "away": "Ghana",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186520,
+      "home": "Panama",
+      "away": "Croatia",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "2ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186732,
+      "home": "Czechia",
+      "away": "Mexico",
       "home_score": 0,
       "away_score": 3,
       "status": "Ended",
@@ -21,11 +501,61 @@
       "roundStage": "Fase de Grupos"
     },
     {
-      "match_id": 15186732,
-      "home": "Czechia",
-      "away": "Mexico",
+      "match_id": 15186829,
+      "home": "Bosnia & Herzegovina",
+      "away": "Qatar",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186821,
+      "home": "Switzerland",
+      "away": "Canada",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186864,
+      "home": "Morocco",
+      "away": "Haiti",
+      "home_score": 4,
+      "away_score": 2,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186861,
+      "home": "Scotland",
+      "away": "Brazil",
       "home_score": 0,
       "away_score": 3,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186891,
+      "home": "Paraguay",
+      "away": "Australia",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186887,
+      "home": "Türkiye",
+      "away": "USA",
+      "home_score": 3,
+      "away_score": 2,
       "status": "Ended",
       "round": "3ª rodada",
       "roundStage": "Fase de Grupos"
@@ -71,41 +601,21 @@
       "roundStage": "Fase de Grupos"
     },
     {
-      "match_id": 15186891,
-      "home": "Paraguay",
-      "away": "Australia",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186887,
-      "home": "Türkiye",
-      "away": "USA",
-      "home_score": 3,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186771,
-      "home": "Senegal",
-      "away": "Iraq",
-      "home_score": 5,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186537,
-      "home": "Norway",
-      "away": "France",
+      "match_id": 15186828,
+      "home": "Egypt",
+      "away": "Iran",
       "home_score": 1,
-      "away_score": 4,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186822,
+      "home": "New Zealand",
+      "away": "Belgium",
+      "home_score": 1,
+      "away_score": 5,
       "status": "Ended",
       "round": "3ª rodada",
       "roundStage": "Fase de Grupos"
@@ -131,60 +641,20 @@
       "roundStage": "Fase de Grupos"
     },
     {
-      "match_id": 15186822,
-      "home": "New Zealand",
-      "away": "Belgium",
+      "match_id": 15186537,
+      "home": "Norway",
+      "away": "France",
       "home_score": 1,
-      "away_score": 5,
+      "away_score": 4,
       "status": "Ended",
       "round": "3ª rodada",
       "roundStage": "Fase de Grupos"
     },
     {
-      "match_id": 15186828,
-      "home": "Egypt",
-      "away": "Iran",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186624,
-      "home": "Croatia",
-      "away": "Ghana",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186676,
-      "home": "Panama",
-      "away": "England",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186717,
-      "home": "DR Congo",
-      "away": "Uzbekistan",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186696,
-      "home": "Colombia",
-      "away": "Portugal",
-      "home_score": 0,
+      "match_id": 15186771,
+      "home": "Senegal",
+      "away": "Iraq",
+      "home_score": 5,
       "away_score": 0,
       "status": "Ended",
       "round": "3ª rodada",
@@ -206,6 +676,46 @@
       "away": "Argentina",
       "home_score": 1,
       "away_score": 3,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186696,
+      "home": "Colombia",
+      "away": "Portugal",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186717,
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186624,
+      "home": "Croatia",
+      "away": "Ghana",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Ended",
+      "round": "3ª rodada",
+      "roundStage": "Fase de Grupos"
+    },
+    {
+      "match_id": 15186676,
+      "home": "Panama",
+      "away": "England",
+      "home_score": 0,
+      "away_score": 2,
       "status": "Ended",
       "round": "3ª rodada",
       "roundStage": "Fase de Grupos"
@@ -299,486 +809,6 @@
       "status": "2nd half",
       "round": "Round of 32",
       "roundStage": "Fase Eliminatória"
-    },
-    {
-      "match_id": 15186504,
-      "home": "England",
-      "away": "Croatia",
-      "home_score": 4,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186687,
-      "home": "Ghana",
-      "away": "Panama",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186722,
-      "home": "Uzbekistan",
-      "away": "Colombia",
-      "home_score": 1,
-      "away_score": 3,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186731,
-      "home": "Czechia",
-      "away": "South Africa",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186806,
-      "home": "Switzerland",
-      "away": "Bosnia & Herzegovina",
-      "home_score": 4,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186798,
-      "home": "Canada",
-      "away": "Qatar",
-      "home_score": 6,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186490,
-      "home": "Mexico",
-      "away": "South Korea",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186878,
-      "home": "USA",
-      "away": "Australia",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186859,
-      "home": "Scotland",
-      "away": "Morocco",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186856,
-      "home": "Brazil",
-      "away": "Haiti",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186879,
-      "home": "Türkiye",
-      "away": "Paraguay",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186957,
-      "home": "Netherlands",
-      "away": "Sweden",
-      "home_score": 5,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186905,
-      "home": "Germany",
-      "away": "Côte d'Ivoire",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186906,
-      "home": "Ecuador",
-      "away": "Curaçao",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186963,
-      "home": "Tunisia",
-      "away": "Japan",
-      "home_score": 0,
-      "away_score": 4,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186840,
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "home_score": 4,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186499,
-      "home": "Belgium",
-      "away": "Iran",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186800,
-      "home": "Uruguay",
-      "away": "Cabo Verde",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186827,
-      "home": "New Zealand",
-      "away": "Egypt",
-      "home_score": 1,
-      "away_score": 3,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186502,
-      "home": "Argentina",
-      "away": "Austria",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186769,
-      "home": "France",
-      "away": "Iraq",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186770,
-      "home": "Norway",
-      "away": "Senegal",
-      "home_score": 3,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186740,
-      "home": "Jordan",
-      "away": "Algeria",
-      "home_score": 1,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186858,
-      "home": "Portugal",
-      "away": "Uzbekistan",
-      "home_score": 5,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186672,
-      "home": "England",
-      "away": "Ghana",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186520,
-      "home": "Panama",
-      "away": "Croatia",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186713,
-      "home": "Colombia",
-      "away": "DR Congo",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "2ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186829,
-      "home": "Bosnia & Herzegovina",
-      "away": "Qatar",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186821,
-      "home": "Switzerland",
-      "away": "Canada",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186864,
-      "home": "Morocco",
-      "away": "Haiti",
-      "home_score": 4,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "3ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186710,
-      "home": "Mexico",
-      "away": "South Africa",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186720,
-      "home": "South Korea",
-      "away": "Czechia",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186836,
-      "home": "Canada",
-      "away": "Bosnia & Herzegovina",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186873,
-      "home": "USA",
-      "away": "Paraguay",
-      "home_score": 4,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186526,
-      "home": "Qatar",
-      "away": "Switzerland",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186850,
-      "home": "Brazil",
-      "away": "Morocco",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186853,
-      "home": "Haiti",
-      "away": "Scotland",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186874,
-      "home": "Australia",
-      "away": "Türkiye",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186899,
-      "home": "Germany",
-      "away": "Curaçao",
-      "home_score": 7,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186945,
-      "home": "Netherlands",
-      "away": "Japan",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186904,
-      "home": "Côte d'Ivoire",
-      "away": "Ecuador",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186951,
-      "home": "Sweden",
-      "away": "Tunisia",
-      "home_score": 5,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186783,
-      "home": "Spain",
-      "away": "Cabo Verde",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186837,
-      "home": "Belgium",
-      "away": "Egypt",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186811,
-      "home": "Saudi Arabia",
-      "away": "Uruguay",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186832,
-      "home": "Iran",
-      "away": "New Zealand",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186501,
-      "home": "France",
-      "away": "Senegal",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
-    },
-    {
-      "match_id": 15186773,
-      "home": "Iraq",
-      "away": "Norway",
-      "home_score": 1,
-      "away_score": 4,
-      "status": "Ended",
-      "round": "1ª rodada",
-      "roundStage": "Fase de Grupos"
     }
   ],
   "goals": [
@@ -3431,6 +3461,114 @@
       "goal_type": "Bola rolando",
       "box_location": "Fora da area",
       "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186854,
+      "minute": "17",
+      "scorer_id": 12994,
+      "scorer_name": "Lionel Messi",
+      "assist_id": 249399,
+      "goal_type": "Bola rolando",
+      "box_location": "Fora da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": true
+    },
+    {
+      "match_id": 15186854,
+      "minute": "60",
+      "scorer_id": 12994,
+      "scorer_name": "Lionel Messi",
+      "assist_id": null,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186854,
+      "minute": "76",
+      "scorer_id": 12994,
+      "scorer_name": "Lionel Messi",
+      "assist_id": 901325,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186751,
+      "minute": "21",
+      "scorer_id": 830127,
+      "scorer_name": "Romano Schmid",
+      "assist_id": 791079,
+      "goal_type": "Bola rolando",
+      "box_location": "Fora da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186751,
+      "minute": "50",
+      "scorer_id": 980728,
+      "scorer_name": "Ali Olwan",
+      "assist_id": 927845,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": false,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186751,
+      "minute": "76",
+      "scorer_id": 888906,
+      "scorer_name": "Yazan Al-Arab",
+      "assist_id": null,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": true,
+      "is_winning_goal": true
+    },
+    {
+      "match_id": 15186751,
+      "minute": "90+12",
+      "scorer_id": 21927,
+      "scorer_name": "Marko Arnautović",
+      "assist_id": null,
+      "goal_type": "Penalti",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186709,
+      "minute": "6",
+      "scorer_id": 1190933,
+      "scorer_name": "João Neves",
+      "assist_id": 879349,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 15186709,
+      "minute": "45+5",
+      "scorer_id": 805123,
+      "scorer_name": "Yoane Wissa",
+      "assist_id": 174975,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": false,
       "is_own_goal": false,
       "is_winning_goal": false
     },
@@ -36479,6 +36617,1461 @@
       "average_y": 60.912307692308
     },
     {
+      "match_id": 15186854,
+      "player_id": 12994,
+      "player_name": "Lionel Messi",
+      "xg": 1.0321,
+      "xa": 0.11,
+      "rating": 10,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 59,
+      "average_y": 40.415584415584,
+      "minutes_played": 80
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 74915,
+      "player_name": "Nicolás Otamendi",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 21.142857142857,
+      "average_y": 18.952380952381,
+      "minutes_played": 10
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 122810,
+      "player_name": "Aïssa Mandi",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.4,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 39.9921875,
+      "average_y": 30.296875,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 158213,
+      "player_name": "Riyad Mahrez",
+      "xg": 0.001916,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-3-3",
+      "is_starter": false,
+      "average_x": 61.148148148148,
+      "average_y": 23,
+      "minutes_played": 26
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 158263,
+      "player_name": "Emiliano Martínez",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 11.54347826087,
+      "average_y": 48.282608695652,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 249399,
+      "player_name": "Rodrigo De Paul",
+      "xg": 0,
+      "xa": 0,
+      "rating": 7.4,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 45.792207792208,
+      "average_y": 22.584415584416,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 368120,
+      "player_name": "Nabil Bentaleb",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.7,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 49.238095238095,
+      "average_y": 61.269841269841,
+      "minutes_played": 82
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 577726,
+      "player_name": "Ramy Bensebaini",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.4,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 39.880597014925,
+      "average_y": 68.664179104478,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 802133,
+      "player_name": "Luca Zidane",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 16.954545454545,
+      "average_y": 49,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 822933,
+      "player_name": "Gonzalo Montiel",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 38.285714285714,
+      "average_y": 12.857142857143,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 823984,
+      "player_name": "Lautaro Martínez",
+      "xg": 0.27,
+      "xa": 0,
+      "rating": 6.3,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 60.147058823529,
+      "average_y": 50.911764705882,
+      "minutes_played": 55
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 829932,
+      "player_name": "Cristian Romero",
+      "xg": 0,
+      "xa": 0,
+      "rating": 7.1,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 35.440860215054,
+      "average_y": 30.440860215054,
+      "minutes_played": 80
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 831799,
+      "player_name": "Nahuel Molina",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 30.277777777778,
+      "average_y": 10.361111111111,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 846081,
+      "player_name": "Houssem Aouar",
+      "xg": 0.075,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "M",
+      "detailed_position": "MEI",
+      "formation": "4-3-3",
+      "is_starter": false,
+      "average_x": 64.285714285714,
+      "average_y": 66.678571428571,
+      "minutes_played": 26
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 859026,
+      "player_name": "Amine Gouiri",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 63.484848484848,
+      "average_y": 54.818181818182,
+      "minutes_played": 64
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 859999,
+      "player_name": "Lisandro Martínez",
+      "xg": 0,
+      "xa": 0,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 33.677777777778,
+      "average_y": 67.466666666667,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 860307,
+      "player_name": "Facundo Medina",
+      "xg": 0,
+      "xa": 0,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 46.666666666667,
+      "average_y": 83.375,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 895324,
+      "player_name": "Alexis Mac Allister",
+      "xg": 0.15495,
+      "xa": 0.06,
+      "rating": 6.5,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 45.45652173913,
+      "average_y": 45.391304347826,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 901325,
+      "player_name": "Nicolás González",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 47.666666666667,
+      "average_y": 79.111111111111,
+      "minutes_played": 35
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 931278,
+      "player_name": "Rayan Aït-Nouri",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 58.292134831461,
+      "average_y": 90.426966292135,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 944656,
+      "player_name": "Julián Alvarez",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.3,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 62.047619047619,
+      "average_y": 59.857142857143,
+      "minutes_played": 35
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 944660,
+      "player_name": "Thiago Almada",
+      "xg": 0.01309,
+      "xa": 0,
+      "rating": 6.8,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 50,
+      "average_y": 68.163265306122,
+      "minutes_played": 55
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 974505,
+      "player_name": "Enzo Fernández",
+      "xg": 0,
+      "xa": 0,
+      "rating": 7.1,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-4-2",
+      "is_starter": true,
+      "average_x": 48.5625,
+      "average_y": 66.864583333333,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 985923,
+      "player_name": "Hicham Boudaoui",
+      "xg": 0,
+      "xa": 0.02,
+      "rating": 6.5,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 50.948717948718,
+      "average_y": 42,
+      "minutes_played": 64
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 989882,
+      "player_name": "Ramiz Zerrouki",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.7,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-3-3",
+      "is_starter": false,
+      "average_x": 55.807692307692,
+      "average_y": 49.115384615385,
+      "minutes_played": 8
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1094482,
+      "player_name": "Adil Boulbina",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.2,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "4-3-3",
+      "is_starter": false,
+      "average_x": 64.933333333333,
+      "average_y": 88.266666666667,
+      "minutes_played": 9
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1103488,
+      "player_name": "Rafik Belghali",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.1,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 50,
+      "average_y": 12.481481481481,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1107591,
+      "player_name": "Mohamed Amoura",
+      "xg": 0,
+      "xa": 0.08,
+      "rating": 6.4,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-3-3",
+      "is_starter": false,
+      "average_x": 61.333333333333,
+      "average_y": 54,
+      "minutes_played": 26
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1171451,
+      "player_name": "Nico Paz",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-4-2",
+      "is_starter": false,
+      "average_x": 40.9,
+      "average_y": 30.8,
+      "minutes_played": 10
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1192318,
+      "player_name": "Farès Chaïbi",
+      "xg": 0.11355000000000001,
+      "xa": 0.04,
+      "rating": 6.3,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 63.905405405405,
+      "average_y": 74.540540540541,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1218066,
+      "player_name": "Anis Hadj Moussa",
+      "xg": 0.07087,
+      "xa": 0.02,
+      "rating": 6.5,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 67.473684210526,
+      "average_y": 20.947368421053,
+      "minutes_played": 64
+    },
+    {
+      "match_id": 15186854,
+      "player_id": 1407524,
+      "player_name": "Ibrahim Maza",
+      "xg": 0.03627,
+      "xa": 0,
+      "rating": 6.2,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-3-3",
+      "is_starter": true,
+      "average_x": 57.328767123288,
+      "average_y": 61.547945205479,
+      "minutes_played": 81
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 21927,
+      "player_name": "Marko Arnautović",
+      "xg": 2.13385337424278,
+      "xa": 0.0283765,
+      "rating": 7.2,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 65.145454545455,
+      "average_y": 54.759090909091,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 66492,
+      "player_name": "David Alaba",
+      "xg": 0.038803429169059,
+      "xa": 0.0143362,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 43.268831168831,
+      "average_y": 68.798701298701,
+      "minutes_played": 59
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 133908,
+      "player_name": "Marcel Sabitzer",
+      "xg": 0.015506814233005,
+      "xa": 0.27212,
+      "rating": 6.7,
+      "nominal_position": "M",
+      "detailed_position": "ME",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 63.429850746269,
+      "average_y": 80.055223880597,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 138126,
+      "player_name": "Phillipp Mwene",
+      "xg": 0,
+      "xa": 0.201632,
+      "rating": 6.2,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 56.667441860465,
+      "average_y": 87.327906976744,
+      "minutes_played": 59
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 282073,
+      "player_name": "Alexander Schlager",
+      "xg": 0,
+      "xa": 0.0001589,
+      "rating": 6.3,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 13.888235294118,
+      "average_y": 54.605882352941,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 355486,
+      "player_name": "Stefan Posch",
+      "xg": 0.508644502425194,
+      "xa": 0.0133488,
+      "rating": 5.6,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 49.008163265306,
+      "average_y": 15.504081632653,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 355492,
+      "player_name": "Konrad Laimer",
+      "xg": 0.027967967589498,
+      "xa": 0.0514112,
+      "rating": 6.6,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 59.140579710145,
+      "average_y": 67.895652173913,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 576266,
+      "player_name": "Philipp Lienhart",
+      "xg": 0,
+      "xa": 0.0109916,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 36.981081081081,
+      "average_y": 32.293693693694,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 786034,
+      "player_name": "Mohammad Al Daoud",
+      "xg": 0,
+      "xa": 0.0001822,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 43.945454545455,
+      "average_y": 13.6,
+      "minutes_played": 2
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 791079,
+      "player_name": "Xaver Schlager",
+      "xg": 0,
+      "xa": 0.0221285,
+      "rating": 6.9,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 46.779518072289,
+      "average_y": 58.960240963855,
+      "minutes_played": 59
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 794953,
+      "player_name": "Kevin Danso",
+      "xg": 0,
+      "xa": 0.00693714,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 36.9,
+      "average_y": 66.565714285714,
+      "minutes_played": 31
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 812557,
+      "player_name": "Mahmoud Al-Mardi",
+      "xg": 0,
+      "xa": 0.00783036,
+      "rating": 6.6,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 51.764705882353,
+      "average_y": 54.182352941176,
+      "minutes_played": 9
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 812997,
+      "player_name": "Ehsan Haddad",
+      "xg": 0.102297867618203,
+      "xa": 0.02488,
+      "rating": 6,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 53.497619047619,
+      "average_y": 17.809523809524,
+      "minutes_played": 81
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 828294,
+      "player_name": "Yazeed Abu Laila",
+      "xg": 0,
+      "xa": 0.00008376,
+      "rating": 5.6,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 9.9810810810811,
+      "average_y": 48.748648648649,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 830127,
+      "player_name": "Romano Schmid",
+      "xg": 0.08804732531905199,
+      "xa": 0.200288,
+      "rating": 7.6,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 56.9125,
+      "average_y": 28.833333333333,
+      "minutes_played": 83
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 870038,
+      "player_name": "Saša Kalajdžić",
+      "xg": 0.130155155152263,
+      "xa": 0.0113086,
+      "rating": 6.3,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 69.272727272727,
+      "average_y": 57.318181818182,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 876600,
+      "player_name": "Mousa Tamari",
+      "xg": 0.591366780601382,
+      "xa": 0.107479,
+      "rating": 6.8,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 67.474358974359,
+      "average_y": 41.335897435897,
+      "minutes_played": 88
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 888906,
+      "player_name": "Yazan Al-Arab",
+      "xg": 0,
+      "xa": 0.00219279,
+      "rating": 6,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 26.950649350649,
+      "average_y": 59.207792207792,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 920476,
+      "player_name": "Saad Al Rousan",
+      "xg": 0,
+      "xa": 0.00268945,
+      "rating": 6.2,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 32.695238095238,
+      "average_y": 25.742857142857,
+      "minutes_played": 9
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 927845,
+      "player_name": "Noor Al-Rawabdeh",
+      "xg": 0,
+      "xa": 0.0115916,
+      "rating": 6.5,
+      "nominal_position": "M",
+      "detailed_position": "VOL",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 39.752112676056,
+      "average_y": 57.943661971831,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 976575,
+      "player_name": "Nicolas Seiwald",
+      "xg": 0,
+      "xa": 0.0652641,
+      "rating": 6.8,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 48.7125,
+      "average_y": 44.188541666667,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 980664,
+      "player_name": "Saleem Obaid",
+      "xg": 0,
+      "xa": 0.00004781,
+      "rating": 5.8,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 28.07619047619,
+      "average_y": 77.9,
+      "minutes_played": 18
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 980728,
+      "player_name": "Ali Olwan",
+      "xg": 0.6787512889945511,
+      "xa": 0.0187804,
+      "rating": 7.3,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 64.878181818182,
+      "average_y": 58.938181818182,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 987504,
+      "player_name": "Patrick Wimmer",
+      "xg": 0,
+      "xa": 0.0397396,
+      "rating": 6.4,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 52.811111111111,
+      "average_y": 18.477777777778,
+      "minutes_played": 21
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 994556,
+      "player_name": "Carney Chukwuemeka",
+      "xg": 0.43530270109177,
+      "xa": 0.0198947,
+      "rating": 6.4,
+      "nominal_position": "M",
+      "detailed_position": "MEI",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 65.05,
+      "average_y": 41.028571428571,
+      "minutes_played": 31
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1014324,
+      "player_name": "Nizar Al-Rashdan",
+      "xg": 0,
+      "xa": 0.0446822,
+      "rating": 6.7,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 46.659016393443,
+      "average_y": 48.527868852459,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1114497,
+      "player_name": "Abdallah Nasib",
+      "xg": 0,
+      "xa": 0.00500744,
+      "rating": 6.2,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 36.067924528302,
+      "average_y": 29.443396226415,
+      "minutes_played": 81
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1114775,
+      "player_name": "Mohannad Abu Taha",
+      "xg": 0,
+      "xa": 0.0831323,
+      "rating": 7.1,
+      "nominal_position": "M",
+      "detailed_position": "ME",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 51.737288135593,
+      "average_y": 86.571186440678,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1146018,
+      "player_name": "Paul Wanner",
+      "xg": 0,
+      "xa": 0.0130694,
+      "rating": 6.6,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 51.544117647059,
+      "average_y": 44.202941176471,
+      "minutes_played": 31
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1158813,
+      "player_name": "Mo Abualnadi",
+      "xg": 0,
+      "xa": 0.0026241,
+      "rating": 6.1,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 29.646153846154,
+      "average_y": 77.436538461538,
+      "minutes_played": 72
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1457997,
+      "player_name": "Ali Al Azaizeh",
+      "xg": 0.016802946105599,
+      "xa": 0.00112402,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "3-4-2-1",
+      "is_starter": false,
+      "average_x": 75.4,
+      "average_y": 34.1,
+      "minutes_played": 1
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1652199,
+      "player_name": "Ali  Al Azaizeh",
+      "xg": 0.02574,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": null,
+      "detailed_position": null,
+      "formation": null,
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 0
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 1937497,
+      "player_name": "Odeh Fakhoury",
+      "xg": 0.044495582580566,
+      "xa": 0.0100089,
+      "rating": 7.1,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "3-4-2-1",
+      "is_starter": true,
+      "average_x": 63.35,
+      "average_y": 49.226470588235,
+      "minutes_played": 89
+    },
+    {
+      "match_id": 15186751,
+      "player_id": 2048990,
+      "player_name": "Odeh Shehadeh Burhan Fakhoury",
+      "xg": 0.1527,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": null,
+      "detailed_position": null,
+      "formation": null,
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 0
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 750,
+      "player_name": "Cristiano Ronaldo",
+      "xg": 0.460267927497616,
+      "xa": 0.0484366,
+      "rating": 6.1,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 70.837931034483,
+      "average_y": 61.131034482759,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 115665,
+      "player_name": "Cédric Bakambu",
+      "xg": 0.170930635184051,
+      "xa": 0.199997,
+      "rating": 6.9,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 67.260606060606,
+      "average_y": 43.19696969697,
+      "minutes_played": 85
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 138892,
+      "player_name": "João Cancelo",
+      "xg": 0,
+      "xa": 0.021316,
+      "rating": 6.3,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 49.834545454545,
+      "average_y": 28.746363636364,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 174975,
+      "player_name": "Arthur Masuaku",
+      "xg": 0,
+      "xa": 0.327344,
+      "rating": 7,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 48.448780487805,
+      "average_y": 80.09512195122,
+      "minutes_played": 74
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 238612,
+      "player_name": "Chancel Mbemba",
+      "xg": 0,
+      "xa": 0.0110663,
+      "rating": 6.5,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 30.059259259259,
+      "average_y": 25.992592592593,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 252821,
+      "player_name": "Nélson Semedo",
+      "xg": 0,
+      "xa": 0.00856597,
+      "rating": 6.6,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 66.090909090909,
+      "average_y": 16.768181818182,
+      "minutes_played": 18
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 288205,
+      "player_name": "Bruno Fernandes",
+      "xg": 0.065700961276889,
+      "xa": 0.541804,
+      "rating": 7.8,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 57.940776699029,
+      "average_y": 64.280582524272,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 331209,
+      "player_name": "Bernardo Silva",
+      "xg": 0,
+      "xa": 0.00945035,
+      "rating": 6.2,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 52.915384615385,
+      "average_y": 23.965384615385,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 354046,
+      "player_name": "Joris Kayembe",
+      "xg": 0,
+      "xa": 0.00113374,
+      "rating": 7.1,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "5-3-2",
+      "is_starter": false,
+      "average_x": 33.2,
+      "average_y": 87.02,
+      "minutes_played": 16
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 599192,
+      "player_name": "Lionel Mpasi Nzau",
+      "xg": 0,
+      "xa": 0.00004145,
+      "rating": 6,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 10.49756097561,
+      "average_y": 51.087804878049,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 758664,
+      "player_name": "Charles Pickel",
+      "xg": 0,
+      "xa": 0.00175674,
+      "rating": 6.6,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "5-3-2",
+      "is_starter": false,
+      "average_x": 50.47,
+      "average_y": 21.78,
+      "minutes_played": 16
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 805123,
+      "player_name": "Yoane Wissa",
+      "xg": 0.416734261438249,
+      "xa": 0.0192505,
+      "rating": 7.3,
+      "nominal_position": "F",
+      "detailed_position": "CA",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 56.25652173913,
+      "average_y": 43.632608695652,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 817979,
+      "player_name": "Axel Tuanzebe",
+      "xg": 0,
+      "xa": 0.00106984,
+      "rating": 6.4,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 26.961290322581,
+      "average_y": 48.354838709677,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 825945,
+      "player_name": "Simon Banza",
+      "xg": 0,
+      "xa": 0.00050947,
+      "rating": 6.5,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "5-3-2",
+      "is_starter": false,
+      "average_x": 54.216666666667,
+      "average_y": 19.45,
+      "minutes_played": 10
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 843115,
+      "player_name": "Diogo Costa",
+      "xg": 0,
+      "xa": 0.00045313,
+      "rating": 6.8,
+      "nominal_position": "G",
+      "detailed_position": "GL",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 12.253333333333,
+      "average_y": 50.455555555556,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 851284,
+      "player_name": "Rafael Leão",
+      "xg": 0,
+      "xa": 0.060305,
+      "rating": 6.5,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 69.74,
+      "average_y": 88.266666666667,
+      "minutes_played": 19
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 863653,
+      "player_name": "Aaron Wan-Bissaka",
+      "xg": 0,
+      "xa": 0.014849,
+      "rating": 6.9,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 42.303846153846,
+      "average_y": 16.405769230769,
+      "minutes_played": 85
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 879349,
+      "player_name": "Pedro Neto",
+      "xg": 0,
+      "xa": 0.395224,
+      "rating": 7.1,
+      "nominal_position": "M",
+      "detailed_position": "ME",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 70.535714285714,
+      "average_y": 87.553571428571,
+      "minutes_played": 71
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 892624,
+      "player_name": "Samuel Moutoussamy",
+      "xg": 0.065039878711105,
+      "xa": 0.0106138,
+      "rating": 6.5,
+      "nominal_position": "M",
+      "detailed_position": "VOL",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 44.846666666667,
+      "average_y": 46.273333333333,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 902029,
+      "player_name": "Vitinha",
+      "xg": 0,
+      "xa": 0.0584133,
+      "rating": 7.5,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 47.902836879433,
+      "average_y": 57.01914893617,
+      "minutes_played": 83
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 917305,
+      "player_name": "Edo Kayembe",
+      "xg": 0.031387161463499,
+      "xa": 0.00382316,
+      "rating": 6.7,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 46.13023255814,
+      "average_y": 49.551162790698,
+      "minutes_played": 74
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 934510,
+      "player_name": "Gonçalo Ramos",
+      "xg": 0,
+      "xa": 0.00024161,
+      "rating": 6.5,
+      "nominal_position": "F",
+      "detailed_position": "PE",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 66.9,
+      "average_y": 88.3,
+      "minutes_played": 12
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 979222,
+      "player_name": "Francisco Conceição",
+      "xg": 0.074014663696289,
+      "xa": 0.530194,
+      "rating": 6.8,
+      "nominal_position": "F",
+      "detailed_position": "PD",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": 70.235714285714,
+      "average_y": 17.319047619048,
+      "minutes_played": 45
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 983542,
+      "player_name": "Tomás Araújo",
+      "xg": 0,
+      "xa": 0.0141143,
+      "rating": 6.9,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 39.224166666667,
+      "average_y": 24.1525,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 989768,
+      "player_name": "Nuno Mendes",
+      "xg": 0,
+      "xa": 0.0324237,
+      "rating": 6.5,
+      "nominal_position": "D",
+      "detailed_position": "LE",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 55.345360824742,
+      "average_y": 85.337113402062,
+      "minutes_played": 72
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 991200,
+      "player_name": "Gedeon Kalulu",
+      "xg": 0,
+      "xa": 0.00183192,
+      "rating": 6.8,
+      "nominal_position": "D",
+      "detailed_position": "LD",
+      "formation": "5-3-2",
+      "is_starter": false,
+      "average_x": 53.022222222222,
+      "average_y": 9.4333333333333,
+      "minutes_played": 10
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 1019957,
+      "player_name": "Steve Kapuadi",
+      "xg": 0.18727090954781,
+      "xa": 0.0015502,
+      "rating": 6.5,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 29.215625,
+      "average_y": 74.24375,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 1087359,
+      "player_name": "Renato Veiga",
+      "xg": 0,
+      "xa": 0.0194122,
+      "rating": 7.3,
+      "nominal_position": "D",
+      "detailed_position": "ZAG",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 37.951754385965,
+      "average_y": 68.167543859649,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 1171539,
+      "player_name": "Noah Sadiki",
+      "xg": 0,
+      "xa": 0.047571,
+      "rating": 6.8,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "5-3-2",
+      "is_starter": false,
+      "average_x": 52.093333333333,
+      "average_y": 63.926666666667,
+      "minutes_played": 33
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 1190933,
+      "player_name": "João Neves",
+      "xg": 0.052352245897055,
+      "xa": 0.0927617,
+      "rating": 8,
+      "nominal_position": "M",
+      "detailed_position": "MC",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": 54.366346153846,
+      "average_y": 46.778846153846,
+      "minutes_played": 90
+    },
+    {
+      "match_id": 15186709,
+      "player_id": 1391541,
+      "player_name": "Ngal'ayel Mukau",
+      "xg": 0,
+      "xa": 0.0695838,
+      "rating": 6.5,
+      "nominal_position": "M",
+      "detailed_position": "MD",
+      "formation": "5-3-2",
+      "is_starter": true,
+      "average_x": 47.838461538462,
+      "average_y": 21.728205128205,
+      "minutes_played": 57
+    },
+    {
       "match_id": 12813014,
       "player_id": 8959,
       "player_name": "Manuel Neuer",
@@ -36490,7 +38083,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36504,7 +38098,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 110
     },
     {
       "match_id": 12813014,
@@ -36518,7 +38113,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 75
     },
     {
       "match_id": 12813014,
@@ -36532,7 +38128,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36546,7 +38143,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36560,7 +38158,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36574,7 +38173,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 88
     },
     {
       "match_id": 12813014,
@@ -36588,7 +38188,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 10
     },
     {
       "match_id": 12813014,
@@ -36602,7 +38203,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 21
     },
     {
       "match_id": 12813014,
@@ -36616,7 +38218,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 119
     },
     {
       "match_id": 12813014,
@@ -36630,7 +38233,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 90
     },
     {
       "match_id": 12813014,
@@ -36644,7 +38248,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12813014,
@@ -36658,7 +38263,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36672,7 +38278,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 55
     },
     {
       "match_id": 12813014,
@@ -36686,7 +38293,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 63
     },
     {
       "match_id": 12813014,
@@ -36700,7 +38308,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 41
     },
     {
       "match_id": 12813014,
@@ -36714,7 +38323,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 30
     },
     {
       "match_id": 12813014,
@@ -36728,7 +38338,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36742,7 +38353,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36756,7 +38368,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 21
     },
     {
       "match_id": 12813014,
@@ -36770,7 +38383,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 45
     },
     {
       "match_id": 12813014,
@@ -36784,7 +38398,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 57
     },
     {
       "match_id": 12813014,
@@ -36798,7 +38413,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 32
     },
     {
       "match_id": 12813014,
@@ -36812,7 +38428,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 63
     },
     {
       "match_id": 12813014,
@@ -36826,7 +38443,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 65
     },
     {
       "match_id": 12813014,
@@ -36840,7 +38458,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 99
     },
     {
       "match_id": 12813014,
@@ -36854,7 +38473,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36868,7 +38488,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 57
     },
     {
       "match_id": 12813014,
@@ -36882,7 +38503,8 @@
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 10
     },
     {
       "match_id": 12813014,
@@ -36896,7 +38518,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 99
     },
     {
       "match_id": 12813014,
@@ -36910,7 +38533,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 110
     },
     {
       "match_id": 12813014,
@@ -36924,7 +38548,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12813014,
@@ -36938,7 +38563,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 79
     },
     {
       "match_id": 12813014,
@@ -36952,7 +38578,8 @@
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -36966,7 +38593,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 10
     },
     {
       "match_id": 12812998,
@@ -36980,7 +38608,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 71
     },
     {
       "match_id": 12812998,
@@ -36994,7 +38623,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37008,7 +38638,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 49
     },
     {
       "match_id": 12812998,
@@ -37022,7 +38653,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37036,7 +38668,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37050,7 +38683,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 110
     },
     {
       "match_id": 12812998,
@@ -37064,7 +38698,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 49
     },
     {
       "match_id": 12812998,
@@ -37078,7 +38713,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37092,7 +38728,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37106,7 +38743,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 79
     },
     {
       "match_id": 12812998,
@@ -37120,7 +38758,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37134,7 +38773,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 8
     },
     {
       "match_id": 12812998,
@@ -37148,7 +38788,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 113
     },
     {
       "match_id": 12812998,
@@ -37162,7 +38803,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 86
     },
     {
       "match_id": 12812998,
@@ -37176,7 +38818,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 71
     },
     {
       "match_id": 12812998,
@@ -37190,7 +38833,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37204,7 +38848,8 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 34
     },
     {
       "match_id": 12812998,
@@ -37218,7 +38863,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 34
     },
     {
       "match_id": 12812998,
@@ -37232,7 +38878,8 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 45
     },
     {
       "match_id": 12812998,
@@ -37246,7 +38893,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37260,7 +38908,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 86
     },
     {
       "match_id": 12812998,
@@ -37274,7 +38923,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37288,7 +38938,8 @@
       "formation": "3-4-2-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 86
     },
     {
       "match_id": 12812998,
@@ -37302,7 +38953,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37316,7 +38968,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 75
     },
     {
       "match_id": 12812998,
@@ -37330,7 +38983,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 87
     },
     {
       "match_id": 12812998,
@@ -37344,7 +38998,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 120
     },
     {
       "match_id": 12812998,
@@ -37358,7 +39013,8 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 33
     },
     {
       "match_id": 12812998,
@@ -37372,7 +39028,8 @@
       "formation": "3-4-2-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 34
     },
     {
       "match_id": 12812998,
@@ -37386,7 +39043,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 79
     },
     {
       "match_id": 12812998,
@@ -37400,7 +39058,8 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 41
     },
     {
       "match_id": 12812998,
@@ -37414,21 +39073,23 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 41
     },
     {
       "match_id": 12813013,
       "player_id": 70988,
       "player_name": "Thibaut Courtois",
       "xg": 0,
-      "xa": 0.00074681,
+      "xa": 0.00074927,
       "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
@@ -37442,7 +39103,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 56
     },
     {
       "match_id": 12813013,
@@ -37456,21 +39118,23 @@
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 38
     },
     {
       "match_id": 12813013,
       "player_id": 106337,
       "player_name": "Idrissa Gana Gueye",
       "xg": 0.046544145792723,
-      "xa": 0.0205025,
-      "rating": 6.9,
+      "xa": 0.020802,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
@@ -37484,69 +39148,89 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 63
+    },
+    {
+      "match_id": 12813013,
+      "player_id": 128587,
+      "player_name": "Thomas Meunier",
+      "xg": 0,
+      "xa": 0.00130153,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "D",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 5
     },
     {
       "match_id": 12813013,
       "player_id": 135666,
       "player_name": "Leandro Trossard",
       "xg": 0.053774502128363,
-      "xa": 0.0595391,
+      "xa": 0.0624175,
       "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 217704,
       "player_name": "Sadio Mané",
       "xg": 0.042419698089361,
-      "xa": 0.366658,
-      "rating": 7,
+      "xa": 0.367092,
+      "rating": 7.1,
       "nominal_position": "F",
       "detailed_position": "PE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 248331,
       "player_name": "Brandon Mechele",
       "xg": 0.065588839352131,
-      "xa": 0.0171014,
-      "rating": 6.5,
+      "xa": 0.0173588,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 329417,
       "player_name": "Timothy Castagne",
-      "xg": 0,
-      "xa": 0.101653,
-      "rating": 6.7,
+      "xg": 0.067,
+      "xa": 0.101654,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 331737,
       "player_name": "Youri Tielemans",
-      "xg": 0.019902639091015,
+      "xg": 0.059802639091015,
       "xa": 0.0181957,
       "rating": 6.4,
       "nominal_position": "M",
@@ -37554,49 +39238,53 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 580226,
       "player_name": "Mory Diaw",
       "xg": 0,
-      "xa": 0.00068202,
+      "xa": 0.00069287,
       "rating": 7.3,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 758168,
       "player_name": "Moussa Niakhaté",
       "xg": 0,
-      "xa": 0.213349,
+      "xa": 0.213369,
       "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 823631,
       "player_name": "Dodi Lukebakio",
-      "xg": 0.177203755825759,
-      "xa": 0.0100152,
-      "rating": 6.7,
+      "xg": 0.189305398613215,
+      "xa": 0.111156,
+      "rating": 6.8,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 27
     },
     {
       "match_id": 12813013,
@@ -37604,27 +39292,29 @@
       "player_name": "Ismaïla Sarr",
       "xg": 1.84053964912892,
       "xa": 0.0180427,
-      "rating": 7.7,
+      "rating": 7.8,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 873534,
       "player_name": "Krépin Diatta",
       "xg": 0,
-      "xa": 0.0344469,
-      "rating": 7.1,
+      "xa": 0.0351205,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
@@ -37638,49 +39328,53 @@
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 66
     },
     {
       "match_id": 12813013,
       "player_id": 889378,
       "player_name": "Nicolas Raskin",
       "xg": 0,
-      "xa": 0.0989341,
-      "rating": 6.5,
+      "xa": 0.0991792,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 27
     },
     {
       "match_id": 12813013,
       "player_id": 897291,
       "player_name": "Ismail Jakobs",
       "xg": 0,
-      "xa": 0.0133092,
-      "rating": 6.5,
+      "xa": 0.0135844,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
       "player_id": 913679,
       "player_name": "Pathé Ismaël Ciss",
       "xg": 0,
-      "xa": 0.00984289,
+      "xa": 0.00986127,
       "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
@@ -37694,7 +39388,8 @@
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 73
     },
     {
       "match_id": 12813013,
@@ -37708,7 +39403,8 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 56
     },
     {
       "match_id": 12813013,
@@ -37722,21 +39418,23 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 45
     },
     {
       "match_id": 12813013,
       "player_id": 965778,
       "player_name": "Arthur Theate",
       "xg": 0.021118437871337,
-      "xa": 0.0137581,
+      "xa": 0.014086,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 83
     },
     {
       "match_id": 12813013,
@@ -37750,21 +39448,23 @@
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 78
     },
     {
       "match_id": 12813013,
       "player_id": 1002711,
       "player_name": "Pape Matar Sarr",
       "xg": 0,
-      "xa": 0.00020083,
-      "rating": null,
+      "xa": 0.00050726,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 10
     },
     {
       "match_id": 12813013,
@@ -37778,49 +39478,53 @@
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 73
     },
     {
       "match_id": 12813013,
       "player_id": 1142233,
       "player_name": "Diego Moreira",
       "xg": 0,
-      "xa": 0.00048654,
+      "xa": 0.000573,
       "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 20
     },
     {
       "match_id": 12813013,
       "player_id": 1389846,
       "player_name": "Lamine Camara",
       "xg": 0,
-      "xa": 0.00098784,
-      "rating": 6.4,
+      "xa": 0.00241195,
+      "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 17
     },
     {
       "match_id": 12813013,
       "player_id": 1590918,
       "player_name": "Ibrahim Mbaye",
       "xg": 0,
-      "xa": 0.00009956,
-      "rating": null,
+      "xa": 0.00366955,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-3-3",
       "is_starter": false,
       "average_x": null,
-      "average_y": null
+      "average_y": null,
+      "minutes_played": 10
     }
   ],
   "players_info": [
@@ -59572,6 +61276,11 @@
       "points": 9
     },
     {
+      "player_id": "12994",
+      "player_name": "Lionel Messi",
+      "points": 6
+    },
+    {
       "player_id": "826643",
       "player_name": "Kylian Mbappé",
       "points": 6
@@ -59599,11 +61308,6 @@
     {
       "player_id": "750",
       "player_name": "Cristiano Ronaldo",
-      "points": 3
-    },
-    {
-      "player_id": "12994",
-      "player_name": "Lionel Messi",
       "points": 3
     },
     {
