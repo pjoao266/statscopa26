@@ -296,18 +296,18 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderStats(data) {
         const filter = document.getElementById('stats-filter').value;
         const sortBy = document.getElementById('stats-sort').value;
-        const isP90 = document.getElementById('toggle-p90-stats')?.checked; // Verifica se o modo P90 está ativo
-        const groups = {};
-
+        const isP90 = document.getElementById('toggle-p90-stats')?.checked; 
+        
+        // Controla a exibição do aviso dos 120 minutos
         const disclaimerStats = document.getElementById('p90-disclaimer-stats');
         if (disclaimerStats) disclaimerStats.className = isP90 ? 'text-muted mt-1' : 'text-muted d-none mt-1';
 
+        const groups = {};
         const playersMap = {};
         data.players_info.forEach(p => { playersMap[p.player_id] = p; });
 
         const playerStats = {};
         Object.keys(playersMap).forEach(pid => {
-            // NOVO: Adicionado campo minutes
             playerStats[pid] = { info: playersMap[pid], goals: 0, assists: 0, ratings: [], xg: 0, xa: 0, minutes: 0 };
         });
 
@@ -321,24 +321,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(st.rating) playerStats[st.player_id].ratings.push(st.rating);
                 if(st.xg) playerStats[st.player_id].xg += st.xg;
                 if(st.xa) playerStats[st.player_id].xa += st.xa;
-                if(st.minutes_played) playerStats[st.player_id].minutes += st.minutes_played; // Acumula minutos
+                if(st.minutes_played) playerStats[st.player_id].minutes += st.minutes_played;
             }
         });
 
-        // NOVO: Lógica de normalização e filtro P/90 antes de formar os grupos
+        // PASSO 1: Filtrar os jogadores. Se P/90 está ativo, só entram os que têm >= 120 minutos
         let processedPlayers = Object.values(playerStats);
         if (isP90) {
-            processedPlayers = processedPlayers.filter(ps => ps.minutes >= 120); // Regra dos 120 minutos
-            processedPlayers.forEach(ps => {
-                const factor = 90 / ps.minutes;
-                ps.goals = ps.goals * factor;
-                ps.assists = ps.assists * factor;
-                ps.xg = ps.xg * factor;
-                ps.xa = ps.xa * factor;
-                // A nota média não é normalizada, mantém-se intacta.
-            });
+            processedPlayers = processedPlayers.filter(ps => ps.minutes >= 120);
         }
 
+        // PASSO 2: Agrupar os jogadores com os seus dados BRUTOS ABSOLUTOS
         processedPlayers.forEach(ps => {
             const p = ps.info;
             let key = getGroupKey(p, filter);
@@ -350,24 +343,50 @@ document.addEventListener('DOMContentLoaded', () => {
             else if (filter === 'country') imgUrl = p.country.alpha2 ? `https://img.sofascore.com/api/v1/country/${p.country.alpha2}/flag` : null;
 
             if(!groups[key]) {
-                groups[key] = { name: key, img: imgUrl, goals: 0, assists: 0, xg: 0, xa: 0, ratings: [], playersCount: 0, players: [] };
+                groups[key] = { name: key, img: imgUrl, goals: 0, assists: 0, xg: 0, xa: 0, minutes: 0, ratings: [], playersCount: 0, players: [] };
             }
+            
+            // Acumulamos os dados incluindo a soma total de minutos do grupo!
             groups[key].playersCount++;
             groups[key].goals += ps.goals;
             groups[key].assists += ps.assists;
             groups[key].xg += ps.xg;
             groups[key].xa += ps.xa;
+            groups[key].minutes += ps.minutes; 
             groups[key].ratings.push(...ps.ratings);
             
             ps.avgRating = ps.ratings.length > 0 ? ps.ratings.reduce((a,b)=>a+b,0)/ps.ratings.length : 0;
             groups[key].players.push(ps);
         });
 
+        // PASSO 3: Realizar a conversão matemática para p/90 sobre os TOTAIS
         const list = Object.values(groups).map(g => {
             g.avgRating = g.ratings.length > 0 ? (g.ratings.reduce((a,b)=>a+b,0) / g.ratings.length) : 0;
+            
+            if (isP90 && g.minutes > 0) {
+                // Cálculo macro para a linha do grupo na tabela principal
+                const groupFactor = 90 / g.minutes;
+                g.goals = g.goals * groupFactor;
+                g.assists = g.assists * groupFactor;
+                g.xg = g.xg * groupFactor;
+                g.xa = g.xa * groupFactor;
+                
+                // Cálculo micro para cada jogador que aparecerá dentro do Modal
+                g.players.forEach(ps => {
+                    if (!ps.isConverted && ps.minutes > 0) {
+                        const playerFactor = 90 / ps.minutes;
+                        ps.goals = ps.goals * playerFactor;
+                        ps.assists = ps.assists * playerFactor;
+                        ps.xg = ps.xg * playerFactor;
+                        ps.xa = ps.xa * playerFactor;
+                        ps.isConverted = true; // Segurança para não multiplicar 2x o mesmo objeto
+                    }
+                });
+            }
             return g;
         });
 
+        // PASSO 4: Ordenação e Renderização (Inalterado)
         list.sort((a,b) => {
             if (sortBy === 'goals') return b.goals - a.goals || b.avgRating - a.avgRating;
             if (sortBy === 'assists') return b.assists - a.assists || b.avgRating - a.avgRating;
@@ -380,7 +399,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const tbody = document.querySelector('#stats-table tbody');
         tbody.innerHTML = '';
         
-        // NOVO: Formatação condicional (exibe decimais se P/90 for usado)
         const formatIntStat = (val) => isP90 ? val.toFixed(2) : Math.round(val);
 
         list.forEach((item, index) => {
