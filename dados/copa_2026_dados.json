@@ -806,7 +806,7 @@
       "away": "Senegal",
       "home_score": 2,
       "away_score": 2,
-      "status": "Awaiting extra time",
+      "status": "1st extra",
       "round": "Round of 32",
       "roundStage": "Fase Eliminatória"
     }
@@ -39113,7 +39113,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39143,7 +39143,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 53
+      "minutes_played": 46
     },
     {
       "match_id": 12813013,
@@ -39158,7 +39158,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39188,7 +39188,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 13
     },
     {
       "match_id": 12813013,
@@ -39203,14 +39203,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
       "player_id": 217704,
       "player_name": "Sadio Mané",
       "xg": 0.042419698089361,
-      "xa": 0.369233,
+      "xa": 0.36943,
       "rating": 6.9,
       "nominal_position": "F",
       "detailed_position": "PE",
@@ -39218,7 +39218,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39233,7 +39233,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39248,7 +39248,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39263,7 +39263,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39278,7 +39278,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39293,7 +39293,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39308,7 +39308,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 42
+      "minutes_played": 35
     },
     {
       "match_id": 12813013,
@@ -39323,7 +39323,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39338,7 +39338,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39368,14 +39368,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 42
+      "minutes_played": 35
     },
     {
       "match_id": 12813013,
       "player_id": 897291,
       "player_name": "Ismail Jakobs",
       "xg": 0,
-      "xa": 0.017857,
+      "xa": 0.0174954,
       "rating": 6.1,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -39383,7 +39383,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39398,7 +39398,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39458,7 +39458,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 98
+      "minutes_played": 91
     },
     {
       "match_id": 12813013,
@@ -39480,15 +39480,15 @@
       "player_id": 1002711,
       "player_name": "Pape Matar Sarr",
       "xg": 0,
-      "xa": 0.0117156,
-      "rating": 6.5,
+      "xa": 0.0118799,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 25
+      "minutes_played": 18
     },
     {
       "match_id": 12813013,
@@ -39518,7 +39518,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 35
+      "minutes_played": 28
     },
     {
       "match_id": 12813013,
@@ -39533,7 +39533,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 32
+      "minutes_played": 25
     },
     {
       "match_id": 12813013,
@@ -39548,7 +39548,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 25
+      "minutes_played": 18
     }
   ],
   "players_info": [
