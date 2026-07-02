@@ -814,7 +814,7 @@
       "match_id": 12812992,
       "home": "USA",
       "away": "Bosnia & Herzegovina",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "1st half",
       "round": "Round of 32",
@@ -3685,6 +3685,18 @@
       "scorer_name": "Youri Tielemans",
       "assist_id": null,
       "goal_type": "Penalti",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": true
+    },
+    {
+      "match_id": 12812992,
+      "minute": "45",
+      "scorer_id": 934237,
+      "scorer_name": "Folarin Balogun",
+      "assist_id": null,
+      "goal_type": "Bola rolando",
       "box_location": "Dentro da area",
       "is_home": true,
       "is_own_goal": false,
@@ -42097,22 +42109,22 @@
       "player_id": 14990,
       "player_name": "Edin Džeko",
       "xg": 0,
-      "xa": 0.0276205,
-      "rating": 6.6,
+      "xa": 0.027956,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 118179,
       "player_name": "Tim Ream",
       "xg": 0,
-      "xa": 0.0114111,
+      "xa": 0.0129322,
       "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -42120,29 +42132,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 142148,
       "player_name": "Sead Kolašinac",
       "xg": 0,
-      "xa": 0.00013838,
-      "rating": 6.5,
+      "xa": 0.00126844,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 283833,
       "player_name": "Ivan Šunjić",
       "xg": 0,
-      "xa": 0.00252981,
+      "xa": 0.00276526,
       "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -42150,59 +42162,59 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 325061,
       "player_name": "Nikola Vasilj",
       "xg": 0,
-      "xa": 0.00013096,
-      "rating": 6.5,
+      "xa": 0.0009089,
+      "rating": 5.9,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 800419,
       "player_name": "Tyler Adams",
       "xg": 0,
-      "xa": 0.00438294,
-      "rating": 6.7,
+      "xa": 0.0086542,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 803174,
       "player_name": "Antonee Robinson",
       "xg": 0,
-      "xa": 0.0810174,
-      "rating": 6.7,
+      "xa": 0.0920289,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 817957,
       "player_name": "Christian Pulišić",
       "xg": 0.086859494447708,
-      "xa": 0.00446799,
+      "xa": 0.00649431,
       "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "PE",
@@ -42210,37 +42222,37 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 831488,
       "player_name": "Nikola Katić",
       "xg": 0,
-      "xa": 0.00009977,
-      "rating": 6.4,
+      "xa": 0.00048755,
+      "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 843746,
       "player_name": "Stjepan Radeljić",
       "xg": 0,
-      "xa": 0.00031712,
-      "rating": 6.9,
+      "xa": 0.0011576,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
@@ -42255,29 +42267,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 881931,
       "player_name": "Weston McKennie",
       "xg": 0,
-      "xa": 0.0129406,
-      "rating": 6.9,
+      "xa": 0.026378,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 906021,
       "player_name": "Sergiño Dest",
       "xg": 0,
-      "xa": 0.00826072,
+      "xa": 0.0114766,
       "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "PD",
@@ -42285,14 +42297,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 931844,
       "player_name": "Chris Richards",
       "xg": 0,
-      "xa": 0.00315358,
+      "xa": 0.004993,
       "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -42300,29 +42312,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 934237,
       "player_name": "Folarin Balogun",
-      "xg": 0.16696073114872,
+      "xg": 0.50008107392788,
       "xa": 0.00929487,
-      "rating": 6.4,
+      "rating": 6.8,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 973436,
       "player_name": "Matthew Freese",
       "xg": 0,
-      "xa": 0.0000058,
+      "xa": 0.00001051,
       "rating": 6.6,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -42330,29 +42342,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 975798,
       "player_name": "Malik Tillman",
       "xg": 0,
-      "xa": 0.00777066,
-      "rating": 6.4,
+      "xa": 0.101572,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 988893,
       "player_name": "Armin Gigović",
       "xg": 0,
-      "xa": 0,
+      "xa": 0.00026692,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -42360,44 +42372,44 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 1102791,
       "player_name": "Amar Dedić",
       "xg": 0,
-      "xa": 0.00006957,
-      "rating": 6.6,
+      "xa": 0.00024489,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 1118177,
       "player_name": "Tarik Muharemović",
       "xg": 0,
-      "xa": 0.00055202,
-      "rating": 6.5,
+      "xa": 0.00090862,
+      "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 1184541,
       "player_name": "Alexander Freeman",
       "xg": 0,
-      "xa": 0.0063905,
+      "xa": 0.01285,
       "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -42405,22 +42417,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     },
     {
       "match_id": 12812992,
       "player_id": 1425366,
       "player_name": "Kerim Alajbegović",
       "xg": 0,
-      "xa": 0.00010008,
-      "rating": 6.2,
+      "xa": 0.00117898,
+      "rating": 6.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "5-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 45
     }
   ],
   "players_info": [
@@ -64108,6 +64120,11 @@
       "points": 6
     },
     {
+      "player_id": "934237",
+      "player_name": "Folarin Balogun",
+      "points": 6
+    },
+    {
       "player_id": "991011",
       "player_name": "Jude Bellingham",
       "points": 6
@@ -64235,11 +64252,6 @@
     {
       "player_id": "922573",
       "player_name": "Gabriel Martinelli",
-      "points": 3
-    },
-    {
-      "player_id": "934237",
-      "player_name": "Folarin Balogun",
       "points": 3
     },
     {
