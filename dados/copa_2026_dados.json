@@ -42605,7 +42605,7 @@
       "player_id": 21927,
       "player_name": "Marko Arnautović",
       "xg": 0,
-      "xa": 0.0526701,
+      "xa": 0.0432572,
       "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "F",
@@ -42613,22 +42613,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12813004,
       "player_id": 66492,
       "player_name": "David Alaba",
       "xg": 0.02191255427897,
-      "xa": 0.00648706,
-      "rating": 6,
+      "xa": 0.00728763,
+      "rating": 6.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -42650,52 +42650,52 @@
       "player_id": 133908,
       "player_name": "Marcel Sabitzer",
       "xg": 0,
-      "xa": 0.197012,
-      "rating": 6.7,
+      "xa": 0.272457,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 149734,
       "player_name": "Aymeric Laporte",
       "xg": 0.19371472997591188,
-      "xa": 0.0143644,
-      "rating": 7.5,
+      "xa": 0.0148276,
+      "rating": 7.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 186719,
       "player_name": "Florian Grillitsch",
       "xg": 0,
-      "xa": 0.0153329,
-      "rating": 6.7,
+      "xa": 0.00489383,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 34
+      "minutes_played": 38
     },
     {
       "match_id": 12813004,
       "player_id": 282073,
       "player_name": "Alexander Schlager",
       "xg": 0,
-      "xa": 0.00007161,
+      "xa": 0.00007588,
       "rating": 7.2,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -42703,13 +42703,13 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 355486,
       "player_name": "Stefan Posch",
-      "xg": 0,
+      "xg": 0.055368922650814,
       "xa": 0.00437776,
       "rating": 6,
       "nominal_position": "D",
@@ -42718,14 +42718,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 355492,
       "player_name": "Konrad Laimer",
       "xg": 0,
-      "xa": 0.00835358,
+      "xa": 0.00838491,
       "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -42733,22 +42733,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 592010,
       "player_name": "Mikel Merino",
       "xg": 0,
-      "xa": 0.00409479,
-      "rating": 6.7,
+      "xa": 0.00683305,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813004,
@@ -42785,30 +42785,30 @@
       "player_id": 794939,
       "player_name": "Marc Cucurella",
       "xg": 0,
-      "xa": 0.110708,
-      "rating": 7,
+      "xa": 0.158057,
+      "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 794953,
       "player_name": "Kevin Danso",
       "xg": 0,
-      "xa": 0.00106854,
-      "rating": 6.6,
+      "xa": 0.00186794,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -42816,21 +42816,21 @@
       "player_name": "Unai Simón",
       "xg": 0,
       "xa": 0.00012002,
-      "rating": 6.8,
+      "rating": 6.9,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 823622,
       "player_name": "Mikel Oyarzabal",
       "xg": 0.580498024821276,
-      "xa": 0.00766011,
+      "xa": 0.028333,
       "rating": 7.7,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -42838,14 +42838,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 827606,
       "player_name": "Rodri",
       "xg": 0.020431626588106,
-      "xa": 0.0229128,
+      "xa": 0.0241986,
       "rating": 7.3,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -42853,7 +42853,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -42875,15 +42875,15 @@
       "player_id": 855833,
       "player_name": "Ferran Torres",
       "xg": 0.021317774429917,
-      "xa": 0.0161977,
-      "rating": 6.5,
+      "xa": 0.0183902,
+      "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813004,
@@ -42898,7 +42898,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12813004,
@@ -42920,15 +42920,15 @@
       "player_id": 913654,
       "player_name": "Pedro Porro",
       "xg": 0.37193977832794,
-      "xa": 0.0503629,
-      "rating": 7.8,
+      "xa": 0.0504839,
+      "rating": 8,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -42950,7 +42950,7 @@
       "player_id": 992587,
       "player_name": "Pedri",
       "xg": 0,
-      "xa": 0.116312,
+      "xa": 0.117059,
       "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -42958,13 +42958,13 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
       "player_id": 994556,
       "player_name": "Carney Chukwuemeka",
-      "xg": 0.0677,
+      "xg": 0.059172969311476,
       "xa": 0.0502783,
       "rating": 6.3,
       "nominal_position": "M",
@@ -42973,22 +42973,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 34
+      "minutes_played": 38
     },
     {
       "match_id": 12813004,
       "player_id": 1146018,
       "player_name": "Paul Wanner",
       "xg": 0,
-      "xa": 0.00336139,
-      "rating": 6.1,
+      "xa": 0.0141542,
+      "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -43003,7 +43003,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12813004,
@@ -43018,7 +43018,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     }
   ],
   "players_info": [
