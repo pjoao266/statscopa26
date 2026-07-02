@@ -42613,7 +42613,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 14
     },
     {
       "match_id": 12813004,
@@ -42628,7 +42628,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42658,7 +42658,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42666,14 +42666,14 @@
       "player_name": "Aymeric Laporte",
       "xg": 0.19371472997591188,
       "xa": 0.0134439,
-      "rating": 7.2,
+      "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42688,7 +42688,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 29
     },
     {
       "match_id": 12813004,
@@ -42703,7 +42703,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42718,7 +42718,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42726,14 +42726,29 @@
       "player_name": "Konrad Laimer",
       "xg": 0,
       "xa": 0.004537,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
+    },
+    {
+      "match_id": 12813004,
+      "player_id": 592010,
+      "player_name": "Mikel Merino",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 3
     },
     {
       "match_id": 12813004,
@@ -42748,7 +42763,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 71
     },
     {
       "match_id": 12813004,
@@ -42778,7 +42793,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42793,7 +42808,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42808,7 +42823,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42823,7 +42838,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42831,14 +42846,14 @@
       "player_name": "Rodri",
       "xg": 0.020431626588106,
       "xa": 0.0153106,
-      "rating": 7,
+      "rating": 7.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42857,6 +42872,21 @@
     },
     {
       "match_id": 12813004,
+      "player_id": 855833,
+      "player_name": "Ferran Torres",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 3
+    },
+    {
+      "match_id": 12813004,
       "player_id": 870038,
       "player_name": "Saša Kalajdžić",
       "xg": 0.28435525298119,
@@ -42868,7 +42898,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 14
     },
     {
       "match_id": 12813004,
@@ -42876,14 +42906,14 @@
       "player_name": "Alex Baena",
       "xg": 0.06014851666986899,
       "xa": 0.727047,
-      "rating": 7.9,
+      "rating": 8.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 71
     },
     {
       "match_id": 12813004,
@@ -42891,14 +42921,14 @@
       "player_name": "Pedro Porro",
       "xg": 0.37193977832794,
       "xa": 0.0498861,
-      "rating": 7.9,
+      "rating": 7.8,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42928,7 +42958,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42936,14 +42966,14 @@
       "player_name": "Carney Chukwuemeka",
       "xg": 0,
       "xa": 0.00028748,
-      "rating": 6.3,
+      "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 29
     },
     {
       "match_id": 12813004,
@@ -42958,7 +42988,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42973,7 +43003,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     },
     {
       "match_id": 12813004,
@@ -42988,7 +43018,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 68
+      "minutes_played": 74
     }
   ],
   "players_info": [
