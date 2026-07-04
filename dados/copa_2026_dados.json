@@ -46251,30 +46251,30 @@
       "player_id": 96538,
       "player_name": "Lucas Digne",
       "xg": 0,
-      "xa": 0.0181838,
-      "rating": 6.7,
+      "xa": 0.0184242,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 191210,
       "player_name": "Mike Maignan",
       "xg": 0,
-      "xa": 0.0051306,
-      "rating": 7.1,
+      "xa": 0.00513269,
+      "rating": 7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46282,21 +46282,21 @@
       "player_name": "Gustavo Gómez",
       "xg": 0,
       "xa": 0.0106949,
-      "rating": 6.6,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 250737,
       "player_name": "Adrien Rabiot",
       "xg": 0.089305110275745,
-      "xa": 0.0300348,
+      "xa": 0.0303972,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -46304,14 +46304,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 333275,
       "player_name": "Junior Alonso",
-      "xg": 0.046172716230153996,
-      "xa": 0.00554269,
+      "xg": 0.047120969742537,
+      "xa": 0.00569169,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -46319,7 +46319,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46341,7 +46341,7 @@
       "player_id": 546416,
       "player_name": "Andrés Cubas",
       "xg": 0,
-      "xa": 0.00185012,
+      "xa": 0.00191389,
       "rating": 7.2,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -46349,7 +46349,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46364,14 +46364,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 16
+      "minutes_played": 20
     },
     {
       "match_id": 12813010,
       "player_id": 798583,
       "player_name": "Dayot Upamecano",
       "xg": 0,
-      "xa": 0.0534125,
+      "xa": 0.0540263,
       "rating": 7.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46379,7 +46379,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46401,7 +46401,7 @@
       "player_id": 805427,
       "player_name": "Gustavo Velázquez",
       "xg": 0,
-      "xa": 0.00098082,
+      "xa": 0.00104649,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46409,7 +46409,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46430,38 +46430,38 @@
       "match_id": 12813010,
       "player_id": 826643,
       "player_name": "Kylian Mbappé",
-      "xg": 0.809182994106412,
-      "xa": 0.0298733,
-      "rating": 7.1,
+      "xg": 0.862099468746781,
+      "xa": 0.0305654,
+      "rating": 7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 827212,
       "player_name": "Jules Koundé",
       "xg": 0,
-      "xa": 0.0783278,
-      "rating": 7,
+      "xa": 0.0785489,
+      "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 877452,
       "player_name": "José Canale",
       "xg": 0,
-      "xa": 0.00000389,
+      "xa": 0.00007673,
       "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "D",
@@ -46469,14 +46469,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 29
+      "minutes_played": 33
     },
     {
       "match_id": 12813010,
       "player_id": 941168,
       "player_name": "William Saliba",
       "xg": 0,
-      "xa": 0.0278126,
+      "xa": 0.0281058,
       "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46484,7 +46484,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46506,22 +46506,22 @@
       "player_id": 974087,
       "player_name": "Manu Koné",
       "xg": 0.076210187748075,
-      "xa": 0.0743458,
-      "rating": 6.8,
+      "xa": 0.0770176,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 978838,
       "player_name": "Michael Olise",
       "xg": 0,
-      "xa": 0.061649,
+      "xa": 0.063481,
       "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -46529,7 +46529,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46544,13 +46544,13 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 3
+      "minutes_played": 7
     },
     {
       "match_id": 12813010,
       "player_id": 986233,
       "player_name": "Mauricio",
-      "xg": 0,
+      "xg": 0.04695250838995,
       "xa": 0.014918,
       "rating": 6.7,
       "nominal_position": "M",
@@ -46559,7 +46559,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 16
+      "minutes_played": 20
     },
     {
       "match_id": 12813010,
@@ -46567,14 +46567,14 @@
       "player_name": "Gustavo Caballero",
       "xg": 0,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "5-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 26
+      "minutes_played": 30
     },
     {
       "match_id": 12813010,
@@ -46582,14 +46582,14 @@
       "player_name": "Juan Cáceres",
       "xg": 0,
       "xa": 0.00023519,
-      "rating": 6.7,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46597,14 +46597,14 @@
       "player_name": "Orlando Gill",
       "xg": 0,
       "xa": 0.00116843,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
@@ -46641,7 +46641,7 @@
       "player_id": 1105836,
       "player_name": "Matías Galarza",
       "xg": 0,
-      "xa": 0.00114048,
+      "xa": 0.00762552,
       "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -46649,22 +46649,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 87
+      "minutes_played": 91
     },
     {
       "match_id": 12813010,
       "player_id": 1154605,
       "player_name": "Désiré Doué",
-      "xg": 0,
-      "xa": 0.0152736,
-      "rating": 7.4,
+      "xg": 0.030602976679802,
+      "xa": 0.0164585,
+      "rating": 7.3,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 26
+      "minutes_played": 30
     }
   ],
   "players_info": [
