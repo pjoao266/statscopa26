@@ -46247,7 +46247,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46262,7 +46262,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46277,7 +46277,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46292,7 +46292,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46307,7 +46307,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46315,14 +46315,14 @@
       "player_name": "Miguel Almirón",
       "xg": 0,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46330,14 +46330,14 @@
       "player_name": "Andrés Cubas",
       "xg": 0,
       "xa": 0,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46352,7 +46352,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46367,7 +46367,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46382,7 +46382,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46397,7 +46397,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46412,7 +46412,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46427,7 +46427,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46435,14 +46435,14 @@
       "player_name": "William Saliba",
       "xg": 0,
       "xa": 0,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46450,19 +46450,34 @@
       "player_name": "Julio Enciso",
       "xg": 0,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
       "player_id": 974087,
       "player_name": "Manu Koné",
+      "xg": 0,
+      "xa": 0,
+      "rating": 6.6,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": true,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 12
+    },
+    {
+      "match_id": 12813010,
+      "player_id": 978838,
+      "player_name": "Michael Olise",
       "xg": 0,
       "xa": 0,
       "rating": 6.7,
@@ -46472,22 +46487,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
-    },
-    {
-      "match_id": 12813010,
-      "player_id": 978838,
-      "player_name": "Michael Olise",
-      "xg": 0,
-      "xa": 0,
-      "rating": 6.6,
-      "nominal_position": "M",
-      "detailed_position": "M",
-      "formation": "4-2-3-1",
-      "is_starter": true,
-      "average_x": null,
-      "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46502,7 +46502,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46510,14 +46510,14 @@
       "player_name": "Orlando Gill",
       "xg": 0,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "5-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46532,7 +46532,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46547,7 +46547,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     },
     {
       "match_id": 12813010,
@@ -46562,7 +46562,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 12
     }
   ],
   "players_info": [
