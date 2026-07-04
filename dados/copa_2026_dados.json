@@ -3920,7 +3920,7 @@
     },
     {
       "match_id": 12812999,
-      "minute": "93",
+      "minute": "92",
       "scorer_id": 859999,
       "scorer_name": "Lisandro Martínez",
       "assist_id": 895324,
@@ -3935,7 +3935,7 @@
       "minute": "103",
       "scorer_id": 1117723,
       "scorer_name": "Sidny Lopes Cabral",
-      "assist_id": null,
+      "assist_id": 818064,
       "goal_type": "Bola rolando",
       "box_location": "Dentro da area",
       "is_home": false,
@@ -44744,7 +44744,7 @@
       "player_name": "Lionel Messi",
       "xg": 1.2604111097753001,
       "xa": 0.714547,
-      "rating": 9.4,
+      "rating": 9.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
@@ -44834,7 +44834,7 @@
       "player_name": "Rodrigo De Paul",
       "xg": 0,
       "xa": 0.628574,
-      "rating": 7.7,
+      "rating": 7.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
@@ -45014,7 +45014,7 @@
       "player_name": "Jovane Cabral",
       "xg": 0.018274147063494,
       "xa": 0.0117214,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
@@ -45029,7 +45029,7 @@
       "player_name": "Lisandro Martínez",
       "xg": 0.046987269073725,
       "xa": 0.472378,
-      "rating": 9.3,
+      "rating": 9.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
@@ -45089,7 +45089,7 @@
       "player_name": "Nicolás González",
       "xg": 0.23030599206686,
       "xa": 0.0780006,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-4-2",
@@ -45119,7 +45119,7 @@
       "player_name": "Deroy Duarte",
       "xg": 0.07885925099253599,
       "xa": 0.0202102,
-      "rating": 7.4,
+      "rating": 7.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
@@ -45164,7 +45164,7 @@
       "player_name": "Enzo Fernández",
       "xg": 0.26238123141229097,
       "xa": 0.0926486,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
@@ -45268,7 +45268,7 @@
       "player_id": 125787,
       "player_name": "Camilo Vargas",
       "xg": 0,
-      "xa": 0.00104591,
+      "xa": 0.00104993,
       "rating": 6.7,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -45276,22 +45276,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 221162,
       "player_name": "Juan Fernando Quintero",
       "xg": 0.069395542144775,
-      "xa": 0.105769,
-      "rating": 6.8,
+      "xa": 0.109949,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 13
+      "minutes_played": 14
     },
     {
       "match_id": 12813011,
@@ -45321,14 +45321,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 344847,
       "player_name": "Johan Mojica",
       "xg": 0.21453687548637,
-      "xa": 0.00548992,
+      "xa": 0.00549358,
       "rating": 7,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -45336,14 +45336,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 355796,
       "player_name": "Jefferson Lerma",
       "xg": 0,
-      "xa": 0.0489947,
+      "xa": 0.0493303,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45351,14 +45351,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 363782,
       "player_name": "Derrick Luckassen",
       "xg": 0,
-      "xa": 0.00765625,
+      "xa": 0.00770633,
       "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45366,14 +45366,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 566102,
       "player_name": "Davinson Sánchez",
       "xg": 0.331466769799594,
-      "xa": 0.0163033,
+      "xa": 0.0164778,
       "rating": 7.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45381,7 +45381,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
@@ -45411,14 +45411,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 818481,
       "player_name": "Jhon Lucumí",
       "xg": 0,
-      "xa": 0.00830418,
+      "xa": 0.00832864,
       "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45426,7 +45426,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
@@ -45456,14 +45456,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 870360,
       "player_name": "Daniel Muñoz",
       "xg": 0,
-      "xa": 0.33873,
+      "xa": 0.33875,
       "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -45471,29 +45471,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 883537,
       "player_name": "Luis Díaz",
-      "xg": 0.509529732167727,
-      "xa": 0.037738,
-      "rating": 6.3,
+      "xg": 0.5559297321677271,
+      "xa": 0.0387236,
+      "rating": 6.1,
       "nominal_position": "F",
       "detailed_position": "PE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 904424,
       "player_name": "Elisha Owusu",
       "xg": 0,
-      "xa": 0.00178581,
+      "xa": 0.00221472,
       "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45501,7 +45501,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 24
+      "minutes_played": 25
     },
     {
       "match_id": 12813011,
@@ -45531,7 +45531,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 78
+      "minutes_played": 79
     },
     {
       "match_id": 12813011,
@@ -45546,14 +45546,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 934354,
       "player_name": "Antoine Semenyo",
       "xg": 0.110953940078616,
-      "xa": 0.014618,
+      "xa": 0.0157564,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45561,14 +45561,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 1015292,
       "player_name": "Richard Ríos",
       "xg": 0.014775180257857,
-      "xa": 0.00018022,
+      "xa": 0.00021494,
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45576,14 +45576,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 42
     },
     {
       "match_id": 12813011,
       "player_id": 1049515,
       "player_name": "Alidu Seidu",
       "xg": 0,
-      "xa": 0.00273754,
+      "xa": 0.00274213,
       "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "D",
@@ -45591,7 +45591,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 73
+      "minutes_played": 74
     },
     {
       "match_id": 12813011,
@@ -45621,14 +45621,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 24
+      "minutes_played": 25
     },
     {
       "match_id": 12813011,
       "player_id": 1174889,
       "player_name": "Gustavo Puerta",
       "xg": 0.030458033084869,
-      "xa": 0.214814,
+      "xa": 0.215643,
       "rating": 8.1,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45636,22 +45636,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 86
+      "minutes_played": 87
     },
     {
       "match_id": 12813011,
       "player_id": 1202024,
       "player_name": "Ernest Nuamah",
       "xg": 0,
-      "xa": 0.00248504,
-      "rating": null,
+      "xa": 0.00331745,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 7
+      "minutes_played": 8
     },
     {
       "match_id": 12813011,
@@ -45659,14 +45659,14 @@
       "player_name": "Prince Kwabena Adu",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 7
+      "minutes_played": 8
     },
     {
       "match_id": 12813011,
