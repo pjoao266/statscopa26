@@ -886,7 +886,7 @@
       "away": "Morocco",
       "home_score": 0,
       "away_score": 0,
-      "status": "1st half",
+      "status": "Halftime",
       "round": "Round of 16",
       "roundStage": "Fase Eliminatória"
     }
@@ -45714,21 +45714,21 @@
       "player_name": "Maxime Crépeau",
       "xg": 0,
       "xa": 0.00007818,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 360938,
       "player_name": "Yassine Bounou",
       "xg": 0,
-      "xa": 0.00002555,
+      "xa": 0.00006979,
       "rating": 7,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -45736,14 +45736,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 814594,
       "player_name": "Achraf Hakimi",
       "xg": 0,
-      "xa": 0.00048133,
+      "xa": 0.00763322,
       "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -45751,14 +45751,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 825719,
       "player_name": "Issa Diop",
       "xg": 0,
-      "xa": 0.00032185,
+      "xa": 0.00102737,
       "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45766,14 +45766,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 829207,
       "player_name": "Richie Laryea",
       "xg": 0,
-      "xa": 0.00363995,
+      "xa": 0.00565235,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -45781,14 +45781,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 835485,
       "player_name": "Brahim Díaz",
       "xg": 0,
-      "xa": 0.00008538,
+      "xa": 0.003478,
       "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45796,14 +45796,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 847030,
       "player_name": "Noussair Mazraoui",
       "xg": 0,
-      "xa": 0.00153773,
+      "xa": 0.00210798,
       "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -45811,29 +45811,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 886223,
       "player_name": "Stephen Eustaquio",
       "xg": 0,
-      "xa": 0.145372,
-      "rating": 7,
+      "xa": 0.146784,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 935564,
       "player_name": "Jonathan David",
       "xg": 0.021103229373693,
-      "xa": 0.00397092,
+      "xa": 0.00400948,
       "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -45841,14 +45841,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 953995,
       "player_name": "Soufiane Rahimi",
       "xg": 0.019288873299956,
-      "xa": 0,
+      "xa": 0.0008205,
       "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "F",
@@ -45856,14 +45856,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 29
+      "minutes_played": 30
     },
     {
       "match_id": 12813009,
       "player_id": 973290,
       "player_name": "Tajon Buchanan",
       "xg": 0,
-      "xa": 0.00086719,
+      "xa": 0.00318727,
       "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45871,14 +45871,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 984419,
       "player_name": "Alistair Johnston",
       "xg": 0.052727214992046,
-      "xa": 0.00373705,
+      "xa": 0.00425974,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -45886,14 +45886,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 991421,
       "player_name": "Azzedine Ounahi",
       "xg": 0,
-      "xa": 0.00029274,
+      "xa": 0.00328663,
       "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45901,7 +45901,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
@@ -45923,7 +45923,7 @@
       "player_id": 1126569,
       "player_name": "Bilal El Khannouss",
       "xg": 0,
-      "xa": 0.00365995,
+      "xa": 0.00726981,
       "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45931,14 +45931,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 1128530,
       "player_name": "Neil El Aynaoui",
       "xg": 0,
-      "xa": 0.00044593,
+      "xa": 0.00130721,
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45946,14 +45946,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 1143667,
       "player_name": "Redouane Halhal",
       "xg": 0,
-      "xa": 0.00025496,
+      "xa": 0.00043477,
       "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45961,7 +45961,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
@@ -45976,7 +45976,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
@@ -45991,14 +45991,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 1413129,
       "player_name": "Luc De Fougerolles",
       "xg": 0,
-      "xa": 0.0492616,
+      "xa": 0.0493629,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46006,7 +46006,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
@@ -46021,14 +46021,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 1469180,
       "player_name": "Moise Bombito",
       "xg": 0,
-      "xa": 0.0015855,
+      "xa": 0.00176585,
       "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46036,14 +46036,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     },
     {
       "match_id": 12813009,
       "player_id": 1564180,
       "player_name": "Ayyoub Bouaddi",
       "xg": 0,
-      "xa": 0.00012214,
+      "xa": 0.00095714,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -46051,7 +46051,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 52
     }
   ],
   "players_info": [
