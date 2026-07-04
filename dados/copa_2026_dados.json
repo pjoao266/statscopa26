@@ -45733,7 +45733,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45741,14 +45741,14 @@
       "player_name": "Sofyan Amrabat",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 8
     },
     {
       "match_id": 12813009,
@@ -45763,7 +45763,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45771,14 +45771,14 @@
       "player_name": "Cyle Larin",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 8
     },
     {
       "match_id": 12813009,
@@ -45793,7 +45793,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45808,7 +45808,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45823,7 +45823,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45838,7 +45838,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45853,7 +45853,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45868,7 +45868,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45883,7 +45883,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45898,7 +45898,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 49
     },
     {
       "match_id": 12813009,
@@ -45913,7 +45913,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45928,7 +45928,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45943,7 +45943,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45988,7 +45988,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -45996,14 +45996,14 @@
       "player_name": "Chemsdine Talbi",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 8
     },
     {
       "match_id": 12813009,
@@ -46018,7 +46018,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -46048,7 +46048,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -46063,7 +46063,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -46078,7 +46078,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
@@ -46093,7 +46093,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 67
+      "minutes_played": 71
     },
     {
       "match_id": 12813009,
