@@ -886,7 +886,7 @@
       "away": "Morocco",
       "home_score": 0,
       "away_score": 0,
-      "status": "Halftime",
+      "status": "2nd half",
       "round": "Round of 16",
       "roundStage": "Fase Eliminatória"
     }
@@ -45721,7 +45721,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45736,7 +45736,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45751,22 +45751,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
       "player_id": 825719,
       "player_name": "Issa Diop",
       "xg": 0,
-      "xa": 0.00102737,
-      "rating": 6.8,
+      "xa": 0.00122089,
+      "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45774,14 +45774,14 @@
       "player_name": "Richie Laryea",
       "xg": 0,
       "xa": 0.00565235,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45789,14 +45789,14 @@
       "player_name": "Brahim Díaz",
       "xg": 0,
       "xa": 0.003478,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45811,7 +45811,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45826,7 +45826,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45841,7 +45841,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45856,7 +45856,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 30
+      "minutes_played": 26
     },
     {
       "match_id": 12813009,
@@ -45871,7 +45871,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45886,22 +45886,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
       "player_id": 991421,
       "player_name": "Azzedine Ounahi",
       "xg": 0,
-      "xa": 0.00328663,
-      "rating": 6.5,
+      "xa": 0.00329822,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45931,14 +45931,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
       "player_id": 1128530,
       "player_name": "Neil El Aynaoui",
       "xg": 0,
-      "xa": 0.00130721,
+      "xa": 0.00131709,
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -45946,14 +45946,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
       "player_id": 1143667,
       "player_name": "Redouane Halhal",
       "xg": 0,
-      "xa": 0.00043477,
+      "xa": 0.00043996,
       "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -45961,7 +45961,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45976,7 +45976,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -45991,7 +45991,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -46006,7 +46006,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -46021,14 +46021,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
       "player_id": 1469180,
       "player_name": "Moise Bombito",
       "xg": 0,
-      "xa": 0.00176585,
+      "xa": 0.00178283,
       "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -46036,7 +46036,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     },
     {
       "match_id": 12813009,
@@ -46051,7 +46051,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 48
     }
   ],
   "players_info": [
