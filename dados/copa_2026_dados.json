@@ -45246,7 +45246,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45276,7 +45276,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45306,7 +45306,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45321,7 +45321,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45329,14 +45329,14 @@
       "player_name": "Jefferson Lerma",
       "xg": 0,
       "xa": 0.0396979,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45351,7 +45351,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45366,7 +45366,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45381,7 +45381,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 62
     },
     {
       "match_id": 12813011,
@@ -45396,7 +45396,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45404,14 +45404,14 @@
       "player_name": "Jhon Lucumí",
       "xg": 0,
       "xa": 0.00526544,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45426,7 +45426,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45434,14 +45434,14 @@
       "player_name": "Gideon Mensah",
       "xg": 0,
       "xa": 0.0114108,
-      "rating": 6.6,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45456,7 +45456,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45471,7 +45471,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
+    },
+    {
+      "match_id": 12813011,
+      "player_id": 904424,
+      "player_name": "Elisha Owusu",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-1-4-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 6
     },
     {
       "match_id": 12813011,
@@ -45486,7 +45501,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 62
     },
     {
       "match_id": 12813011,
@@ -45501,7 +45516,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 53
+      "minutes_played": 60
     },
     {
       "match_id": 12813011,
@@ -45516,7 +45531,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45531,7 +45546,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45546,7 +45561,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 16
+      "minutes_played": 23
     },
     {
       "match_id": 12813011,
@@ -45561,7 +45576,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 48
+      "minutes_played": 55
     },
     {
       "match_id": 12813011,
@@ -45580,18 +45595,33 @@
     },
     {
       "match_id": 12813011,
+      "player_id": 1103589,
+      "player_name": "Abdul Fatawu Issahaku",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-1-4-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 6
+    },
+    {
+      "match_id": 12813011,
       "player_id": 1174889,
       "player_name": "Gustavo Puerta",
       "xg": 0.030458033084869,
       "xa": 0.211385,
-      "rating": 8.3,
+      "rating": 8.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     },
     {
       "match_id": 12813011,
@@ -45606,7 +45636,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 61
+      "minutes_played": 68
     }
   ],
   "players_info": [
