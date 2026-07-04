@@ -45726,14 +45726,14 @@
       "player_name": "Maxime Crépeau",
       "xg": 0,
       "xa": 0.00007818,
-      "rating": 6.6,
+      "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45741,14 +45741,14 @@
       "player_name": "Sofyan Amrabat",
       "xg": 0,
       "xa": 0,
-      "rating": 6.6,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12813009,
@@ -45763,7 +45763,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45778,7 +45778,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12813009,
@@ -45786,14 +45786,14 @@
       "player_name": "Achraf Hakimi",
       "xg": 0,
       "xa": 0.0278822,
-      "rating": 7.1,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45801,14 +45801,14 @@
       "player_name": "Issa Diop",
       "xg": 0,
       "xa": 0.00142344,
-      "rating": 7.2,
+      "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45823,7 +45823,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45838,7 +45838,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45853,7 +45853,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45861,14 +45861,14 @@
       "player_name": "Stephen Eustaquio",
       "xg": 0,
       "xa": 0.151697,
-      "rating": 6.8,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45876,14 +45876,14 @@
       "player_name": "Jonathan David",
       "xg": 0.021103229373693,
       "xa": 0.0359282,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45898,7 +45898,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 49
+      "minutes_played": 54
     },
     {
       "match_id": 12813009,
@@ -45906,14 +45906,14 @@
       "player_name": "Tajon Buchanan",
       "xg": 0,
       "xa": 0.00582737,
-      "rating": 5.9,
+      "rating": 5.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45928,7 +45928,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45943,7 +45943,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -45988,7 +45988,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -46003,7 +46003,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12813009,
@@ -46018,7 +46018,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -46048,7 +46048,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -46063,7 +46063,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -46078,7 +46078,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
@@ -46086,14 +46086,14 @@
       "player_name": "Moise Bombito",
       "xg": 0,
       "xa": 0.00183193,
-      "rating": 6.1,
+      "rating": 6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 71
+      "minutes_played": 76
     },
     {
       "match_id": 12813009,
