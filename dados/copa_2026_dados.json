@@ -45721,7 +45721,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45736,7 +45736,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45751,7 +45751,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45766,7 +45766,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45781,7 +45781,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45796,7 +45796,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45804,14 +45804,14 @@
       "player_name": "Noussair Mazraoui",
       "xg": 0,
       "xa": 0.00153773,
-      "rating": 7.3,
+      "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45826,7 +45826,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45834,14 +45834,14 @@
       "player_name": "Jonathan David",
       "xg": 0.021103229373693,
       "xa": 0.00397092,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45856,7 +45856,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 29
     },
     {
       "match_id": 12813009,
@@ -45864,14 +45864,14 @@
       "player_name": "Tajon Buchanan",
       "xg": 0,
       "xa": 0.00086719,
-      "rating": 6.1,
+      "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45886,7 +45886,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45894,14 +45894,14 @@
       "player_name": "Azzedine Ounahi",
       "xg": 0,
       "xa": 0.00029274,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45924,14 +45924,14 @@
       "player_name": "Bilal El Khannouss",
       "xg": 0,
       "xa": 0.00365995,
-      "rating": 6.6,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45939,14 +45939,14 @@
       "player_name": "Neil El Aynaoui",
       "xg": 0,
       "xa": 0.00044593,
-      "rating": 6.6,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45954,14 +45954,14 @@
       "player_name": "Redouane Halhal",
       "xg": 0,
       "xa": 0.00025496,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45969,14 +45969,14 @@
       "player_name": "Tani Oluwaseyi",
       "xg": 0.348012663424011,
       "xa": 0.00513486,
-      "rating": 7.1,
+      "rating": 7.3,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -45991,7 +45991,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -46006,7 +46006,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -46021,7 +46021,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -46036,7 +46036,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     },
     {
       "match_id": 12813009,
@@ -46051,7 +46051,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 45
+      "minutes_played": 51
     }
   ],
   "players_info": [
