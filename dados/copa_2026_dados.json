@@ -46682,14 +46682,14 @@
       "player_name": "Ørjan Nyland",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46697,14 +46697,14 @@
       "player_name": "Casemiro",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46712,14 +46712,14 @@
       "player_name": "Danilo",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46727,14 +46727,14 @@
       "player_name": "Marquinhos",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46742,14 +46742,14 @@
       "player_name": "Douglas Santos",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46757,14 +46757,14 @@
       "player_name": "Alisson",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46772,14 +46772,14 @@
       "player_name": "Alexander Sørloth",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "PD",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46787,14 +46787,14 @@
       "player_name": "Patrick Berg",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46802,14 +46802,14 @@
       "player_name": "Martin Ødegaard",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46817,14 +46817,14 @@
       "player_name": "Kristoffer Ajer",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46832,14 +46832,14 @@
       "player_name": "Sander Berge",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46847,14 +46847,14 @@
       "player_name": "Julian Ryerson",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46862,14 +46862,14 @@
       "player_name": "Erling Haaland",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46877,14 +46877,14 @@
       "player_name": "Bruno Guimarães",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46892,14 +46892,14 @@
       "player_name": "Vinícius Júnior",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46907,14 +46907,14 @@
       "player_name": "Gabriel Magalhães",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46922,14 +46922,14 @@
       "player_name": "Matheus Cunha",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46937,14 +46937,14 @@
       "player_name": "Gabriel Martinelli",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46952,14 +46952,14 @@
       "player_name": "Torbjørn Heggem",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46967,14 +46967,14 @@
       "player_name": "David Møller Wolfe",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46982,14 +46982,14 @@
       "player_name": "Antonio Nusa",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "PE",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     },
     {
       "match_id": 12813006,
@@ -46997,14 +46997,14 @@
       "player_name": "Rayan",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 5
+      "minutes_played": 12
     }
   ],
   "players_info": [
