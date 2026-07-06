@@ -47712,7 +47712,7 @@
       "player_id": 750,
       "player_name": "Cristiano Ronaldo",
       "xg": 0.277490379288792,
-      "xa": 0.00565148,
+      "xa": 0.00567495,
       "rating": 6.8,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -47720,7 +47720,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
@@ -47750,44 +47750,44 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 252821,
       "player_name": "Nélson Semedo",
       "xg": 0,
-      "xa": 0.00037986,
-      "rating": 6.4,
+      "xa": 0.00039972,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 28
     },
     {
       "match_id": 12812990,
       "player_id": 288205,
       "player_name": "Bruno Fernandes",
       "xg": 0.033255495131016,
-      "xa": 0.0292862,
-      "rating": 6.6,
+      "xa": 0.0292962,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 318941,
       "player_name": "Rúben Dias",
       "xg": 0,
-      "xa": 0.00578674,
+      "xa": 0.00579768,
       "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -47795,7 +47795,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
+    },
+    {
+      "match_id": 12812990,
+      "player_id": 331209,
+      "player_name": "Bernardo Silva",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12812990,
@@ -47810,7 +47825,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
@@ -47825,7 +47840,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
@@ -47840,7 +47855,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
@@ -47855,14 +47870,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 827606,
       "player_name": "Rodri",
       "xg": 0.0223970990628,
-      "xa": 0.0445707,
+      "xa": 0.0445829,
       "rating": 7.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -47870,7 +47885,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
@@ -47885,14 +47900,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 843200,
       "player_name": "Diogo Dalot",
       "xg": 0,
-      "xa": 0.00234231,
+      "xa": 0.00242203,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "D",
@@ -47900,7 +47915,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12812990,
@@ -47908,14 +47923,14 @@
       "player_name": "Rafael Leão",
       "xg": 0,
       "xa": 0.00037513,
-      "rating": 6.7,
+      "rating": 6.9,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12812990,
@@ -47937,22 +47952,22 @@
       "player_id": 855833,
       "player_name": "Ferran Torres",
       "xg": 0.015464778989553,
-      "xa": 0.00020086,
-      "rating": null,
+      "xa": 0.00028701,
+      "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 9
     },
     {
       "match_id": 12812990,
       "player_id": 879349,
       "player_name": "Pedro Neto",
       "xg": 0.010017585009336,
-      "xa": 0.0677439,
+      "xa": 0.0678618,
       "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -47960,14 +47975,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12812990,
       "player_id": 902029,
       "player_name": "Vitinha",
       "xg": 0.019257197156549,
-      "xa": 0.0183369,
+      "xa": 0.0183516,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -47975,7 +47990,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 83
     },
     {
       "match_id": 12812990,
@@ -47997,15 +48012,30 @@
       "player_id": 913654,
       "player_name": "Pedro Porro",
       "xg": 0.010831407271326,
-      "xa": 0.0175864,
-      "rating": 6.8,
+      "xa": 0.0175875,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
+    },
+    {
+      "match_id": 12812990,
+      "player_id": 979222,
+      "player_name": "Francisco Conceição",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12812990,
@@ -48027,7 +48057,7 @@
       "player_id": 992587,
       "player_name": "Pedri",
       "xg": 0.037142053246498,
-      "xa": 0.052464,
+      "xa": 0.0551354,
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48035,14 +48065,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 1087359,
       "player_name": "Renato Veiga",
       "xg": 0,
-      "xa": 0.00401862,
+      "xa": 0.00402413,
       "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -48050,14 +48080,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 1190933,
       "player_name": "João Neves",
       "xg": 0,
-      "xa": 0.0145868,
+      "xa": 0.0146847,
       "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48065,37 +48095,37 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 1402912,
       "player_name": "Lamine Yamal",
       "xg": 0.122514437884092,
-      "xa": 0.0672378,
-      "rating": 6.7,
+      "xa": 0.0707556,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     },
     {
       "match_id": 12812990,
       "player_id": 1402913,
       "player_name": "Pau Cubarsí",
       "xg": 0,
-      "xa": 0.0158055,
-      "rating": 6.8,
+      "xa": 0.0160434,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 79
+      "minutes_played": 84
     }
   ],
   "players_info": [
