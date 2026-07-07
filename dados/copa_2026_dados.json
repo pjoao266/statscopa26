@@ -956,7 +956,7 @@
       "away": "Colombia",
       "home_score": 0,
       "away_score": 0,
-      "status": "Awaiting extra time",
+      "status": "1st extra",
       "round": "Round of 16",
       "roundStage": "Fase Eliminatória"
     }
@@ -49322,7 +49322,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49337,7 +49337,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49352,7 +49352,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49360,14 +49360,14 @@
       "player_name": "Silvan Widmer",
       "xg": 0,
       "xa": 0.0084646,
-      "rating": 6.4,
+      "rating": null,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 5
     },
     {
       "match_id": 12812991,
@@ -49375,14 +49375,14 @@
       "player_name": "Juan Fernando Quintero",
       "xg": 0,
       "xa": 0.036256,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-1-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 30
+      "minutes_played": 26
     },
     {
       "match_id": 12812991,
@@ -49397,7 +49397,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49412,7 +49412,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49420,14 +49420,14 @@
       "player_name": "Cédric Itten",
       "xg": 0,
       "xa": 0.00044912,
-      "rating": 6.4,
+      "rating": null,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 5
     },
     {
       "match_id": 12812991,
@@ -49465,14 +49465,14 @@
       "player_name": "Manuel Akanji",
       "xg": 0,
       "xa": 0.017194,
-      "rating": 7.1,
+      "rating": 7.2,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49487,7 +49487,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49502,7 +49502,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49532,7 +49532,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 25
+      "minutes_played": 21
     },
     {
       "match_id": 12812991,
@@ -49547,7 +49547,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 51
+      "minutes_played": 47
     },
     {
       "match_id": 12812991,
@@ -49555,14 +49555,14 @@
       "player_name": "Jhon Lucumí",
       "xg": 0,
       "xa": 0.00149324,
-      "rating": 6.8,
+      "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49592,7 +49592,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49607,7 +49607,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 0
     },
     {
       "match_id": 12812991,
@@ -49622,7 +49622,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 30
+      "minutes_played": 26
     },
     {
       "match_id": 12812991,
@@ -49630,14 +49630,14 @@
       "player_name": "Luis Díaz",
       "xg": 0.138085339218378,
       "xa": 0.0270157,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49652,7 +49652,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 10
     },
     {
       "match_id": 12812991,
@@ -49660,7 +49660,7 @@
       "player_name": "Luis Javier Suárez",
       "xg": 0.111235052347183,
       "xa": 0.00413316,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-1-1",
@@ -49682,7 +49682,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     },
     {
       "match_id": 12812991,
@@ -49712,7 +49712,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 10
     },
     {
       "match_id": 12812991,
@@ -49742,7 +49742,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 96
+      "minutes_played": 92
     }
   ],
   "players_info": [
