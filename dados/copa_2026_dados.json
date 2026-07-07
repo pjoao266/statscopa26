@@ -49292,7 +49292,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 71
     },
     {
       "match_id": 12812991,
@@ -49315,14 +49315,14 @@
       "player_name": "Remo Freuler",
       "xg": 0,
       "xa": 0.0278525,
-      "rating": 6.7,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49330,14 +49330,14 @@
       "player_name": "Granit Xhaka",
       "xg": 0,
       "xa": 0.0409986,
-      "rating": 7.1,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49352,7 +49352,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
+    },
+    {
+      "match_id": 12812991,
+      "player_id": 221162,
+      "player_name": "Juan Fernando Quintero",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-4-1-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 6
     },
     {
       "match_id": 12812991,
@@ -49367,7 +49382,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49382,7 +49397,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49390,14 +49405,14 @@
       "player_name": "Breel Embolo",
       "xg": 0,
       "xa": 0.0204755,
-      "rating": 6.5,
+      "rating": 6.4,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49405,14 +49420,14 @@
       "player_name": "Jefferson Lerma",
       "xg": 0,
       "xa": 0.0344477,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49427,7 +49442,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49442,7 +49457,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49457,7 +49472,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49472,7 +49487,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
+    },
+    {
+      "match_id": 12812991,
+      "player_id": 798303,
+      "player_name": "Miro Muheim",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "D",
+      "detailed_position": "D",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12812991,
@@ -49480,14 +49510,14 @@
       "player_name": "Djibril Sow",
       "xg": 0.14427007734776,
       "xa": 0.00584885,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 21
+      "minutes_played": 27
     },
     {
       "match_id": 12812991,
@@ -49502,7 +49532,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49532,7 +49562,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
+    },
+    {
+      "match_id": 12812991,
+      "player_id": 877299,
+      "player_name": "Jaminton Campaz",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-4-1-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 6
     },
     {
       "match_id": 12812991,
@@ -49547,7 +49592,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49562,7 +49607,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49570,14 +49615,14 @@
       "player_name": "Fabian Rieder",
       "xg": 0.125440629199148,
       "xa": 0.0156231,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49585,14 +49630,14 @@
       "player_name": "Dan Ndoye",
       "xg": 0.018504679203033,
       "xa": 0.017941,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     },
     {
       "match_id": 12812991,
@@ -49622,7 +49667,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 72
     }
   ],
   "players_info": [
