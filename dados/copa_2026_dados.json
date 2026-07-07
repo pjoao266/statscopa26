@@ -944,7 +944,7 @@
       "match_id": 12812993,
       "home": "Argentina",
       "away": "Egypt",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 2,
       "status": "2nd half",
       "round": "Round of 16",
@@ -4274,7 +4274,7 @@
       "box_location": "Dentro da area",
       "is_home": false,
       "is_own_goal": false,
-      "is_winning_goal": true
+      "is_winning_goal": false
     },
     {
       "match_id": 12812993,
@@ -4282,6 +4282,18 @@
       "scorer_id": 829932,
       "scorer_name": "Cristian Romero",
       "assist_id": 12994,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 12812993,
+      "minute": "83",
+      "scorer_id": 12994,
+      "scorer_name": "Lionel Messi",
+      "assist_id": 822933,
       "goal_type": "Bola rolando",
       "box_location": "Dentro da area",
       "is_home": true,
@@ -48784,16 +48796,16 @@
       "match_id": 12812993,
       "player_id": 12994,
       "player_name": "Lionel Messi",
-      "xg": 0.9401320759594449,
-      "xa": 0.779659,
-      "rating": 7,
+      "xg": 1.004024179691077,
+      "xa": 0.779776,
+      "rating": 8.7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-1-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -48823,14 +48835,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 159665,
       "player_name": "Mohamed Salah",
       "xg": 0,
-      "xa": 0.00740497,
+      "xa": 0.00742574,
       "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -48838,7 +48850,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -48860,30 +48872,30 @@
       "player_id": 255389,
       "player_name": "Leandro Paredes",
       "xg": 0.021141501143575,
-      "xa": 0.208139,
-      "rating": 8.2,
+      "xa": 0.209719,
+      "rating": 8.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 295339,
       "player_name": "Rami Rabia",
       "xg": 0,
-      "xa": 0.00035545,
-      "rating": 7.3,
+      "xa": 0.00035936,
+      "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -48898,89 +48910,89 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 14
     },
     {
       "match_id": 12812993,
       "player_id": 333441,
       "player_name": "Yasser Ibrahim",
       "xg": 0.19471642374992,
-      "xa": 0.00074093,
-      "rating": 7.8,
+      "xa": 0.00075418,
+      "rating": 7.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 577736,
       "player_name": "Karim Hafez",
       "xg": 0.016206953674555,
-      "xa": 0.0179748,
-      "rating": 6.8,
+      "xa": 0.0179749,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 822933,
       "player_name": "Gonzalo Montiel",
       "xg": 0,
-      "xa": 0.0053132,
-      "rating": 6.5,
+      "xa": 0.510906,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-1-3-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 14
     },
     {
       "match_id": 12812993,
       "player_id": 823984,
       "player_name": "Lautaro Martínez",
-      "xg": 0.79286096506119,
+      "xg": 0.44888600707054005,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-3-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 15
+      "minutes_played": 21
     },
     {
       "match_id": 12812993,
       "player_id": 826545,
       "player_name": "Mohamed Hany",
       "xg": 0,
-      "xa": 0.0102986,
-      "rating": 6,
+      "xa": 0.0103064,
+      "rating": 5.8,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 829932,
       "player_name": "Cristian Romero",
       "xg": 0.35052248835564,
-      "xa": 0.0183429,
+      "xa": 0.0183893,
       "rating": 7.7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -48988,7 +49000,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -49010,7 +49022,7 @@
       "player_id": 859999,
       "player_name": "Lisandro Martínez",
       "xg": 0.019404180347919,
-      "xa": 0.0183104,
+      "xa": 0.0208655,
       "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -49018,14 +49030,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 873554,
       "player_name": "Omar Marmoush",
       "xg": 0,
-      "xa": 0,
+      "xa": 0.00001003,
       "rating": null,
       "nominal_position": "F",
       "detailed_position": "F",
@@ -49033,44 +49045,44 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 1
+      "minutes_played": 7
     },
     {
       "match_id": 12812993,
       "player_id": 895324,
       "player_name": "Alexis Mac Allister",
       "xg": 0.32984212040901,
-      "xa": 0.202071,
-      "rating": 6.4,
+      "xa": 0.202339,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 901325,
       "player_name": "Nicolás González",
       "xg": 0,
-      "xa": 0.214409,
-      "rating": 6.7,
+      "xa": 0.21512,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-3-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 15
+      "minutes_played": 21
     },
     {
       "match_id": 12812993,
       "player_id": 918506,
       "player_name": "Mohanad Lasheen",
       "xg": 0,
-      "xa": 0.0108506,
+      "xa": 0.0108819,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -49078,14 +49090,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 918913,
       "player_name": "Hamdy Fathy",
       "xg": 0,
-      "xa": 0.00005583,
+      "xa": 0.00005804,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -49093,7 +49105,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 36
+      "minutes_played": 42
     },
     {
       "match_id": 12812993,
@@ -49115,15 +49127,15 @@
       "player_id": 944656,
       "player_name": "Julián Alvarez",
       "xg": 0.334254067391154,
-      "xa": 0.104462,
-      "rating": 6.8,
+      "xa": 0.108172,
+      "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-1-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -49145,22 +49157,22 @@
       "player_id": 974505,
       "player_name": "Enzo Fernández",
       "xg": 0.08202338218689,
-      "xa": 0.548206,
-      "rating": 6.9,
+      "xa": 0.556143,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-3-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 1013699,
       "player_name": "Marwan Attia",
       "xg": 0,
-      "xa": 0.213062,
+      "xa": 0.213076,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -49168,22 +49180,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
       "player_id": 1048378,
       "player_name": "Mostafa Shobeir",
       "xg": 0,
-      "xa": 0.0001406,
-      "rating": 8.2,
+      "xa": 0.00014123,
+      "rating": 7.7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 81
+      "minutes_played": 87
     },
     {
       "match_id": 12812993,
@@ -71123,11 +71135,6 @@
     {
       "player_id": "1402912",
       "player_name": "Lamine Yamal",
-      "points": 3
-    },
-    {
-      "player_id": "1418782",
-      "player_name": "Mostafa Ziko",
       "points": 3
     },
     {
