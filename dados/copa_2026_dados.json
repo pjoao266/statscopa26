@@ -48243,14 +48243,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 118085,
       "player_name": "Hans Vanaken",
       "xg": 0,
-      "xa": 0.00111442,
+      "xa": 0.00114179,
       "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48258,14 +48258,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 18
+      "minutes_played": 24
     },
     {
       "match_id": 12813002,
       "player_id": 118179,
       "player_name": "Tim Ream",
       "xg": 0,
-      "xa": 0.00163453,
+      "xa": 0.00230304,
       "rating": 6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -48273,14 +48273,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 135666,
       "player_name": "Leandro Trossard",
       "xg": 0.076254341751337,
-      "xa": 0.434291,
+      "xa": 0.434745,
       "rating": 7.4,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48288,14 +48288,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 248331,
       "player_name": "Brandon Mechele",
       "xg": 0,
-      "xa": 0.00061992,
+      "xa": 0.00131581,
       "rating": 6.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -48303,14 +48303,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 329417,
       "player_name": "Timothy Castagne",
       "xg": 0.030456241220236,
-      "xa": 0.227671,
+      "xa": 0.227877,
       "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -48318,44 +48318,44 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 331737,
       "player_name": "Youri Tielemans",
       "xg": 0.335971258580687,
-      "xa": 0.0334913,
-      "rating": 6.5,
+      "xa": 0.033733,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 800419,
       "player_name": "Tyler Adams",
       "xg": 0,
-      "xa": 0.00384392,
-      "rating": 6.5,
+      "xa": 0.00558851,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 803174,
       "player_name": "Antonee Robinson",
       "xg": 0,
-      "xa": 0.00396627,
+      "xa": 0.00837135,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -48363,14 +48363,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 817957,
       "player_name": "Christian Pulišić",
       "xg": 0,
-      "xa": 0.00984695,
+      "xa": 0.0155194,
       "rating": 6.3,
       "nominal_position": "F",
       "detailed_position": "PE",
@@ -48378,29 +48378,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 823631,
       "player_name": "Dodi Lukebakio",
-      "xg": 0,
+      "xg": 0.15936394035816,
       "xa": 0.0171905,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 881931,
       "player_name": "Weston McKennie",
       "xg": 0,
-      "xa": 0.0036255,
+      "xa": 0.0049485,
       "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48408,14 +48408,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 889378,
       "player_name": "Nicolas Raskin",
       "xg": 0.052928674966097,
-      "xa": 0.46825,
+      "xa": 0.469602,
       "rating": 7.5,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48423,14 +48423,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 906021,
       "player_name": "Sergiño Dest",
       "xg": 0,
-      "xa": 0.00380645,
+      "xa": 0.00405462,
       "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "PD",
@@ -48438,7 +48438,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
@@ -48460,30 +48460,30 @@
       "player_id": 931844,
       "player_name": "Chris Richards",
       "xg": 0,
-      "xa": 0.00184038,
-      "rating": 6.4,
+      "xa": 0.00244853,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 934237,
       "player_name": "Folarin Balogun",
-      "xg": 0,
+      "xg": 0.2094,
       "xa": 0.00263388,
-      "rating": 6.6,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
@@ -48498,29 +48498,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 973436,
       "player_name": "Matthew Freese",
       "xg": 0,
-      "xa": 0.000176,
-      "rating": 6.8,
+      "xa": 0.00018262,
+      "rating": 7,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 975798,
       "player_name": "Malik Tillman",
       "xg": 0.10346659272909,
-      "xa": 0.00041637,
+      "xa": 0.0224856,
       "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -48528,52 +48528,52 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 997152,
       "player_name": "Maxim De Cuyper",
       "xg": 0,
-      "xa": 0.0310702,
-      "rating": 6.6,
+      "xa": 0.152022,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 1119487,
       "player_name": "Nathan Ngoy",
       "xg": 0,
-      "xa": 0.000776,
-      "rating": 6.1,
+      "xa": 0.00084622,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     },
     {
       "match_id": 12813002,
       "player_id": 1184541,
       "player_name": "Alexander Freeman",
-      "xg": 0,
-      "xa": 0.0115815,
-      "rating": 6.4,
+      "xg": 0.0558,
+      "xa": 0.012502,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-3-3",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 45
     }
   ],
   "players_info": [
