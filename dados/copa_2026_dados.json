@@ -49315,14 +49315,14 @@
       "player_name": "Remo Freuler",
       "xg": 0,
       "xa": 0.0278525,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49330,14 +49330,14 @@
       "player_name": "Granit Xhaka",
       "xg": 0,
       "xa": 0.0409986,
-      "rating": 7,
+      "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49345,14 +49345,14 @@
       "player_name": "Camilo Vargas",
       "xg": 0,
       "xa": 0.00142747,
-      "rating": 6.7,
+      "rating": 6.8,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49360,14 +49360,14 @@
       "player_name": "Juan Fernando Quintero",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-1-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 6
+      "minutes_played": 10
     },
     {
       "match_id": 12812991,
@@ -49375,14 +49375,14 @@
       "player_name": "Nico Elvedi",
       "xg": 0,
       "xa": 0.00185101,
-      "rating": 7.1,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49397,7 +49397,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49412,7 +49412,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49427,7 +49427,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49435,14 +49435,14 @@
       "player_name": "Manuel Akanji",
       "xg": 0,
       "xa": 0.0129423,
-      "rating": 7,
+      "rating": 7.1,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49457,7 +49457,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49465,14 +49465,14 @@
       "player_name": "Davinson Sánchez",
       "xg": 0,
       "xa": 0.00377408,
-      "rating": 6.2,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49487,7 +49487,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49502,7 +49502,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 1
+      "minutes_played": 5
     },
     {
       "match_id": 12812991,
@@ -49517,7 +49517,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 27
+      "minutes_played": 31
     },
     {
       "match_id": 12812991,
@@ -49532,7 +49532,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49555,14 +49555,14 @@
       "player_name": "Daniel Muñoz",
       "xg": 0,
       "xa": 0.00239453,
-      "rating": 6.5,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-4-1-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49570,14 +49570,14 @@
       "player_name": "Jaminton Campaz",
       "xg": 0,
       "xa": 0,
-      "rating": null,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-1-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 6
+      "minutes_played": 10
     },
     {
       "match_id": 12812991,
@@ -49592,7 +49592,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49607,7 +49607,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49615,14 +49615,14 @@
       "player_name": "Fabian Rieder",
       "xg": 0.125440629199148,
       "xa": 0.0156231,
-      "rating": 6.4,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49637,7 +49637,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     },
     {
       "match_id": 12812991,
@@ -49667,7 +49667,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 72
+      "minutes_played": 76
     }
   ],
   "players_info": [
