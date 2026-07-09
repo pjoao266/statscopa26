@@ -49789,15 +49789,15 @@
       "player_id": 96538,
       "player_name": "Lucas Digne",
       "xg": 0,
-      "xa": 0.00576261,
-      "rating": 6.5,
+      "xa": 0.0110312,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
@@ -49812,29 +49812,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 250737,
       "player_name": "Adrien Rabiot",
-      "xg": 0,
-      "xa": 0.0206372,
-      "rating": 6.4,
+      "xg": 0.051446590572596,
+      "xa": 0.0262474,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 360938,
       "player_name": "Yassine Bounou",
       "xg": 0,
-      "xa": 0.00013294,
+      "xa": 0.00013376,
       "rating": 6.8,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -49842,14 +49842,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 798583,
       "player_name": "Dayot Upamecano",
       "xg": 0.44410985708237,
-      "xa": 0.00679677,
+      "xa": 0.0130988,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -49857,14 +49857,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 814594,
       "player_name": "Achraf Hakimi",
       "xg": 0,
-      "xa": 0.00005735,
+      "xa": 0.00281614,
       "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -49872,29 +49872,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 818244,
       "player_name": "Ousmane Dembélé",
-      "xg": 0.08773351478576699,
-      "xa": 0.341761,
-      "rating": 7.1,
+      "xg": 0.07408884353935799,
+      "xa": 0.443443,
+      "rating": 7.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 825719,
       "player_name": "Issa Diop",
       "xg": 0,
-      "xa": 0.00006107,
+      "xa": 0.0000613,
       "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -49902,29 +49902,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 826643,
       "player_name": "Kylian Mbappé",
       "xg": 0.045541651546955,
-      "xa": 0.0278657,
-      "rating": 6.4,
+      "xa": 0.0289417,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 827212,
       "player_name": "Jules Koundé",
       "xg": 0,
-      "xa": 0.0128404,
+      "xa": 0.0134478,
       "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LD",
@@ -49932,14 +49932,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 835485,
       "player_name": "Brahim Díaz",
       "xg": 0,
-      "xa": 0.00050334,
+      "xa": 0.00157508,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -49947,14 +49947,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 847030,
       "player_name": "Noussair Mazraoui",
       "xg": 0,
-      "xa": 0.00006551,
+      "xa": 0.0000657,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -49962,14 +49962,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 941168,
       "player_name": "William Saliba",
       "xg": 0,
-      "xa": 0.00789185,
+      "xa": 0.0113077,
       "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -49977,29 +49977,29 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 961684,
       "player_name": "Anass Salah-Eddine",
       "xg": 0,
-      "xa": 0.00005062,
-      "rating": 6.5,
+      "xa": 0.00005273,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 974087,
       "player_name": "Manu Koné",
       "xg": 0,
-      "xa": 0.0128732,
+      "xa": 0.0128787,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -50007,14 +50007,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 978838,
       "player_name": "Michael Olise",
       "xg": 0,
-      "xa": 0.0173553,
+      "xa": 0.022648,
       "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -50022,37 +50022,37 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 991421,
       "player_name": "Azzedine Ounahi",
       "xg": 0,
-      "xa": 0.00029817,
-      "rating": 6.5,
+      "xa": 0.0062595,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 1126569,
       "player_name": "Bilal El Khannouss",
       "xg": 0,
-      "xa": 0.00140166,
-      "rating": 6.6,
+      "xa": 0.00178139,
+      "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
@@ -50060,14 +50060,14 @@
       "player_name": "Neil El Aynaoui",
       "xg": 0,
       "xa": 0.00006738,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
@@ -50075,21 +50075,21 @@
       "player_name": "Chemsdine Talbi",
       "xg": 0,
       "xa": 0.00003153,
-      "rating": 6.5,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 1154605,
       "player_name": "Désiré Doué",
       "xg": 0.025884618982673,
-      "xa": 0.123392,
+      "xa": 0.124452,
       "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -50097,22 +50097,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     },
     {
       "match_id": 12813016,
       "player_id": 1564180,
       "player_name": "Ayyoub Bouaddi",
       "xg": 0,
-      "xa": 0.00092361,
-      "rating": 6.5,
+      "xa": 0.00095798,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 20
+      "minutes_played": 25
     }
   ],
   "players_info": [
