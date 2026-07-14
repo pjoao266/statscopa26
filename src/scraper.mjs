@@ -589,7 +589,7 @@ try {
     const ehMeiaNoite = horaBrasil.getHours() === 0 && horaBrasil.getMinutes() < 5;
 
     // 3. Verifica se há jogos rodando antes de acionar o Sofascore
-    const temJogoAoVivo = await checkLiveGamesESPN();
+    const temJogoAoVivo = true;//await checkLiveGamesESPN();
     
     // 4. Lógica de decisão: Rodar se houver jogo OU se for o backup da meia-noite
     if (temJogoAoVivo) {
