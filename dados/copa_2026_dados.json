@@ -1015,7 +1015,7 @@
       "home": "England",
       "away": "Argentina",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "status": "2nd half",
       "round": "Semifinals",
       "roundStage": "Fase Eliminatória"
@@ -4573,6 +4573,18 @@
       "is_home": false,
       "is_own_goal": false,
       "is_winning_goal": false
+    },
+    {
+      "match_id": 12812996,
+      "minute": "90+2",
+      "scorer_id": 823984,
+      "scorer_name": "Lautaro Martínez",
+      "assist_id": 12994,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": false,
+      "is_own_goal": false,
+      "is_winning_goal": true
     }
   ],
   "player_match_stats": [
@@ -52461,15 +52473,15 @@
       "player_id": 12994,
       "player_name": "Lionel Messi",
       "xg": 0.0078168101608753,
-      "xa": 0.314763,
-      "rating": 7.1,
+      "xa": 0.786369,
+      "rating": 8.5,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52477,14 +52489,14 @@
       "player_name": "Nicolás Otamendi",
       "xg": 0,
       "xa": 0.0190281,
-      "rating": 6.7,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12812996,
@@ -52492,21 +52504,21 @@
       "player_name": "Dan Burn",
       "xg": 0,
       "xa": 0,
-      "rating": 6.1,
+      "rating": 5.8,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 13
     },
     {
       "match_id": 12812996,
       "player_id": 108579,
       "player_name": "Harry Kane",
       "xg": 0.021511487662792,
-      "xa": 0.0214691,
+      "xa": 0.0214722,
       "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -52514,7 +52526,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52522,29 +52534,29 @@
       "player_name": "Jordan Pickford",
       "xg": 0,
       "xa": 0.00145791,
-      "rating": 6.3,
+      "rating": 6.1,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 152077,
       "player_name": "John Stones",
       "xg": 0.054891433566809,
-      "xa": 0.00345604,
-      "rating": 6.9,
+      "xa": 0.00487675,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52574,14 +52586,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 249399,
       "player_name": "Rodrigo De Paul",
       "xg": 0.026704819872975,
-      "xa": 0.332196,
+      "xa": 0.333618,
       "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -52589,7 +52601,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12812996,
@@ -52619,22 +52631,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12812996,
       "player_id": 823984,
       "player_name": "Lautaro Martínez",
-      "xg": 0,
+      "xg": 0.70790541172028,
       "xa": 0,
-      "rating": 6.3,
+      "rating": 7,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 10
+      "minutes_played": 14
     },
     {
       "match_id": 12812996,
@@ -52642,21 +52654,21 @@
       "player_name": "Ezri Konsa",
       "xg": 0,
       "xa": 0,
-      "rating": 6.2,
+      "rating": 5.9,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 19
+      "minutes_played": 23
     },
     {
       "match_id": 12812996,
       "player_id": 829932,
       "player_name": "Cristian Romero",
       "xg": 0,
-      "xa": 0.0163208,
+      "xa": 0.0163414,
       "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -52664,7 +52676,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52717,14 +52729,14 @@
       "player_name": "Marc Guéhi",
       "xg": 0,
       "xa": 0.00686266,
-      "rating": 6.6,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52745,7 +52757,7 @@
       "match_id": 12812996,
       "player_id": 895324,
       "player_name": "Alexis Mac Allister",
-      "xg": 0.412346407771111,
+      "xg": 0.499623909592629,
       "xa": 0.0354183,
       "rating": 6.1,
       "nominal_position": "M",
@@ -52754,22 +52766,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 901325,
       "player_name": "Nicolás González",
       "xg": 0.1209926456213,
-      "xa": 0.00815099,
-      "rating": 6.3,
+      "xa": 0.0267138,
+      "rating": 6.5,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 27
+      "minutes_played": 31
     },
     {
       "match_id": 12812996,
@@ -52791,15 +52803,15 @@
       "player_id": 944656,
       "player_name": "Julián Alvarez",
       "xg": 0.41490276530385506,
-      "xa": 0.0890996,
-      "rating": 6.6,
+      "xa": 0.0918237,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52807,36 +52819,36 @@
       "player_name": "Djed Spence",
       "xg": 0,
       "xa": 0.00884153,
-      "rating": 6.9,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 948261,
       "player_name": "Morgan Rogers",
       "xg": 0.054731946438551,
-      "xa": 0.364608,
-      "rating": 7.1,
+      "xa": 0.366659,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 974505,
       "player_name": "Enzo Fernández",
       "xg": 0.11191840842366199,
-      "xa": 0.0909841,
+      "xa": 0.0942339,
       "rating": 7.7,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -52844,22 +52856,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
       "player_id": 991011,
       "player_name": "Jude Bellingham",
       "xg": 0,
-      "xa": 0.00967571,
-      "rating": 6.8,
+      "xa": 0.00969034,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52867,14 +52879,14 @@
       "player_name": "Elliot Anderson",
       "xg": 0,
       "xa": 0.015221,
-      "rating": 7.2,
+      "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 91
+      "minutes_played": 95
     },
     {
       "match_id": 12812996,
@@ -52897,14 +52909,14 @@
       "player_name": "Nico O'Reilly",
       "xg": 0,
       "xa": 0,
-      "rating": 6.4,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 13
     }
   ],
   "players_info": [
@@ -74602,6 +74614,11 @@
       "points": 6
     },
     {
+      "player_id": "823984",
+      "player_name": "Lautaro Martínez",
+      "points": 6
+    },
+    {
       "player_id": "843114",
       "player_name": "Julián Quiñones",
       "points": 6
@@ -74689,11 +74706,6 @@
     {
       "player_id": "823941",
       "player_name": "Alexander Isak",
-      "points": 3
-    },
-    {
-      "player_id": "823984",
-      "player_name": "Lautaro Martínez",
       "points": 3
     },
     {
