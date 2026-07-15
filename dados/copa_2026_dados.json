@@ -52474,14 +52474,14 @@
       "player_name": "Lionel Messi",
       "xg": 0.0078168101608753,
       "xa": 0.786369,
-      "rating": 8.5,
+      "rating": 8.7,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52489,14 +52489,14 @@
       "player_name": "Nicolás Otamendi",
       "xg": 0,
       "xa": 0.0190281,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 27
     },
     {
       "match_id": 12812996,
@@ -52504,14 +52504,14 @@
       "player_name": "Dan Burn",
       "xg": 0,
       "xa": 0,
-      "rating": 5.8,
+      "rating": 6,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 13
+      "minutes_played": 17
     },
     {
       "match_id": 12812996,
@@ -52526,7 +52526,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52534,14 +52534,14 @@
       "player_name": "Jordan Pickford",
       "xg": 0,
       "xa": 0.00145791,
-      "rating": 6.1,
+      "rating": 6.3,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52556,7 +52556,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 96
     },
     {
       "match_id": 12812996,
@@ -52586,7 +52586,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52601,7 +52601,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 27
     },
     {
       "match_id": 12812996,
@@ -52620,18 +52620,48 @@
     },
     {
       "match_id": 12812996,
+      "player_id": 290927,
+      "player_name": "Ivan Toney",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 3
+    },
+    {
+      "match_id": 12812996,
+      "player_id": 814590,
+      "player_name": "Marcus Rashford",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 3
+    },
+    {
+      "match_id": 12812996,
       "player_id": 822933,
       "player_name": "Gonzalo Montiel",
       "xg": 0,
       "xa": 0.00715714,
-      "rating": 6.3,
+      "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 27
     },
     {
       "match_id": 12812996,
@@ -52646,7 +52676,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 18
     },
     {
       "match_id": 12812996,
@@ -52654,14 +52684,14 @@
       "player_name": "Ezri Konsa",
       "xg": 0,
       "xa": 0,
-      "rating": 5.9,
+      "rating": 6,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 23
+      "minutes_played": 27
     },
     {
       "match_id": 12812996,
@@ -52676,7 +52706,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52729,14 +52759,14 @@
       "player_name": "Marc Guéhi",
       "xg": 0,
       "xa": 0.00686266,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52766,7 +52796,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52781,7 +52811,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 31
+      "minutes_played": 35
     },
     {
       "match_id": 12812996,
@@ -52811,7 +52841,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52826,7 +52856,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 96
     },
     {
       "match_id": 12812996,
@@ -52834,14 +52864,14 @@
       "player_name": "Morgan Rogers",
       "xg": 0.054731946438551,
       "xa": 0.366659,
-      "rating": 7,
+      "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52856,7 +52886,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52871,7 +52901,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52879,14 +52909,14 @@
       "player_name": "Elliot Anderson",
       "xg": 0,
       "xa": 0.015221,
-      "rating": 7.1,
+      "rating": 7.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 95
+      "minutes_played": 99
     },
     {
       "match_id": 12812996,
@@ -52909,14 +52939,14 @@
       "player_name": "Nico O'Reilly",
       "xg": 0,
       "xa": 0,
-      "rating": 6.3,
+      "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 13
+      "minutes_played": 17
     }
   ],
   "players_info": [
