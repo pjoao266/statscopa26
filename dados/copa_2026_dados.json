@@ -53035,52 +53035,52 @@
       "player_id": 96538,
       "player_name": "Lucas Digne",
       "xg": 0,
-      "xa": 0.00032917,
-      "rating": 6.6,
+      "xa": 0.00038867,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813003,
       "player_id": 191210,
       "player_name": "Mike Maignan",
       "xg": 0,
-      "xa": 0.00004807,
-      "rating": 5.4,
+      "xa": 0.00005815,
+      "rating": 6.1,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 250737,
       "player_name": "Adrien Rabiot",
       "xg": 0.059714712202549,
-      "xa": 0.011019,
-      "rating": 6.2,
+      "xa": 0.0111519,
+      "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 290927,
       "player_name": "Ivan Toney",
-      "xg": 0.015308531932533,
-      "xa": 0.00243038,
+      "xg": 0.11222312878817299,
+      "xa": 0.00250481,
       "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "CA",
@@ -53088,22 +53088,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 555386,
       "player_name": "Ollie Watkins",
       "xg": 0.049369648098946,
-      "xa": 0.000075,
-      "rating": 6.4,
+      "xa": 0.00007732,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-1-4-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813003,
@@ -53125,7 +53125,7 @@
       "player_id": 788134,
       "player_name": "Dean Henderson",
       "xg": 0,
-      "xa": 0.00049121,
+      "xa": 0.00049144,
       "rating": 7.1,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -53133,7 +53133,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
@@ -53141,14 +53141,14 @@
       "player_name": "Dayot Upamecano",
       "xg": 0,
       "xa": 0.00166573,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813003,
@@ -53170,7 +53170,7 @@
       "player_id": 818244,
       "player_name": "Ousmane Dembélé",
       "xg": 0,
-      "xa": 0.00635166,
+      "xa": 0.00641841,
       "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
@@ -53178,7 +53178,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813003,
@@ -53201,66 +53201,66 @@
       "player_name": "Kylian Mbappé",
       "xg": 1.078219102695581,
       "xa": 0.258207,
-      "rating": 8.4,
+      "rating": 8.2,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 827679,
       "player_name": "Ezri Konsa",
       "xg": 0.098998568952084,
-      "xa": 0.0024413,
-      "rating": 7.4,
+      "xa": 0.00244973,
+      "rating": 7.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 856714,
       "player_name": "Declan Rice",
       "xg": 0.044682547450066,
-      "xa": 0.0885269,
-      "rating": 9.2,
+      "xa": 0.272653,
+      "rating": 9.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 864921,
       "player_name": "Eberechi Eze",
       "xg": 0.05065124668181,
-      "xa": 0.417835,
-      "rating": 7.3,
+      "xa": 0.833813,
+      "rating": 7.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 877994,
       "player_name": "Marc Guéhi",
       "xg": 0,
-      "xa": 0.00198733,
+      "xa": 0.00382052,
       "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -53268,7 +53268,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
@@ -53276,66 +53276,66 @@
       "player_name": "Maxence Lacroix",
       "xg": 0,
       "xa": 0.00242894,
-      "rating": 6.8,
+      "rating": 7,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 934235,
       "player_name": "Bukayo Saka",
       "xg": 0.7060432955622581,
-      "xa": 0.204722,
-      "rating": 8.9,
+      "xa": 0.207196,
+      "rating": 8.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 945798,
       "player_name": "Djed Spence",
       "xg": 0,
-      "xa": 0.00302658,
-      "rating": 6.3,
+      "xa": 0.00990708,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 948261,
       "player_name": "Morgan Rogers",
       "xg": 0,
-      "xa": 0.0442857,
-      "rating": 6.7,
+      "xa": 0.0506992,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 978838,
       "player_name": "Michael Olise",
-      "xg": 0,
-      "xa": 0.421346,
+      "xg": 0.1176164150238,
+      "xa": 0.421834,
       "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -53343,7 +53343,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
@@ -53373,22 +53373,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813003,
       "player_id": 996958,
       "player_name": "Malo Gusto",
       "xg": 0,
-      "xa": 0.0134652,
-      "rating": 5.9,
+      "xa": 0.0135169,
+      "rating": 5.8,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
@@ -53396,29 +53396,29 @@
       "player_name": "Jarell Quansah",
       "xg": 0,
       "xa": 0.00329146,
-      "rating": 6.1,
+      "rating": 6.2,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
       "player_id": 1142672,
       "player_name": "Warren Zaïre-Emery",
       "xg": 0.016644969582558,
-      "xa": 0.0111038,
-      "rating": 6.2,
+      "xa": 0.0113692,
+      "rating": 6.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 59
+      "minutes_played": 64
     },
     {
       "match_id": 12813003,
