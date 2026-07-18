@@ -52988,14 +52988,14 @@
       "player_name": "Mike Maignan",
       "xg": 0,
       "xa": 0.00002203,
-      "rating": 5.8,
+      "rating": 5.9,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53003,14 +53003,14 @@
       "player_name": "Adrien Rabiot",
       "xg": 0,
       "xa": 0.00339079,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53025,7 +53025,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53033,14 +53033,14 @@
       "player_name": "Theo Hernández",
       "xg": 0,
       "xa": 0.0451766,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53055,7 +53055,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53063,14 +53063,14 @@
       "player_name": "Marcus Rashford",
       "xg": 0.12350833415985,
       "xa": 0.00418009,
-      "rating": 6.5,
+      "rating": 6.4,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53085,7 +53085,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53093,14 +53093,14 @@
       "player_name": "Kylian Mbappé",
       "xg": 0.049643503502010994,
       "xa": 0.113002,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53115,7 +53115,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53130,7 +53130,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53145,7 +53145,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53153,14 +53153,14 @@
       "player_name": "Marc Guéhi",
       "xg": 0,
       "xa": 0.00065612,
-      "rating": 7,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53175,7 +53175,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53190,7 +53190,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53198,14 +53198,14 @@
       "player_name": "Djed Spence",
       "xg": 0,
       "xa": 0.00120258,
-      "rating": 6.9,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53220,7 +53220,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53228,14 +53228,14 @@
       "player_name": "Michael Olise",
       "xg": 0,
       "xa": 0.0110187,
-      "rating": 6.6,
+      "rating": 6.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53250,7 +53250,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53258,14 +53258,14 @@
       "player_name": "Malo Gusto",
       "xg": 0,
       "xa": 0.00431965,
-      "rating": 6.4,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53273,14 +53273,14 @@
       "player_name": "Jarell Quansah",
       "xg": 0,
       "xa": 0.00256563,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53295,7 +53295,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     },
     {
       "match_id": 12813003,
@@ -53303,14 +53303,14 @@
       "player_name": "Désiré Doué",
       "xg": 0,
       "xa": 0.056204,
-      "rating": 5.7,
+      "rating": 5.8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 28
+      "minutes_played": 32
     }
   ],
   "players_info": [
