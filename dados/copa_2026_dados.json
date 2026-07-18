@@ -1024,7 +1024,7 @@
       "match_id": 12813003,
       "home": "France",
       "away": "England",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 4,
       "status": "2nd half",
       "round": "Match for 3rd place",
@@ -4618,7 +4618,7 @@
       "box_location": "Dentro da area",
       "is_home": false,
       "is_own_goal": false,
-      "is_winning_goal": true
+      "is_winning_goal": false
     },
     {
       "match_id": 12813003,
@@ -4630,7 +4630,7 @@
       "box_location": "Dentro da area",
       "is_home": false,
       "is_own_goal": false,
-      "is_winning_goal": false
+      "is_winning_goal": true
     },
     {
       "match_id": 12813003,
@@ -4650,6 +4650,18 @@
       "scorer_id": 826643,
       "scorer_name": "Kylian Mbappé",
       "assist_id": 978838,
+      "goal_type": "Bola rolando",
+      "box_location": "Dentro da area",
+      "is_home": true,
+      "is_own_goal": false,
+      "is_winning_goal": false
+    },
+    {
+      "match_id": 12813003,
+      "minute": "54",
+      "scorer_id": 996952,
+      "scorer_name": "Bradley Barcola",
+      "assist_id": 826643,
       "goal_type": "Bola rolando",
       "box_location": "Dentro da area",
       "is_home": true,
@@ -53031,14 +53043,14 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813003,
       "player_id": 191210,
       "player_name": "Mike Maignan",
       "xg": 0,
-      "xa": 0.00003213,
+      "xa": 0.00004807,
       "rating": 5.4,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -53046,22 +53058,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 250737,
       "player_name": "Adrien Rabiot",
-      "xg": 0.074141882359982,
-      "xa": 0.0106275,
-      "rating": 6.4,
+      "xg": 0.059714712202549,
+      "xa": 0.011019,
+      "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53076,7 +53088,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53091,7 +53103,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813003,
@@ -53113,15 +53125,15 @@
       "player_id": 788134,
       "player_name": "Dean Henderson",
       "xg": 0,
-      "xa": 0.00048099,
-      "rating": 7.2,
+      "xa": 0.00049121,
+      "rating": 7.1,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53136,7 +53148,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813003,
@@ -53159,14 +53171,14 @@
       "player_name": "Ousmane Dembélé",
       "xg": 0,
       "xa": 0.00635166,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813003,
@@ -53188,37 +53200,37 @@
       "player_id": 826643,
       "player_name": "Kylian Mbappé",
       "xg": 1.078219102695581,
-      "xa": 0.128405,
-      "rating": 8,
+      "xa": 0.258207,
+      "rating": 8.4,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 827679,
       "player_name": "Ezri Konsa",
       "xg": 0.098998568952084,
-      "xa": 0.00243898,
-      "rating": 7.7,
+      "xa": 0.0024413,
+      "rating": 7.4,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 856714,
       "player_name": "Declan Rice",
       "xg": 0.044682547450066,
-      "xa": 0.087947,
+      "xa": 0.0885269,
       "rating": 9.2,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -53226,44 +53238,44 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 864921,
       "player_name": "Eberechi Eze",
-      "xg": 0.096832594648004,
-      "xa": 0.417773,
-      "rating": 7.4,
+      "xg": 0.05065124668181,
+      "xa": 0.417835,
+      "rating": 7.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 877994,
       "player_name": "Marc Guéhi",
       "xg": 0,
-      "xa": 0.00194254,
-      "rating": 7,
+      "xa": 0.00198733,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 879674,
       "player_name": "Maxence Lacroix",
       "xg": 0,
-      "xa": 0.00241179,
+      "xa": 0.00242894,
       "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "ZAG",
@@ -53271,7 +53283,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53286,7 +53298,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53294,14 +53306,14 @@
       "player_name": "Djed Spence",
       "xg": 0,
       "xa": 0.00302658,
-      "rating": 6.6,
+      "rating": 6.3,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53316,22 +53328,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 978838,
       "player_name": "Michael Olise",
       "xg": 0,
-      "xa": 0.421036,
-      "rating": 7,
+      "xa": 0.421346,
+      "rating": 7.1,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53352,16 +53364,16 @@
       "match_id": 12813003,
       "player_id": 996952,
       "player_name": "Bradley Barcola",
-      "xg": 0,
-      "xa": 0.00038273,
-      "rating": 6.5,
+      "xg": 0.37273985147476,
+      "xa": 0.00039305,
+      "rating": 7.5,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813003,
@@ -53376,7 +53388,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -53384,21 +53396,21 @@
       "player_name": "Jarell Quansah",
       "xg": 0,
       "xa": 0.00329146,
-      "rating": 6.3,
+      "rating": 6.1,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-1-4-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
       "player_id": 1142672,
       "player_name": "Warren Zaïre-Emery",
       "xg": 0.016644969582558,
-      "xa": 0.0110634,
+      "xa": 0.0111038,
       "rating": 6.2,
       "nominal_position": "M",
       "detailed_position": "M",
@@ -53406,7 +53418,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 59
     },
     {
       "match_id": 12813003,
@@ -75214,11 +75226,6 @@
       "points": 3
     },
     {
-      "player_id": "827679",
-      "player_name": "Ezri Konsa",
-      "points": 3
-    },
-    {
       "player_id": "844096",
       "player_name": "Jhon Arias",
       "points": 3
@@ -75266,6 +75273,11 @@
     {
       "player_id": "922573",
       "player_name": "Gabriel Martinelli",
+      "points": 3
+    },
+    {
+      "player_id": "934235",
+      "player_name": "Bukayo Saka",
       "points": 3
     },
     {
