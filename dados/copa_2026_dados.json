@@ -53586,14 +53586,14 @@
       "player_name": "Lionel Messi",
       "xg": 0,
       "xa": 0.00937579,
-      "rating": 7.1,
+      "rating": 7.2,
       "nominal_position": "F",
       "detailed_position": "CA",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53601,14 +53601,14 @@
       "player_name": "Nicolás Otamendi",
       "xg": 0,
       "xa": 0.00136145,
-      "rating": 6.3,
+      "rating": 6.4,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 66
+      "minutes_played": 71
     },
     {
       "match_id": 12813005,
@@ -53638,7 +53638,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53653,7 +53653,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53683,7 +53683,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 65
+      "minutes_played": 70
     },
     {
       "match_id": 12813005,
@@ -53691,14 +53691,14 @@
       "player_name": "Mikel Merino",
       "xg": 0.23523303866386,
       "xa": 0.304618,
-      "rating": 6.9,
+      "rating": 7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 35
+      "minutes_played": 40
     },
     {
       "match_id": 12813005,
@@ -53736,14 +53736,14 @@
       "player_name": "Marc Cucurella",
       "xg": 0.029170446097851,
       "xa": 0.0507133,
-      "rating": 6.7,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "LE",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53758,7 +53758,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53833,7 +53833,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 8
+      "minutes_played": 13
     },
     {
       "match_id": 12813005,
@@ -53848,7 +53848,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 52
+      "minutes_played": 57
     },
     {
       "match_id": 12813005,
@@ -53863,7 +53863,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 48
+      "minutes_played": 53
     },
     {
       "match_id": 12813005,
@@ -53893,7 +53893,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 40
+      "minutes_played": 45
     },
     {
       "match_id": 12813005,
@@ -53908,7 +53908,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 11
+      "minutes_played": 16
     },
     {
       "match_id": 12813005,
@@ -53916,14 +53916,14 @@
       "player_name": "Alexis Mac Allister",
       "xg": 0,
       "xa": 0.005615,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53968,7 +53968,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -53991,14 +53991,14 @@
       "player_name": "Martín Zubimendi",
       "xg": 0,
       "xa": 0.017003,
-      "rating": 6.5,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 11
+      "minutes_played": 16
     },
     {
       "match_id": 12813005,
@@ -54006,7 +54006,7 @@
       "player_name": "Enzo Fernández",
       "xg": 0,
       "xa": 0.00393927,
-      "rating": 6.1,
+      "rating": 6,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
@@ -54021,14 +54021,14 @@
       "player_name": "Pedri",
       "xg": 0.044712103903294,
       "xa": 0.47389,
-      "rating": 7.4,
+      "rating": 7.3,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 48
+      "minutes_played": 53
     },
     {
       "match_id": 12813005,
@@ -54036,14 +54036,14 @@
       "player_name": "Nico Williams",
       "xg": 0.35443550534546103,
       "xa": 0.309956,
-      "rating": 6.8,
+      "rating": 6.7,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 35
+      "minutes_played": 40
     },
     {
       "match_id": 12813005,
@@ -54058,7 +54058,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 40
+      "minutes_played": 45
     },
     {
       "match_id": 12813005,
@@ -54073,7 +54073,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     },
     {
       "match_id": 12813005,
@@ -54088,7 +54088,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 110
+      "minutes_played": 115
     }
   ],
   "players_info": [
