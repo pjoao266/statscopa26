@@ -53581,7 +53581,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53596,22 +53596,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 40
+      "minutes_played": 45
     },
     {
       "match_id": 12813005,
       "player_id": 149734,
       "player_name": "Aymeric Laporte",
       "xg": 0.10895594209433,
-      "xa": 0.0159161,
-      "rating": 6.8,
+      "xa": 0.0168787,
+      "rating": 6.9,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53626,22 +53626,22 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
       "player_id": 158263,
       "player_name": "Emiliano Martínez",
       "xg": 0,
-      "xa": 0.00066887,
-      "rating": 8.7,
+      "xa": 0.00082214,
+      "rating": 8.8,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53671,22 +53671,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 39
+      "minutes_played": 44
     },
     {
       "match_id": 12813005,
       "player_id": 592010,
       "player_name": "Mikel Merino",
       "xg": 0,
-      "xa": 0.021226,
-      "rating": 6.8,
+      "xa": 0.258359,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813005,
@@ -53723,7 +53723,7 @@
       "player_id": 794939,
       "player_name": "Marc Cucurella",
       "xg": 0.029170446097851,
-      "xa": 0.026268,
+      "xa": 0.0293194,
       "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LE",
@@ -53731,14 +53731,14 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
       "player_id": 797291,
       "player_name": "Unai Simón",
       "xg": 0,
-      "xa": 0.00005198,
+      "xa": 0.00007289,
       "rating": 6.5,
       "nominal_position": "G",
       "detailed_position": "GL",
@@ -53746,7 +53746,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53783,15 +53783,15 @@
       "player_id": 827606,
       "player_name": "Rodri",
       "xg": 0,
-      "xa": 0.0769579,
-      "rating": 7.8,
+      "xa": 0.0908123,
+      "rating": 8,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53814,29 +53814,29 @@
       "player_name": "Nahuel Molina",
       "xg": 0,
       "xa": 0.00044052,
-      "rating": 6.6,
+      "rating": 6.8,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 26
+      "minutes_played": 31
     },
     {
       "match_id": 12813005,
       "player_id": 855833,
       "player_name": "Ferran Torres",
-      "xg": 0.17637234926224,
+      "xg": 0.29442888498306996,
       "xa": 0.0128698,
-      "rating": 6.7,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 22
+      "minutes_played": 27
     },
     {
       "match_id": 12813005,
@@ -53859,14 +53859,14 @@
       "player_name": "Facundo Medina",
       "xg": 0,
       "xa": 0.00017821,
-      "rating": 6.5,
+      "rating": 6.6,
       "nominal_position": "D",
       "detailed_position": "D",
       "formation": "4-4-2",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813005,
@@ -53874,14 +53874,14 @@
       "player_name": "Alexis Mac Allister",
       "xg": 0,
       "xa": 0.00522917,
-      "rating": 6.6,
+      "rating": 6.7,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53918,15 +53918,15 @@
       "player_id": 913654,
       "player_name": "Pedro Porro",
       "xg": 0,
-      "xa": 0.0202953,
-      "rating": 6.6,
+      "xa": 0.0243961,
+      "rating": 6.5,
       "nominal_position": "D",
       "detailed_position": "LD",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53941,7 +53941,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
@@ -53956,37 +53956,37 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
       "player_id": 992587,
       "player_name": "Pedri",
       "xg": 0.044712103903294,
-      "xa": 0.0311153,
-      "rating": 6.8,
+      "xa": 0.0367558,
+      "rating": 6.9,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 22
+      "minutes_played": 27
     },
     {
       "match_id": 12813005,
       "player_id": 1085400,
       "player_name": "Nico Williams",
       "xg": 0,
-      "xa": 0.20362,
-      "rating": 6.7,
+      "xa": 0.205372,
+      "rating": 6.6,
       "nominal_position": "F",
       "detailed_position": "F",
       "formation": "4-2-3-1",
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 9
+      "minutes_played": 14
     },
     {
       "match_id": 12813005,
@@ -54001,37 +54001,37 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 14
+      "minutes_played": 19
     },
     {
       "match_id": 12813005,
       "player_id": 1402912,
       "player_name": "Lamine Yamal",
       "xg": 0.135442413389686,
-      "xa": 0.151837,
-      "rating": 7.1,
+      "xa": 0.172697,
+      "rating": 7.2,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     },
     {
       "match_id": 12813005,
       "player_id": 1402913,
       "player_name": "Pau Cubarsí",
       "xg": 0.029379157349467,
-      "xa": 0.0625895,
-      "rating": 7.4,
+      "xa": 0.0795048,
+      "rating": 7.5,
       "nominal_position": "D",
       "detailed_position": "ZAG",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 84
+      "minutes_played": 89
     }
   ],
   "players_info": [
