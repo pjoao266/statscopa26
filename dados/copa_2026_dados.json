@@ -53581,7 +53581,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53596,7 +53596,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 30
+      "minutes_played": 32
     },
     {
       "match_id": 12813005,
@@ -53611,7 +53611,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53626,7 +53626,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53641,7 +53641,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53671,7 +53671,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 29
+      "minutes_played": 31
+    },
+    {
+      "match_id": 12813005,
+      "player_id": 592010,
+      "player_name": "Mikel Merino",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "M",
+      "detailed_position": "M",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12813005,
@@ -53701,7 +53716,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 75
     },
     {
       "match_id": 12813005,
@@ -53716,7 +53731,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53731,7 +53746,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53776,7 +53791,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53806,7 +53821,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 16
+      "minutes_played": 18
     },
     {
       "match_id": 12813005,
@@ -53821,7 +53836,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 12
+      "minutes_played": 14
     },
     {
       "match_id": 12813005,
@@ -53851,7 +53866,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 6
     },
     {
       "match_id": 12813005,
@@ -53866,7 +53881,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53889,14 +53904,14 @@
       "player_name": "Alex Baena",
       "xg": 0.077400766313076,
       "xa": 0.0248323,
-      "rating": 6.6,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 75
     },
     {
       "match_id": 12813005,
@@ -53911,7 +53926,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53926,7 +53941,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53941,7 +53956,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -53956,7 +53971,22 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 12
+      "minutes_played": 14
+    },
+    {
+      "match_id": 12813005,
+      "player_id": 1085400,
+      "player_name": "Nico Williams",
+      "xg": 0,
+      "xa": 0,
+      "rating": null,
+      "nominal_position": "F",
+      "detailed_position": "F",
+      "formation": "4-2-3-1",
+      "is_starter": false,
+      "average_x": null,
+      "average_y": null,
+      "minutes_played": 1
     },
     {
       "match_id": 12813005,
@@ -53971,7 +54001,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 4
+      "minutes_played": 6
     },
     {
       "match_id": 12813005,
@@ -53986,7 +54016,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     },
     {
       "match_id": 12813005,
@@ -54001,7 +54031,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 74
+      "minutes_played": 76
     }
   ],
   "players_info": [
