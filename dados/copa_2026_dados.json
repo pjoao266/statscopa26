@@ -1036,7 +1036,7 @@
       "away": "Argentina",
       "home_score": 0,
       "away_score": 0,
-      "status": "Awaiting extra time",
+      "status": "1st extra",
       "round": "Final",
       "roundStage": "Fase Eliminatória"
     }
@@ -53581,7 +53581,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53596,7 +53596,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 55
+      "minutes_played": 46
     },
     {
       "match_id": 12813005,
@@ -53611,7 +53611,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53626,7 +53626,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53634,14 +53634,14 @@
       "player_name": "Emiliano Martínez",
       "xg": 0,
       "xa": 0.00082214,
-      "rating": 9.3,
+      "rating": 9.5,
       "nominal_position": "G",
       "detailed_position": "GL",
       "formation": "4-4-2",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53671,7 +53671,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 54
+      "minutes_played": 45
     },
     {
       "match_id": 12813005,
@@ -53686,7 +53686,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 24
+      "minutes_played": 15
     },
     {
       "match_id": 12813005,
@@ -53731,7 +53731,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53746,7 +53746,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53791,7 +53791,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53821,7 +53821,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 41
+      "minutes_played": 32
     },
     {
       "match_id": 12813005,
@@ -53836,7 +53836,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 37
+      "minutes_played": 28
     },
     {
       "match_id": 12813005,
@@ -53866,7 +53866,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 29
+      "minutes_played": 20
     },
     {
       "match_id": 12813005,
@@ -53881,7 +53881,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53926,7 +53926,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53941,7 +53941,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -53949,7 +53949,7 @@
       "player_name": "Enzo Fernández",
       "xg": 0,
       "xa": 0.00393927,
-      "rating": 6.3,
+      "rating": 6.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-4-2",
@@ -53971,7 +53971,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 37
+      "minutes_played": 28
     },
     {
       "match_id": 12813005,
@@ -53986,7 +53986,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 24
+      "minutes_played": 15
     },
     {
       "match_id": 12813005,
@@ -54001,7 +54001,7 @@
       "is_starter": false,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 29
+      "minutes_played": 20
     },
     {
       "match_id": 12813005,
@@ -54009,14 +54009,14 @@
       "player_name": "Lamine Yamal",
       "xg": 0.21033124625683197,
       "xa": 0.172697,
-      "rating": 7.2,
+      "rating": 7.5,
       "nominal_position": "M",
       "detailed_position": "M",
       "formation": "4-2-3-1",
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     },
     {
       "match_id": 12813005,
@@ -54031,7 +54031,7 @@
       "is_starter": true,
       "average_x": null,
       "average_y": null,
-      "minutes_played": 99
+      "minutes_played": 90
     }
   ],
   "players_info": [
