@@ -73356,6 +73356,24 @@
       "club_league_id": 54
     },
     {
+      "player_id": "1163991",
+      "name": "Manaf Younis",
+      "country": {
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "name": "Iraq",
+        "slug": "iraq"
+      },
+      "age": 29,
+      "height": 189,
+      "weight": 84,
+      "club": "Duhok SC",
+      "club_id": 47479,
+      "club_country": "Iraq",
+      "club_league": "Iraq Stars League",
+      "club_league_id": 24040
+    },
+    {
       "player_id": "1165681",
       "name": "Ruslanbek Jiyanov",
       "country": {
