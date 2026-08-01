@@ -72041,6 +72041,22 @@
       "club_league_id": 8
     },
     {
+      "player_id": "1104925",
+      "name": "Lee Gi-hyuk",
+      "country": {
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "name": "South Korea",
+        "slug": "south-korea"
+      },
+      "age": null,
+      "club": "Gangwon FC",
+      "club_id": 34220,
+      "club_country": "South Korea",
+      "club_league": "K League 1",
+      "club_league_id": 410
+    },
+    {
       "player_id": "1105688",
       "name": "José Córdoba",
       "country": {
@@ -73679,6 +73695,23 @@
       "club_country": "Australia",
       "club_league": "A-League Men",
       "club_league_id": 136
+    },
+    {
+      "player_id": "1177557",
+      "name": "Kevin Quejada",
+      "country": {
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "name": "Cape Verde",
+        "slug": "cape-verde"
+      },
+      "age": 23,
+      "height": 187,
+      "club": "FC Krasnodar",
+      "club_id": 34425,
+      "club_country": "Russia",
+      "club_league": "Russian Premier League",
+      "club_league_id": 203
     },
     {
       "player_id": "1177807",
