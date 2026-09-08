@@ -56734,6 +56734,23 @@
       "club_league_id": 17
     },
     {
+      "player_id": "243713",
+      "name": "Josip Mišić",
+      "country": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "slug": "croatia"
+      },
+      "age": 32,
+      "height": 187,
+      "club": "GNK Dinamo Zagreb",
+      "club_id": 2032,
+      "club_country": "Croatia",
+      "club_league": "HNL",
+      "club_league_id": 170
+    },
+    {
       "player_id": "248331",
       "name": "Brandon Mechele",
       "country": {
@@ -59757,6 +59774,24 @@
       "club_country": "Uzbekistan",
       "club_league": "Uzbekistan Super League",
       "club_league_id": 772
+    },
+    {
+      "player_id": "791642",
+      "name": "Josip Juranović",
+      "country": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "slug": "croatia"
+      },
+      "age": 31,
+      "height": 173,
+      "weight": 68,
+      "club": "1. FC Union Berlin",
+      "club_id": 2547,
+      "club_country": "Germany",
+      "club_league": "Bundesliga",
+      "club_league_id": 35
     },
     {
       "player_id": "791702",
@@ -68243,6 +68278,23 @@
       "club_league_id": 17
     },
     {
+      "player_id": "974581",
+      "name": "Ivan Smolčić",
+      "country": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "slug": "croatia"
+      },
+      "age": 26,
+      "height": 181,
+      "club": "Como",
+      "club_id": 2704,
+      "club_country": "Italy",
+      "club_league": "Serie A",
+      "club_league_id": 23
+    },
+    {
       "player_id": "974747",
       "name": "Abdallah Al-Fakhouri",
       "country": {
@@ -69489,6 +69541,23 @@
       "club_country": "Germany",
       "club_league": "Bundesliga",
       "club_league_id": 35
+    },
+    {
+      "player_id": "995773",
+      "name": "Dion Drena Beljo",
+      "country": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "slug": "croatia"
+      },
+      "age": 24,
+      "height": 195,
+      "club": "GNK Dinamo Zagreb",
+      "club_id": 2032,
+      "club_country": "Croatia",
+      "club_league": "HNL",
+      "club_league_id": 170
     },
     {
       "player_id": "996805",
@@ -71953,6 +72022,23 @@
       "club_country": "Portugal",
       "club_league": "Liga Portugal Betclic",
       "club_league_id": 238
+    },
+    {
+      "player_id": "1103333",
+      "name": "Franjo Ivanović",
+      "country": {
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "name": "Croatia",
+        "slug": "croatia"
+      },
+      "age": 22,
+      "height": 185,
+      "club": "RC Lens",
+      "club_id": 1648,
+      "club_country": "France",
+      "club_league": "Ligue 1",
+      "club_league_id": 34
     },
     {
       "player_id": "1103488",
